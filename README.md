@@ -37,7 +37,7 @@ Nimotuzumab-cisplatin-radiation versus cisplatin-radiation in HPV negative oroph
 . 2020 Jan 28;11(4):399-408. doi: 10.18632/oncotarget.27443.[2020B.pdf](https://github.com/AtanuBhattacharjee/github.io/files/4716284/2020B.pdf)
 
 10.Vanita Noronha,Atanu Bhattacharjee,Vijay M Patil,Amit Joshi,Nandini Menon,Srushti Shah,Sadhana Kannan,Sadaf A Mukadam, Kamesh Maske, Sandeep Ishi, Kumar Prabhash.Aprepitant for Cough Suppression in Advanced Lung Cancer: A Randomized Trial.Chest
-. 2020 Jan 18;S0012-3692(20)30032-5. doi: 10.1016/j.chest.2019.11.048. [2020C.pdf](https://github.com/AtanuBhattacharjee/github.io/files/4716290/2020C.pdf)
+. 2020 Jan 18;S0012-3692(20)30032-5. doi: 10.1016/j.chest.2019.11.048. [2020C.pdf](https://github.com/AtanuBhattacharjee/github.io/files/4716484/2020C.pdf).
 
 11.Vijay Maruti Patil,Vanita Noronha,Shivakumar Thiagarajan,Amit Joshi,Arun Chandrasekharan,Vikas Talreja,Jaiprakash Agarwal,Sarbani Ghosh-Laskar,Ashwini Budrukkar,Shashikant Juvekar,Abhishek Mahajan,Archi Agarwal,Nilendu Purandare,Atanu Bhattacharjee, Anil K D'Cruz, Pankaj Chaturvedi,Prathamesh S Pai 2,Devendra Chaukar,Kumar Prabhash.Salvage surgery in head and neck cancer: Does it improve outcomes?Eur J Surg Oncol. 2020 Jan 15;S0748-7983(20)30024-X. doi: 10.1016/j.ejso.2020.01.019.[2020D.pdf](https://github.com/AtanuBhattacharjee/github.io/files/4716296/2020D.pdf)
 
