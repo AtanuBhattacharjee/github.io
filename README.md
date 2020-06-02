@@ -66,32 +66,38 @@ Clinical Epidemiology and Global Health.2019.7(3).337-341.
 ## [2018]
 ## [2017]
 ## [2016]
-1.VM Patil,S Chakraborty,TK Jithin, S Dessai, TP Sajith Babu,V Raghavan, M Geetha, T Shiva Kumar, MS Biji, A Bhattacharjee, C Nair.Development and validation of a questionnaire to measure preferences and expectations of patients undergoing palliative chemotherapy: EXPECT questionnaire.Indian Journal of Cancer.2016;53(2),339-344.[2016A.pdf](https://github.com/AtanuBhattacharjee/github.io/files/4716367/2016A.pdf)
-2.SB Dessai,VM Patil,S Chakraborty,S Babu,A Bhattacharjee,S Nayanar,S Vikram, S Balasubramanian.An audit of cytoreductive surgeries in ovarian cancer from a rural based cancer center.Indian Journal of Cancer.2016;53(2),284-287.[2016B.pdf](https://github.com/AtanuBhattacharjee/github.io/files/4716368/2016B.pdf)
+1.VM Patil,S Chakraborty,TK Jithin, S Dessai, TP Sajith Babu,V Raghavan, M Geetha, T Shiva Kumar, MS Biji, A Bhattacharjee, C Nair.Development and validation of a questionnaire to measure preferences and expectations of patients undergoing palliative chemotherapy: EXPECT questionnaire.Indian Journal of Cancer.2016;53(2),339-344.[2016A.pdf](https://github.com/AtanuBhattacharjee/github.io/files/4716367/2016A.pdf).
+
+2.SB Dessai,VM Patil,S Chakraborty,S Babu,A Bhattacharjee,S Nayanar,S Vikram, S Balasubramanian.An audit of cytoreductive surgeries in ovarian cancer from a rural based cancer center.Indian Journal of Cancer.2016;53(2),284-287.[2016B.pdf](https://github.com/AtanuBhattacharjee/github.io/files/4716368/2016B.pdf).
+
 3.VM Patil,S Chakraborty,TK Jithin,S Dessai,TP Sajith Babu,V Raghavan,M Geetha,T Shiva Kumar,MS Biji,A
 Bhattacharjee, C Nair.Development and validation of a questionnaire to measure preferences and
-expectations of patients undergoing palliative chemotherapy: EXPECT questionnaire.Indian Journal of Cancer.2016;53(2),339-344.[2016C.pdf](https://github.com/AtanuBhattacharjee/github.io/files/4716369/2016C.pdf)
+expectations of patients undergoing palliative chemotherapy: EXPECT questionnaire.Indian Journal of Cancer.2016;53(2),339-344.[2016C.pdf](https://github.com/AtanuBhattacharjee/github.io/files/4716369/2016C.pdf).
+
 4.Vijay M. Pati, Vanita Noronha, Amit Joshi, Saurabh Zanwar, Anant Ramaswamy, Supreeta Arya, Abhishek Mahajan,
 Atanu Bhattacharjee, Kumar Prabhash.Dihydropyrimidine dehydrogenase mutation in neoadjuvant chemotherapy
-in head and neck cancers: Myth or reality?[2016D.pdf](https://github.com/AtanuBhattacharjee/github.io/files/4716370/2016D.pdf)
+in head and neck cancers: Myth or reality?[2016D.pdf](https://github.com/AtanuBhattacharjee/github.io/files/4716370/2016D.pdf).
+
 5.Atanu Bhattacharjee,Vijay M. Patil.Time-Dependent Area Under the ROC Curve
-for Optimum Biological Dose Detection.Turkiye Klinikleri J Biostat 2016;8(2):103-9.[2016E.pdf](https://github.com/AtanuBhattacharjee/github.io/files/4716371/2016E.pdf)
+for Optimum Biological Dose Detection.Turkiye Klinikleri J Biostat 2016;8(2):103-9.[2016E.pdf](https://github.com/AtanuBhattacharjee/github.io/files/4716371/2016E.pdf).
+
 6.SB Dessai, S Chakraborty, TVS Babu, S Nayanar, A Bhattacharjee,J Jones,S Balasubramanian,VM Patil,Tolerance of weekly paclitaxel and carboplatin as neoadjuvant chemotherapy in advanced
-ovarian cancer patients who are unlikely to tolerate 3 weekly paclitaxel and carboplatin.Indian Journal of Cancer.2016;53(2),280-283.[2016F.pdf](https://github.com/AtanuBhattacharjee/github.io/files/4716372/2016F.pdf)
+ovarian cancer patients who are unlikely to tolerate 3 weekly paclitaxel and carboplatin.Indian Journal of Cancer.2016;53(2),280-283.[2016F.pdf](https://github.com/AtanuBhattacharjee/github.io/files/4716372/2016F.pdf).
+
 7.Vijay M. Patil,Vanita Noronha,Amit Joshi,Vamshi Muddu,Sachin Dhumal,Atanu Bhattacharjee,Kumar Prabhash.Compliance With Neoadjuvant
 Chemotherapy in T4 Oral Cancers:Place, Person, Socioeconomic Status, or
-Assistance(2015).JGO – Journal of Global Oncology.1(2).[2016G.pdf](https://github.com/AtanuBhattacharjee/github.io/files/4716373/2016G.pdf)
-8.Vijay Patil,Amit Joshi, Vanita Noronha,
-Jayita Deodhar,Atanu Bhattacharjee,Sachin Dhumal,
-M.V.K. Chandrakanth,Ashay Karpe,Vikas Talreja,
-Arun Chandrasekharan,Siddharth Turkar,Anant Ramaswamy,
-Kumar Prabhash.Oral Oncology 63 (2016) 10–15.Expectations and preferences for palliative chemotherapy in head and
-neck cancers patients[2016H.pdf](https://github.com/AtanuBhattacharjee/github.io/files/4716374/2016H.pdf)
+Assistance(2015).JGO – Journal of Global Oncology.1(2).[2016G.pdf](https://github.com/AtanuBhattacharjee/github.io/files/4716373/2016G.pdf).
+
+8.Vijay Patil,Amit Joshi, Vanita Noronha,Jayita Deodhar,Atanu Bhattacharjee,Sachin Dhumal,M.V.K. Chandrakanth,Ashay Karpe,Vikas Talreja,
+Arun Chandrasekharan,Siddharth Turkar,Anant Ramaswamy,Kumar Prabhash.Oral Oncology 63 (2016) 10–15.Expectations and preferences for palliative chemotherapy in head and neck cancers patients[2016H.pdf](https://github.com/AtanuBhattacharjee/github.io/files/4716374/2016H.pdf).
+
 9.Ramesh K. Vishwakarma,Dilip C. Nath,Atanu Bhattaharjee.Working Correlation Structures:Application in Liver Cirrhosis
-Therapeutic Effect Trial.Turkiye Klinikleri J Biostat 2016;8(2):116-24.[2016I.pdf](https://github.com/AtanuBhattacharjee/github.io/files/4716375/2016I.pdf)
+Therapeutic Effect Trial.Turkiye Klinikleri J Biostat 2016;8(2):116-24.[2016I.pdf](https://github.com/AtanuBhattacharjee/github.io/files/4716375/2016I.pdf).
+
 10.Dilip C. Nath, Ramesh K. Vishwakarma, Atanu Bhattacharjee.A selection modelling approach to analysing missing data
 of liver Cirrhosis patients.Biometrical Letters
-Vol. 53 (2016), No. 2, 83-103[2016J.pdf](https://github.com/AtanuBhattacharjee/github.io/files/4716378/2016J.pdf)
+Vol. 53 (2016), No. 2, 83-103[2016J.pdf](https://github.com/AtanuBhattacharjee/github.io/files/4716378/2016J.pdf).
+
 11.Niranjan Gopal,Bidhan Chandra Koner,Atanu Bhattacharjee, Vishnu Bhat.Assay of Urinary Protein-Bound Sialic Acid can Differentiate Steroid-Sensitive Nephrotic Syndrome from Steroid-Resistant Cases.Saudi J Kidney Dis Transpl 2016;27(1):37-40.[2016K.pdf](https://github.com/AtanuBhattacharjee/github.io/files/4716379/2016K.pdf)
 
 ## [2015]
