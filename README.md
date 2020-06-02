@@ -49,6 +49,8 @@ Clinical Epidemiology and Global Health.2019.7(3).337-341.
 
 ## [2011]
 Bhattacharjee A, Bhattacharjee D. A Bayesian Approach to Compare the Statewise Dengue Death Counts in India. International Journal of Collaborative Research on Internal Medicine & Public Health. 2011; 3(10):715-723.[20200602100511.pdf](https://github.com/AtanuBhattacharjee/github.io/files/4714786/20200602100511.pdf)
+Dilip C. Nath and Atanu Bhattacharjee. Comparison of the tetrachoric correlation coefficients and odds in generalized estimating equation with Bayesian approach: an application in type 2 diabetes patients data.2011;5(2):97-108.
+[20200602101224.pdf](https://github.com/AtanuBhattacharjee/github.io/files/4714806/20200602101224.pdf)
 
 ## Book Publication
 1.Atanu Bhattacharjee (2021).Bayesian Approaches in Oncology Using R and OpenBUGS.(In press).CRC press.
