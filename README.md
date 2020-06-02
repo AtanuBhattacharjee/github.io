@@ -65,16 +65,18 @@ Clinical Epidemiology and Global Health.2019.7(3).337-341.
 15. Atanu Bhattacharjee, Gaurav Roy, Atul Budukh, Rajesh Dikshit, Vijay M Patil, Amit Joshi, Vanita Noronha, Kumar Prabash, Papai Roy A competing risk analysis of death patterns in male genitourinary cancer.(2019).Cancer Reports, e1174.
 ## [2018]
  
-[2018A.pdf](https://github.com/AtanuBhattacharjee/github.io/files/4716508/2018A.pdf)
-[2018B.pdf](https://github.com/AtanuBhattacharjee/github.io/files/4716509/2018B.pdf)
-[2018C.pdf](https://github.com/AtanuBhattacharjee/github.io/files/4716510/2018C.pdf)
-[2018D.pdf](https://github.com/AtanuBhattacharjee/github.io/files/4716512/2018D.pdf)
-[2018E.pdf](https://github.com/AtanuBhattacharjee/github.io/files/4716514/2018E.pdf)
-[2018F.pdf](https://github.com/AtanuBhattacharjee/github.io/files/4716515/2018F.pdf)
-[2018G.pdf](https://github.com/AtanuBhattacharjee/github.io/files/4716516/2018G.pdf)
-[2018H.pdf](https://github.com/AtanuBhattacharjee/github.io/files/4716519/2018H.pdf)
-[2018I.pdf](https://github.com/AtanuBhattacharjee/github.io/files/4716520/2018I.pdf)
-[2018K.pdf](https://github.com/AtanuBhattacharjee/github.io/files/4716521/2018K.pdf)
+1.Atanu Bhattacharjee,Gajendra K. Vishwakarma,Abin Thomas.Bayesian state-space modeling in gene expression data analysis: An
+application with biomarker prediction.2018;Mathematical Biosciences.2018 Nov;305:96-101. doi: 10.1016/j.mbs.2018.08.011. Epub 2018 Sep 5.[2018A.pdf](https://github.com/AtanuBhattacharjee/github.io/files/4716508/2018A.pdf)
+
+2.[2018B.pdf](https://github.com/AtanuBhattacharjee/github.io/files/4716509/2018B.pdf)
+3.[2018C.pdf](https://github.com/AtanuBhattacharjee/github.io/files/4716510/2018C.pdf)
+4.[2018D.pdf](https://github.com/AtanuBhattacharjee/github.io/files/4716512/2018D.pdf)
+5.[2018E.pdf](https://github.com/AtanuBhattacharjee/github.io/files/4716514/2018E.pdf)
+6.[2018F.pdf](https://github.com/AtanuBhattacharjee/github.io/files/4716515/2018F.pdf)
+7.[2018G.pdf](https://github.com/AtanuBhattacharjee/github.io/files/4716516/2018G.pdf)
+8.[2018H.pdf](https://github.com/AtanuBhattacharjee/github.io/files/4716519/2018H.pdf)
+9.[2018I.pdf](https://github.com/AtanuBhattacharjee/github.io/files/4716520/2018I.pdf)
+10. Nair CK, Raghavan V, Bhattacharjee A, Kurup AR. Impact of early reduction in paraprotein on survival in transplant ineligible myeloma: Lesson from a tertiary cancer center in rural India.Amit Joshi, Vijay Patil, Vanita Noronha, Anuradha Chougule, Atanu Bhattacharjee, Rajiv Kumar, Supriya Goud, Sucheta More, Anant Ramaswamy, Ashay Karpe, Nikhil Pande, Arun Chandrasekharan, Alok Goel, Vikas Talreja, Abhishek Mahajan, Amit Janu, Nilendu Purandare, Kumar Prabhash: Efficacy of gefitinib in epidermal growth factor receptor-activating mutation-positive nonsmall cell lung cancer: Does exon 19 deletion differ from exon 21 mutation?. Lung India 01/2018; 35(1):27., DOI:10.4103/lungindia.lungindia_201_17. [2018K.pdf](https://github.com/AtanuBhattacharjee/github.io/files/4716521/2018K.pdf)
 ## [2017]
 ## [2016-2014]
 1.VM Patil,S Chakraborty,TK Jithin, S Dessai, TP Sajith Babu,V Raghavan, M Geetha, T Shiva Kumar, MS Biji, A Bhattacharjee, C Nair.Development and validation of a questionnaire to measure preferences and expectations of patients undergoing palliative chemotherapy: EXPECT questionnaire.Indian Journal of Cancer.2016;53(2),339-344.[2016A.pdf](https://github.com/AtanuBhattacharjee/github.io/files/4716367/2016A.pdf).
