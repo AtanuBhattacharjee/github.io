@@ -76,7 +76,7 @@ Clinical Epidemiology and Global Health.2019.7(3).337-341.
 [2018I.pdf](https://github.com/AtanuBhattacharjee/github.io/files/4716520/2018I.pdf)
 [2018K.pdf](https://github.com/AtanuBhattacharjee/github.io/files/4716521/2018K.pdf)
 ## [2017]
-## [2016]
+## [2016-2011]
 1.VM Patil,S Chakraborty,TK Jithin, S Dessai, TP Sajith Babu,V Raghavan, M Geetha, T Shiva Kumar, MS Biji, A Bhattacharjee, C Nair.Development and validation of a questionnaire to measure preferences and expectations of patients undergoing palliative chemotherapy: EXPECT questionnaire.Indian Journal of Cancer.2016;53(2),339-344.[2016A.pdf](https://github.com/AtanuBhattacharjee/github.io/files/4716367/2016A.pdf).
 
 2.SB Dessai,VM Patil,S Chakraborty,S Babu,A Bhattacharjee,S Nayanar,S Vikram, S Balasubramanian.An audit of cytoreductive surgeries in ovarian cancer from a rural based cancer center.Indian Journal of Cancer.2016;53(2),284-287.[2016B.pdf](https://github.com/AtanuBhattacharjee/github.io/files/4716368/2016B.pdf).
@@ -111,48 +111,46 @@ Vol. 53 (2016), No. 2, 83-103[2016J.pdf](https://github.com/AtanuBhattacharjee/g
 
 11.Niranjan Gopal,Bidhan Chandra Koner,Atanu Bhattacharjee, Vishnu Bhat.Assay of Urinary Protein-Bound Sialic Acid can Differentiate Steroid-Sensitive Nephrotic Syndrome from Steroid-Resistant Cases.Saudi J Kidney Dis Transpl 2016;27(1):37-40.[2016K.pdf](https://github.com/AtanuBhattacharjee/github.io/files/4716379/2016K.pdf)
 
-## [2015]
-1.Efficacy of second-line erlotinib in patients postprogression of first-line chemotherapy in
+12.Efficacy of second-line erlotinib in patients postprogression of first-line chemotherapy in
 head and neck cancers.2015;52(4).629-631.[2015A.pdf](https://github.com/AtanuBhattacharjee/github.io/files/4715124/2015A.pdf)
 
-2.S. Kane,V.M. Patily,A. Joshi,V. Noronha,V. Muddu,S. Dhumal,S. Juvekar,S. Arya,A. D’Cruz,A. Bhattacharjee,K. Prabhash.[2015B.pdf](https://github.com/AtanuBhattacharjee/github.io/files/4715125/2015B.pdf)
+13.S. Kane,V.M. Patily,A. Joshi,V. Noronha,V. Muddu,S. Dhumal,S. Juvekar,S. Arya,A. D’Cruz,A. Bhattacharjee,K. Prabhash.[2015B.pdf](https://github.com/AtanuBhattacharjee/github.io/files/4715125/2015B.pdf)
 
-3.Neoadjuvant Chemotherapy in Technically Unresectable Oral Cancers:
+14.Neoadjuvant Chemotherapy in Technically Unresectable Oral Cancers:
 Does Human Papillomavirus Make a Difference?Clinical Oncology xxx (2015) 1e2.[2015C.pdf](https://github.com/AtanuBhattacharjee/github.io/files/4715128/2015C.pdf)
 
-4.Dilip C Nath,Atanu Bhattacharjee and Ramesh K Vishwakarma.The Cure Rate Modeling: An Application with Bayesian approach in Liver
+15.Dilip C Nath,Atanu Bhattacharjee and Ramesh K Vishwakarma.The Cure Rate Modeling: An Application with Bayesian approach in Liver
 Cirrhosis Patients.Journal of Data Science 13(2015), 421-442.[2015D.pdf](https://github.com/AtanuBhattacharjee/github.io/files/4715129/2015D.pdf)
 
-5.Atanu Bhattacharjee,and Tapesh Bhattacharyya.Bayesian Concordance Correlation Coefficient with Application to Repeatedly Measured Data.Turkiye Klinikleri J Biostat 2015;7(2):55-62 [2015E.pdf](https://github.com/AtanuBhattacharjee/github.io/files/4715130/2015E.pdf).
+16.Atanu Bhattacharjee,and Tapesh Bhattacharyya.Bayesian Concordance Correlation Coefficient with Application to Repeatedly Measured Data.Turkiye Klinikleri J Biostat 2015;7(2):55-62 [2015E.pdf](https://github.com/AtanuBhattacharjee/github.io/files/4715130/2015E.pdf).
 
-6.Atanu Bhattacharjee and Santam Chakraborty."In regard to Livi et al. “Accelerated partial breast irradiation using intensity-modulated radiotherapy versus whole breast irradiation: 5 year survival analysis of a phase 3 randomised controlled trial".European Journal of Cancer (2015) 51, 1476– 1477.[2015F.pdf](https://github.com/AtanuBhattacharjee/github.io/files/4715132/2015F.pdf)
+17.Atanu Bhattacharjee and Santam Chakraborty."In regard to Livi et al. “Accelerated partial breast irradiation using intensity-modulated radiotherapy versus whole breast irradiation: 5 year survival analysis of a phase 3 randomised controlled trial".European Journal of Cancer (2015) 51, 1476– 1477.[2015F.pdf](https://github.com/AtanuBhattacharjee/github.io/files/4715132/2015F.pdf)
 
-### [2014]
-1.Atanu BhattacharjeeDistance Correlation Coefficient: An Application with Bayesian Approach in Clinical Data Analysis.Journal of Modern Applied Statistical Methods 2014;13(1):354-366.[2014A.pdf](https://github.com/AtanuBhattacharjee/github.io/files/4715052/2014A.pdf)
+18.Atanu BhattacharjeeDistance Correlation Coefficient: An Application with Bayesian Approach in Clinical Data Analysis.Journal of Modern Applied Statistical Methods 2014;13(1):354-366.[2014A.pdf](https://github.com/AtanuBhattacharjee/github.io/files/4715052/2014A.pdf)
 
-2.Atanu Bhattacharjee, and Subhradev Sen.Letter to the editor: Second, third, and fourth head and neck tumors. A progressive
+19.Atanu Bhattacharjee, and Subhradev Sen.Letter to the editor: Second, third, and fourth head and neck tumors. A progressive
 decrease in survival.Head & Neck 36: 1376, 2014.[2014B.pdf](https://github.com/AtanuBhattacharjee/github.io/files/4715056/2014B.pdf)
 
-3.Atanu Bhattacharjee and Dilip C. Nath.Joint Longitudinal and Survival Data Modeling: An Application inAnti-Diabetes Drug Therapeutic Effect. Statistics in Transition new series.2014;15(3).437-452.
+20.Atanu Bhattacharjee and Dilip C. Nath.Joint Longitudinal and Survival Data Modeling: An Application inAnti-Diabetes Drug Therapeutic Effect. Statistics in Transition new series.2014;15(3).437-452.
 [2014C.pdf](https://github.com/AtanuBhattacharjee/github.io/files/4715058/2014C.pdf)
 
 ### [2013]
-1.Bhattacharjee Atanu,and  Saikia Hemanta.An Application of Bootstrap Regression Method in Age Dependency Structure to the Community.
+21.Bhattacharjee Atanu,and  Saikia Hemanta.An Application of Bootstrap Regression Method in Age Dependency Structure to the Community.
 Indian Journal of Public Health Research & Development.2013;4(3).44-48.[2013A.pdf](https://github.com/AtanuBhattacharjee/github.io/files/4715108/2013A.pdf)
 ## [2012]
-## [2011]
-1.Bhattacharjee A, Bhattacharjee D. A Bayesian Approach to Compare the Statewise Dengue Death Counts in India. International Journal of Collaborative Research on Internal Medicine & Public Health. 2011; 3(10):715-723.[20200602100511.pdf](https://github.com/AtanuBhattacharjee/github.io/files/4714786/20200602100511.pdf)
 
-2.Dilip C. Nath and Atanu Bhattacharjee. Comparison of the tetrachoric correlation coefficients and odds in generalized estimating equation with Bayesian approach: an application in type 2 diabetes patients data.2011;5(2):97-108.
+22.Bhattacharjee A, Bhattacharjee D. A Bayesian Approach to Compare the Statewise Dengue Death Counts in India. International Journal of Collaborative Research on Internal Medicine & Public Health. 2011; 3(10):715-723.[20200602100511.pdf](https://github.com/AtanuBhattacharjee/github.io/files/4714786/20200602100511.pdf)
+
+23.Dilip C. Nath and Atanu Bhattacharjee. Comparison of the tetrachoric correlation coefficients and odds in generalized estimating equation with Bayesian approach: an application in type 2 diabetes patients data.2011;5(2):97-108.
 [20200602101224.pdf](https://github.com/AtanuBhattacharjee/github.io/files/4714806/20200602101224.pdf).
 
-3.Hemanta Saikia,Dibyojyoti Bhattacharjee,and Atanu Bhattacharjee.Is IPL responsible for cricketers’ performance in Twenty20 World Cup?
+24.Hemanta Saikia,Dibyojyoti Bhattacharjee,and Atanu Bhattacharjee.Is IPL responsible for cricketers’ performance in Twenty20 World Cup?
 International Journal of Sports Science and Engineering.2012;6(02):096-110.[20200602102234.pdf](https://github.com/AtanuBhattacharjee/github.io/files/4714831/20200602102234.pdf)
 
-4.Dilip C. Nath and Atanu Bhattacharjee.Effect of Correlation Structure in Generalized Estimating Equation and Quasi Least Square: An Application in Type 2 Diabetes Patient. Pak.j.stat.oper.res.2011.VII(2).401-412.
+25.Dilip C. Nath and Atanu Bhattacharjee.Effect of Correlation Structure in Generalized Estimating Equation and Quasi Least Square: An Application in Type 2 Diabetes Patient. Pak.j.stat.oper.res.2011.VII(2).401-412.
 [20200602102044.pdf](https://github.com/AtanuBhattacharjee/github.io/files/4714821/20200602102044.pdf)
 
-5.A Bayesian Approach for Autoregressive Models in Longitudinal Data Analysis: An Application to Type 2 Diabetes Drug Comparison.[20200602101832.pdf](https://github.com/AtanuBhattacharjee/github.io/files/4714820/20200602101832.pdf)
+26.A Bayesian Approach for Autoregressive Models in Longitudinal Data Analysis: An Application to Type 2 Diabetes Drug Comparison.[20200602101832.pdf](https://github.com/AtanuBhattacharjee/github.io/files/4714820/20200602101832.pdf)
 
 ### Biostatistics Tutorial
 1. Introduction to Biostatistics
