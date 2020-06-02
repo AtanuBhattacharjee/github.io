@@ -1,3 +1,5 @@
+git tag -d [tag]
+git push origin :refs/tags/[tag]
 ![22411298](https://user-images.githubusercontent.com/22411298/83390080-dfd50b00-a40e-11ea-9aea-08e2204eecc7.png)
 ## Atanu Bhattacharjee,Ph.D (Statistics)
 Assistant Professor Biostatistics
