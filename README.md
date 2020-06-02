@@ -49,13 +49,16 @@ Clinical Epidemiology and Global Health.2019.7(3).337-341.
 
 ## [2011]
 1.Bhattacharjee A, Bhattacharjee D. A Bayesian Approach to Compare the Statewise Dengue Death Counts in India. International Journal of Collaborative Research on Internal Medicine & Public Health. 2011; 3(10):715-723.[20200602100511.pdf](https://github.com/AtanuBhattacharjee/github.io/files/4714786/20200602100511.pdf)
+
 2.Dilip C. Nath and Atanu Bhattacharjee. Comparison of the tetrachoric correlation coefficients and odds in generalized estimating equation with Bayesian approach: an application in type 2 diabetes patients data.2011;5(2):97-108.
 [20200602101224.pdf](https://github.com/AtanuBhattacharjee/github.io/files/4714806/20200602101224.pdf).
+
 3.Is IPL responsible for cricketers’ performance in Twenty20 World Cup?
 [20200602102234.pdf](https://github.com/AtanuBhattacharjee/github.io/files/4714831/20200602102234.pdf)
 
 4.Effect of Correlation Structure in Generalized Estimating Equation and Quasi Least Square: An Application in Type 2 Diabetes Patient.
 [20200602102044.pdf](https://github.com/AtanuBhattacharjee/github.io/files/4714821/20200602102044.pdf)
+
 5.A Bayesian Approach for Autoregressive Models in Longitudinal Data Analysis: An Application to Type 2 Diabetes Drug Comparison.[20200602101832.pdf](https://github.com/AtanuBhattacharjee/github.io/files/4714820/20200602101832.pdf)
 
 
