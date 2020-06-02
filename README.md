@@ -209,10 +209,9 @@ International Journal of Sports Science and Engineering.2012;6(02):096-110.[2020
 36. Stratified Analysis[Stratified Analysis.pdf](https://github.com/atanustat/biostatonco/files/4001340/Stratified.Analysis.pdf)
 37. Matched Analysis-I[Matched Analysis-I.pdf](https://github.com/atanustat/biostatonco/files/4001337/Matched.Analysis-I.pdf)
 38.  Matched Analysis-I[Mathced Analysis-II.pdf](https://github.com/atanustat/biostatonco/files/4001336/Mathced.Analysis-II.pdf)
-### Talk
-1. Lung Cancer Update 2019 [presentation.pdf](https://github.com/atanustat/biostatonco/files/4002993/presentation.pdf).
-2. Computational Biostatistics and Survival Analysis Talk[cce presentation.pdf](https://github.com/atanustat/biostatonco/files/4002995/cce.presentation.pdf).
-3.Hands on Survival Analysis Researchers.(https://github.com/atanustat/biostatonco/files/4710190/AB1011.Hands.on.Survival.Analysis.pdf)
+39. Lung Cancer Update 2019 [presentation.pdf](https://github.com/atanustat/biostatonco/files/4002993/presentation.pdf).
+40. Computational Biostatistics and Survival Analysis Talk[cce presentation.pdf](https://github.com/atanustat/biostatonco/files/4002995/cce.presentation.pdf).
+41. Hands on Survival Analysis Researchers.(https://github.com/atanustat/biostatonco/files/4710190/AB1011.Hands.on.Survival.Analysis.pdf)
 ### Contact
 abhattacharjee@actrec.gov.in/atanustat@gmail.com   
 Centre for Cancer Epidemiology, Tata Memorial Centre, Navi Mumbai,India
