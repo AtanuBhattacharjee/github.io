@@ -47,10 +47,10 @@ Clinical Epidemiology and Global Health.2019.7(3).337-341.
 15. Atanu Bhattacharjee, Gaurav Roy, Atul Budukh, Rajesh Dikshit, Vijay M Patil, Amit Joshi, Vanita Noronha, Kumar Prabash, Papai Roy A competing risk analysis of death patterns in male genitourinary cancer.(2019).Cancer Reports, e1174.
 ## [2018]
 
-## BOOK PUBLICATION
+## Book Publication
 1.Atanu Bhattacharjee (2021).Bayesian Approaches in Oncology Using R and OpenBUGS.(In press).CRC press.
 2. Atanu Bhattacharjee (2013).Bayesian Analysis in Longitudinal Data. Lambert Publication.
-### CHPATER IN A BOOK
+### Chapter in Book
 Gaurav Roy, Atanu Bhattacharjee, and Iqra Khan (2020).‘Essentials of Cancer Genomic,
 Computational Approaches and Precision Medicine. Spinger Verlag, Nature.
 
