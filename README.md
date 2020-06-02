@@ -53,10 +53,10 @@ Clinical Epidemiology and Global Health.2019.7(3).337-341.
 2.Dilip C. Nath and Atanu Bhattacharjee. Comparison of the tetrachoric correlation coefficients and odds in generalized estimating equation with Bayesian approach: an application in type 2 diabetes patients data.2011;5(2):97-108.
 [20200602101224.pdf](https://github.com/AtanuBhattacharjee/github.io/files/4714806/20200602101224.pdf).
 
-3.Is IPL responsible for cricketers’ performance in Twenty20 World Cup?
-[20200602102234.pdf](https://github.com/AtanuBhattacharjee/github.io/files/4714831/20200602102234.pdf)
+3.Hemanta Saikia,Dibyojyoti Bhattacharjee,and Atanu Bhattacharjee.Is IPL responsible for cricketers’ performance in Twenty20 World Cup?
+International Journal of Sports Science and Engineering.2012;6(02):096-110.[20200602102234.pdf](https://github.com/AtanuBhattacharjee/github.io/files/4714831/20200602102234.pdf)
 
-4.Effect of Correlation Structure in Generalized Estimating Equation and Quasi Least Square: An Application in Type 2 Diabetes Patient.
+4.Dilip C. Nath and Atanu Bhattacharjee.Effect of Correlation Structure in Generalized Estimating Equation and Quasi Least Square: An Application in Type 2 Diabetes Patient. Pak.j.stat.oper.res.2011.VII(2).401-412.
 [20200602102044.pdf](https://github.com/AtanuBhattacharjee/github.io/files/4714821/20200602102044.pdf)
 
 5.A Bayesian Approach for Autoregressive Models in Longitudinal Data Analysis: An Application to Type 2 Diabetes Drug Comparison.[20200602101832.pdf](https://github.com/AtanuBhattacharjee/github.io/files/4714820/20200602101832.pdf)
