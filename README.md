@@ -1,4 +1,4 @@
-![22411298](https://user-images.githubusercontent.com/22411298/83390080-dfd50b00-a40e-11ea-9aea-08e2204eecc7.png)
+![22411298](https://user-images.githubusercontent.com/22411298/83512337-b17a2d00-a4ed-11ea-85c8-ef890e47a826.png)
 ## Atanu Bhattacharjee,Ph.D (Statistics)
 Assistant Professor Biostatistics
 Centre for Cancer Epidemiology, Tata Memorial Centre, India
