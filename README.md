@@ -6,6 +6,12 @@ Centre for Cancer Epidemiology, Tata Memorial Centre, India
 ## Biography
 I am working as Assistant Professor Biostatistics in the Section of Biostatistics, Centre for Cancer Epidemiology, Tata Memorial Centre, Mumbai.I am also an Ajunct Professor of Statistics at Department of Applied Mathematics, Indian Institute of Technology-Dhanbad. I completed by Ph.D in statistics under the supervision of Dr. Dilip C Nath.
 My research interests include Bayesian inference, longitudinal data analysis, survival analysis, gene expression data analysis.
+## Book Publication
+1.Atanu Bhattacharjee (2021).Bayesian Approaches in Oncology Using R and OpenBUGS.(In press).CRC press.
+2. Atanu Bhattacharjee (2013).Bayesian Analysis in Longitudinal Data. Lambert Publication.
+### Chapters in Book
+Gaurav Roy, Atanu Bhattacharjee, and Iqra Khan (2020).‘Essentials of Cancer Genomic,
+Computational Approaches and Precision Medicine. Spinger Verlag, Nature.
 ## Research Paper
 ### [2020]
 1. Nimisha Tripathi, Sneha Keshari, Pallavi Shahi, Poonam Maurya, Atanu Bhattacharjee, Kushal Gupta, Sanjay Talole, Mekesh Kumar.Human papillomavirus elevated genetic biomarker signature by statistical algorithm.Journal of Cellular Physiology(In press).
@@ -101,15 +107,6 @@ International Journal of Sports Science and Engineering.2012;6(02):096-110.[2020
 [20200602102044.pdf](https://github.com/AtanuBhattacharjee/github.io/files/4714821/20200602102044.pdf)
 
 5.A Bayesian Approach for Autoregressive Models in Longitudinal Data Analysis: An Application to Type 2 Diabetes Drug Comparison.[20200602101832.pdf](https://github.com/AtanuBhattacharjee/github.io/files/4714820/20200602101832.pdf)
-
-
-
-## Book Publication
-1.Atanu Bhattacharjee (2021).Bayesian Approaches in Oncology Using R and OpenBUGS.(In press).CRC press.
-2. Atanu Bhattacharjee (2013).Bayesian Analysis in Longitudinal Data. Lambert Publication.
-### Chapters in Book
-Gaurav Roy, Atanu Bhattacharjee, and Iqra Khan (2020).‘Essentials of Cancer Genomic,
-Computational Approaches and Precision Medicine. Spinger Verlag, Nature.
 
 ### Biostatistics Tutorial
 1. Introduction to Biostatistics
