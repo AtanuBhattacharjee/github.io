@@ -64,6 +64,17 @@ Clinical Epidemiology and Global Health.2019.7(3).337-341.
 14. Vijay M Patil, Arun Chandrasekharan, Dilip Harindran Vallathol, Mridul Malhotra, Ram Abhinav, Priti Agarwal, Anu Rajpurohit, Raees Tonse, Atanu Bhattacharjee, Rakesh Jalali. Antiemetic prophylaxis with temozolomide: an audit from a tertiary care center.2019.Neuro-Oncology Practice.4(19).
 15. Atanu Bhattacharjee, Gaurav Roy, Atul Budukh, Rajesh Dikshit, Vijay M Patil, Amit Joshi, Vanita Noronha, Kumar Prabash, Papai Roy A competing risk analysis of death patterns in male genitourinary cancer.(2019).Cancer Reports, e1174.
 ## [2018]
+ 
+[2018A.pdf](https://github.com/AtanuBhattacharjee/github.io/files/4716508/2018A.pdf)
+[2018B.pdf](https://github.com/AtanuBhattacharjee/github.io/files/4716509/2018B.pdf)
+[2018C.pdf](https://github.com/AtanuBhattacharjee/github.io/files/4716510/2018C.pdf)
+[2018D.pdf](https://github.com/AtanuBhattacharjee/github.io/files/4716512/2018D.pdf)
+[2018E.pdf](https://github.com/AtanuBhattacharjee/github.io/files/4716514/2018E.pdf)
+[2018F.pdf](https://github.com/AtanuBhattacharjee/github.io/files/4716515/2018F.pdf)
+[2018G.pdf](https://github.com/AtanuBhattacharjee/github.io/files/4716516/2018G.pdf)
+[2018H.pdf](https://github.com/AtanuBhattacharjee/github.io/files/4716519/2018H.pdf)
+[2018I.pdf](https://github.com/AtanuBhattacharjee/github.io/files/4716520/2018I.pdf)
+[2018K.pdf](https://github.com/AtanuBhattacharjee/github.io/files/4716521/2018K.pdf)
 ## [2017]
 ## [2016]
 1.VM Patil,S Chakraborty,TK Jithin, S Dessai, TP Sajith Babu,V Raghavan, M Geetha, T Shiva Kumar, MS Biji, A Bhattacharjee, C Nair.Development and validation of a questionnaire to measure preferences and expectations of patients undergoing palliative chemotherapy: EXPECT questionnaire.Indian Journal of Cancer.2016;53(2),339-344.[2016A.pdf](https://github.com/AtanuBhattacharjee/github.io/files/4716367/2016A.pdf).
