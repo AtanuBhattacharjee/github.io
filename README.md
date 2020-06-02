@@ -76,7 +76,7 @@ Clinical Epidemiology and Global Health.2019.7(3).337-341.
 [2018I.pdf](https://github.com/AtanuBhattacharjee/github.io/files/4716520/2018I.pdf)
 [2018K.pdf](https://github.com/AtanuBhattacharjee/github.io/files/4716521/2018K.pdf)
 ## [2017]
-## [2016-2011]
+## [2016-2014]
 1.VM Patil,S Chakraborty,TK Jithin, S Dessai, TP Sajith Babu,V Raghavan, M Geetha, T Shiva Kumar, MS Biji, A Bhattacharjee, C Nair.Development and validation of a questionnaire to measure preferences and expectations of patients undergoing palliative chemotherapy: EXPECT questionnaire.Indian Journal of Cancer.2016;53(2),339-344.[2016A.pdf](https://github.com/AtanuBhattacharjee/github.io/files/4716367/2016A.pdf).
 
 2.SB Dessai,VM Patil,S Chakraborty,S Babu,A Bhattacharjee,S Nayanar,S Vikram, S Balasubramanian.An audit of cytoreductive surgeries in ovarian cancer from a rural based cancer center.Indian Journal of Cancer.2016;53(2),284-287.[2016B.pdf](https://github.com/AtanuBhattacharjee/github.io/files/4716368/2016B.pdf).
@@ -134,10 +134,9 @@ decrease in survival.Head & Neck 36: 1376, 2014.[2014B.pdf](https://github.com/A
 20.Atanu Bhattacharjee and Dilip C. Nath.Joint Longitudinal and Survival Data Modeling: An Application inAnti-Diabetes Drug Therapeutic Effect. Statistics in Transition new series.2014;15(3).437-452.
 [2014C.pdf](https://github.com/AtanuBhattacharjee/github.io/files/4715058/2014C.pdf)
 
-### [2013]
+### [2013-2012]
 21.Bhattacharjee Atanu,and  Saikia Hemanta.An Application of Bootstrap Regression Method in Age Dependency Structure to the Community.
 Indian Journal of Public Health Research & Development.2013;4(3).44-48.[2013A.pdf](https://github.com/AtanuBhattacharjee/github.io/files/4715108/2013A.pdf)
-## [2012]
 
 22.Bhattacharjee A, Bhattacharjee D. A Bayesian Approach to Compare the Statewise Dengue Death Counts in India. International Journal of Collaborative Research on Internal Medicine & Public Health. 2011; 3(10):715-723.[20200602100511.pdf](https://github.com/AtanuBhattacharjee/github.io/files/4714786/20200602100511.pdf)
 
