@@ -45,7 +45,14 @@ Clinical Epidemiology and Global Health.2019.7(3).337-341.
 13. A Bhattacharjee, GK Vishwakarma.Time-course data prediction for repeatedly measured gene expression.International Journal of Biomathematics.2019.12(4).
 14. Vijay M Patil, Arun Chandrasekharan, Dilip Harindran Vallathol, Mridul Malhotra, Ram Abhinav, Priti Agarwal, Anu Rajpurohit, Raees Tonse, Atanu Bhattacharjee, Rakesh Jalali. Antiemetic prophylaxis with temozolomide: an audit from a tertiary care center.2019.Neuro-Oncology Practice.4(19).
 15. Atanu Bhattacharjee, Gaurav Roy, Atul Budukh, Rajesh Dikshit, Vijay M Patil, Amit Joshi, Vanita Noronha, Kumar Prabash, Papai Roy A competing risk analysis of death patterns in male genitourinary cancer.(2019).Cancer Reports, e1174.
+## [2018]
 
+## BOOK PUBLICATION
+1.Atanu Bhattacharjee (2021).Bayesian Approaches in Oncology Using R and OpenBUGS.(In press).CRC press.
+2. Atanu Bhattacharjee (2013).Bayesian Analysis in Longitudinal Data. Lambert Publication.
+### CHPATER IN A BOOK
+Gaurav Roy, Atanu Bhattacharjee, and Iqra Khan (2020).‘Essentials of Cancer Genomic,
+Computational Approaches and Precision Medicine. Spinger Verlag, Nature.
 
 ### Biostatistics Tutorial
 1. Introduction to Biostatistics
