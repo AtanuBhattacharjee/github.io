@@ -68,14 +68,33 @@ Clinical Epidemiology and Global Health.2019.7(3).337-341.
 1.Atanu Bhattacharjee,Gajendra K. Vishwakarma,Abin Thomas.Bayesian state-space modeling in gene expression data analysis: An
 application with biomarker prediction.2018;Mathematical Biosciences.2018 Nov;305:96-101. doi: 10.1016/j.mbs.2018.08.011. Epub 2018 Sep 5.[2018A.pdf](https://github.com/AtanuBhattacharjee/github.io/files/4716508/2018A.pdf)
 
-2.[2018B.pdf](https://github.com/AtanuBhattacharjee/github.io/files/4716509/2018B.pdf)
-3.[2018C.pdf](https://github.com/AtanuBhattacharjee/github.io/files/4716510/2018C.pdf)
-4.[2018D.pdf](https://github.com/AtanuBhattacharjee/github.io/files/4716512/2018D.pdf)
-5.[2018E.pdf](https://github.com/AtanuBhattacharjee/github.io/files/4716514/2018E.pdf)
-6.[2018F.pdf](https://github.com/AtanuBhattacharjee/github.io/files/4716515/2018F.pdf)
-7.[2018G.pdf](https://github.com/AtanuBhattacharjee/github.io/files/4716516/2018G.pdf)
-8.[2018H.pdf](https://github.com/AtanuBhattacharjee/github.io/files/4716519/2018H.pdf)
-9.[2018I.pdf](https://github.com/AtanuBhattacharjee/github.io/files/4716520/2018I.pdf)
+2.Vijay Patil, Amit Joshi, Vanita Noronha, Atanu Bhattacharjee1, Sachin Dhumal, M. V. Chandrakanth, Ashay Karpe,
+Vikas Talreja, Arun Chandrasekharan, Siddharth Turkar, Nikhil Pande, Anant Ramaswamy, Kumar Prabhash. Quality of life and quality‑adjusted time without toxicity in palliatively treated
+head‑and‑neck cancer patients.South Asian J Cancer
+2018;7:249-53.[2018B.pdf](https://github.com/AtanuBhattacharjee/github.io/files/4716509/2018B.pdf)
+3.Vanita Noronha,Avinash Pandey,Vijay Patil,Amit Joshi,Anuradha Bharat Choughule,Atanu Bhattacharjee,Rajiv Kumar,Supriya Goud,Sucheta More,Anant Ramaswamy,Ashay Karpe,Nikhil Pande, Arun Chandrasekharan,Alok Goel, Vikas Talreja, Abhishek Mahajan, Amit Janu, Nilendu Purandare, Kumar Prabhash.Tyrosine Kinase Inhibitor versus Physician Choice Chemotherapy in
+Second‑Line Epidermal Growth Factor Receptor Mutation Non‑Small Cell
+Lung Cancer: Post hoc Analysis of Randomized Control Trial.Indian Journal of Medical and Paediatric Oncology.2018;39(4).493-498.[2018C.pdf](https://github.com/AtanuBhattacharjee/github.io/files/4716510/2018C.pdf)
+4.Biju Menon,Atanu Bhattacharjee,Sandip Basu.Comparison of Radioiodine uptake by Gamma Camera and
+Thyroid uptake probe‐based methodologiesand Diagnostic
+Radioiodine Scanin Differentiated thyroid carcinoma.J of Nuclear Medicine Technology, doi:10.2967/jnmt.118.207837.[2018D.pdf](https://github.com/AtanuBhattacharjee/github.io/files/4716512/2018D.pdf)
+5.Vijay M. Patil, Mridul Malhotra, Raees Tonse, Jayita Deodhar, Arun Chandrasekharan,
+Nikhil Pande, Atanu Bhattacharjee, and Rakesh Jalali.A cross-sectional audit of distress in patients
+undergoing adjuvant therapy or follow-up in central
+nervous system malignancies.Neuro-Oncology Practice.Neuro-Oncology Practice, Volume 6, Issue 4, August 2019, Pages 305–310, https://doi.org/10.1093/nop/npy046.[2018E.pdf](https://github.com/AtanuBhattacharjee/github.io/files/4716514/2018E.pdf)
+6.Patil V, Joshi A, Noronha V, Dhumal S,
+Chandrasekharan A, Pande N, et al. Quality of life without toxicity or
+symptoms analysis of a randomized controlled clinical trial comparing
+efficacy of cabazitaxel versus docetaxel in recurrent head and neck cancer.
+Cancer Res Stat Treat 2018;1:46-50.[2018F.pdf](https://github.com/AtanuBhattacharjee/github.io/files/4716515/2018F.pdf)
+7.Bhattacharjee A, Vishwakarma GK, Banerjee S.
+A Bayesian approach for dynamic treatment regimes in the presence of
+competing risk analysis. Cancer Res Stat Treat 2018;1:51-7.[2018G.pdf](https://github.com/AtanuBhattacharjee/github.io/files/4716516/2018G.pdf)
+8.Influence of Hypothyroidism After Chemoradiation on Outcomes in
+Head and Neck Cancer.Clinical Oncology xxx (2018) 1.[2018H.pdf](https://github.com/AtanuBhattacharjee/github.io/files/4716519/2018H.pdf)
+9.Atanu Bhattacharjee,Vijay M. Patil,Vanita Noronha,Amit Joshi,Kumar Prabhash.An Algorithm to Define the Optimum Biological Dose
+of Metronomic Chemotherapy.Biometrical Letters
+Vol. 0 (2018), No. 0, xx-xx.[2018I.pdf](https://github.com/AtanuBhattacharjee/github.io/files/4716520/2018I.pdf)
 10. Nair CK, Raghavan V, Bhattacharjee A, Kurup AR. Impact of early reduction in paraprotein on survival in transplant ineligible myeloma: Lesson from a tertiary cancer center in rural India.Amit Joshi, Vijay Patil, Vanita Noronha, Anuradha Chougule, Atanu Bhattacharjee, Rajiv Kumar, Supriya Goud, Sucheta More, Anant Ramaswamy, Ashay Karpe, Nikhil Pande, Arun Chandrasekharan, Alok Goel, Vikas Talreja, Abhishek Mahajan, Amit Janu, Nilendu Purandare, Kumar Prabhash: Efficacy of gefitinib in epidermal growth factor receptor-activating mutation-positive nonsmall cell lung cancer: Does exon 19 deletion differ from exon 21 mutation?. Lung India 01/2018; 35(1):27., DOI:10.4103/lungindia.lungindia_201_17. [2018K.pdf](https://github.com/AtanuBhattacharjee/github.io/files/4716521/2018K.pdf)
 ## [2017]
 ## [2016-2014]
