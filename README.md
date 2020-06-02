@@ -6,7 +6,7 @@ Centre for Cancer Epidemiology, Tata Memorial Centre, India
 ## Biography
 I am working as Assistant Professor Biostatistics in the Section of Biostatistics, Centre for Cancer Epidemiology, Tata Memorial Centre, Mumbai.I am also an Ajunct Professor of Statistics at Department of Applied Mathematics, Indian Institute of Technology-Dhanbad. I completed by Ph.D in statistics under the supervision of Dr. Dilip C Nath.
 My research interests include Bayesian inference, longitudinal data analysis, survival analysis, gene expression data analysis.
-## Publication
+## Research Paper
 ### [2020]
 1. Abin Thomas,Gajendra K.Vishwakarma and Atanu Bhattacharjee.Joint modeling of longitudinal and time-to-event data on multivariate protein biomarkers.https://doi.org/10.1016/j.cam.2020.113016.
 2.Atanu Bhattacharjee,Subita Patil,Sanjay Talole,Arjun Singh,Pankaj Chaturvedie,Rajesh Dikshit.An impact of single prevalence rate reduction of tobacco on cancer incidence- A challenge for global policy maker.https://doi.org/10.1016/j.cegh.2020.04.029.
