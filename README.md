@@ -58,6 +58,21 @@ Clinical Epidemiology and Global Health.2019.7(3).337-341.
 ## [2017]
 ## [2016]
 ## [2015]
+1.Efficacy of second-line erlotinib in patients postprogression of first-line chemotherapy in
+head and neck cancers.2015;52(4).629-631.[2015A.pdf](https://github.com/AtanuBhattacharjee/github.io/files/4715124/2015A.pdf)
+
+2.S. Kane,V.M. Patily,A. Joshi,V. Noronha,V. Muddu,S. Dhumal,S. Juvekar,S. Arya,A. D’Cruz,A. Bhattacharjee,K. Prabhash.[2015B.pdf](https://github.com/AtanuBhattacharjee/github.io/files/4715125/2015B.pdf)
+
+3.Neoadjuvant Chemotherapy in Technically Unresectable Oral Cancers:
+Does Human Papillomavirus Make a Difference?Clinical Oncology xxx (2015) 1e2.[2015C.pdf](https://github.com/AtanuBhattacharjee/github.io/files/4715128/2015C.pdf)
+
+4.Dilip C Nath,Atanu Bhattacharjee and Ramesh K Vishwakarma.The Cure Rate Modeling: An Application with Bayesian approach in Liver
+Cirrhosis Patients.Journal of Data Science 13(2015), 421-442.[2015D.pdf](https://github.com/AtanuBhattacharjee/github.io/files/4715129/2015D.pdf)
+
+5.Atanu Bhattacharjee,and Tapesh Bhattacharyya.Bayesian Concordance Correlation Coefficient with Application to Repeatedly Measured Data.Turkiye Klinikleri J Biostat 2015;7(2):55-62 [2015E.pdf](https://github.com/AtanuBhattacharjee/github.io/files/4715130/2015E.pdf).
+
+6.Atanu Bhattacharjee and Santam Chakraborty."In regard to Livi et al. “Accelerated partial breast irradiation using intensity-modulated radiotherapy versus whole breast irradiation: 5 year survival analysis of a phase 3 randomised controlled trial".European Journal of Cancer (2015) 51, 1476– 1477.[2015F.pdf](https://github.com/AtanuBhattacharjee/github.io/files/4715132/2015F.pdf)
+
 ### [2014]
 1.Atanu BhattacharjeeDistance Correlation Coefficient: An Application with Bayesian Approach in Clinical Data Analysis.Journal of Modern Applied Statistical Methods 2014;13(1):354-366.[2014A.pdf](https://github.com/AtanuBhattacharjee/github.io/files/4715052/2014A.pdf)
 
