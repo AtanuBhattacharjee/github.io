@@ -64,6 +64,9 @@ decrease in survival.Head & Neck 36: 1376, 2014.[2014B.pdf](https://github.com/A
 3.Atanu Bhattacharjee and Dilip C. Nath.Joint Longitudinal and Survival Data Modeling: An Application inAnti-Diabetes Drug Therapeutic Effect. Statistics in Transition new series.2014;15(3).437-452.
 [2014C.pdf](https://github.com/AtanuBhattacharjee/github.io/files/4715058/2014C.pdf)
 
+### [2013]
+1.Bhattacharjee Atanu,and  Saikia Hemanta.An Application of Bootstrap Regression Method in Age Dependency Structure to the Community.
+Indian Journal of Public Health Research & Development.2013;4(3).44-48.[2013A.pdf](https://github.com/AtanuBhattacharjee/github.io/files/4715108/2013A.pdf)
 
 ## [2011]
 1.Bhattacharjee A, Bhattacharjee D. A Bayesian Approach to Compare the Statewise Dengue Death Counts in India. International Journal of Collaborative Research on Internal Medicine & Public Health. 2011; 3(10):715-723.[20200602100511.pdf](https://github.com/AtanuBhattacharjee/github.io/files/4714786/20200602100511.pdf)
