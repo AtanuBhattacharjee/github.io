@@ -55,8 +55,15 @@ Clinical Epidemiology and Global Health.2019.7(3).337-341.
 14. Vijay M Patil, Arun Chandrasekharan, Dilip Harindran Vallathol, Mridul Malhotra, Ram Abhinav, Priti Agarwal, Anu Rajpurohit, Raees Tonse, Atanu Bhattacharjee, Rakesh Jalali. Antiemetic prophylaxis with temozolomide: an audit from a tertiary care center.2019.Neuro-Oncology Practice.4(19).
 15. Atanu Bhattacharjee, Gaurav Roy, Atul Budukh, Rajesh Dikshit, Vijay M Patil, Amit Joshi, Vanita Noronha, Kumar Prabash, Papai Roy A competing risk analysis of death patterns in male genitourinary cancer.(2019).Cancer Reports, e1174.
 ## [2018]
-### [2020]
-1.Distance Correlation Coefficient: An Application with Bayesian Approach in Clinical Data Analysis.Journal of Modern Applied Statistical Methods 2014;13(1):354-366.[2014A.pdf](https://github.com/AtanuBhattacharjee/github.io/files/4715052/2014A.pdf)
+### [2014]
+1.Atanu BhattacharjeeDistance Correlation Coefficient: An Application with Bayesian Approach in Clinical Data Analysis.Journal of Modern Applied Statistical Methods 2014;13(1):354-366.[2014A.pdf](https://github.com/AtanuBhattacharjee/github.io/files/4715052/2014A.pdf)
+
+2.Atanu Bhattacharjee, and Subhradev Sen.Letter to the editor: Second, third, and fourth head and neck tumors. A progressive
+decrease in survival.Head & Neck 36: 1376, 2014.[2014B.pdf](https://github.com/AtanuBhattacharjee/github.io/files/4715056/2014B.pdf)
+
+3.Atanu Bhattacharjee and Dilip C. Nath.Joint Longitudinal and Survival Data Modeling: An Application inAnti-Diabetes Drug Therapeutic Effect. Statistics in Transition new series.2014;15(3).437-452.
+[2014C.pdf](https://github.com/AtanuBhattacharjee/github.io/files/4715058/2014C.pdf)
+
 
 ## [2011]
 1.Bhattacharjee A, Bhattacharjee D. A Bayesian Approach to Compare the Statewise Dengue Death Counts in India. International Journal of Collaborative Research on Internal Medicine & Public Health. 2011; 3(10):715-723.[20200602100511.pdf](https://github.com/AtanuBhattacharjee/github.io/files/4714786/20200602100511.pdf)
