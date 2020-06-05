@@ -15,7 +15,7 @@ Computational Approaches and Precision Medicine. Spinger Verlag, Nature.
 ### [2020]
 1.Nimisha Tripathi, Sneha Keshari, Pallavi Shahi, Poonam Maurya, Atanu Bhattacharjee, Kushal Gupta, Sanjay Talole, Mekesh Kumar.Human papillomavirus elevated genetic biomarker signature by statistical algorithm.Journal of Cellular Physiology(In press).
 
-2.Abin Thomas,Gajendra K.Vishwakarma and Atanu Bhattacharjee.Joint modeling of longitudinal and time-to-event data on multivariate protein biomarkers.https://doi.org/10.1016/j.cam.2020.113016.
+2.Abin Thomas,Gajendra K.Vishwakarma and Atanu Bhattacharjee.Joint modeling of longitudinal and time-to-event data on multivariate protein biomarkers.https://doi.org/10.1016/j.cam.2020.113016.[1-s2.0-S0377042720303071-main.pdf](https://github.com/AtanuBhattacharjee/github.io/files/4737433/1-s2.0-S0377042720303071-main.pdf)
 
 3.Atanu Bhattacharjee,Subita Patil,Sanjay Talole,Arjun Singh,Pankaj Chaturvedie,Rajesh Dikshit.An impact of single prevalence rate reduction of tobacco on cancer incidence- A challenge for global policy maker.https://doi.org/10.1016/j.cegh.2020.04.029.[pagination_CEGH_583.pdf](https://github.com/AtanuBhattacharjee/github.io/files/4714852/pagination_CEGH_583.pdf).
 
