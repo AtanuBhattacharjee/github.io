@@ -104,7 +104,13 @@ Head and Neck Cancer.Clinical Oncology xxx (2018) 1.[2018H.pdf](https://github.c
 of Metronomic Chemotherapy.Biometrical Letters
 Vol. 0 (2018), No. 0, xx-xx.[2018I.pdf](https://github.com/AtanuBhattacharjee/github.io/files/4716520/2018I.pdf).
 
-10. Nair CK, Raghavan V, Bhattacharjee A, Kurup AR. Impact of early reduction in paraprotein on survival in transplant ineligible myeloma: Lesson from a tertiary cancer center in rural India.Amit Joshi, Vijay Patil, Vanita Noronha, Anuradha Chougule, Atanu Bhattacharjee, Rajiv Kumar, Supriya Goud, Sucheta More, Anant Ramaswamy, Ashay Karpe, Nikhil Pande, Arun Chandrasekharan, Alok Goel, Vikas Talreja, Abhishek Mahajan, Amit Janu, Nilendu Purandare, Kumar Prabhash: Efficacy of gefitinib in epidermal growth factor receptor-activating mutation-positive nonsmall cell lung cancer: Does exon 19 deletion differ from exon 21 mutation?. Lung India 01/2018; 35(1):27., DOI:10.4103/lungindia.lungindia_201_17. [2018K.pdf](https://github.com/AtanuBhattacharjee/github.io/files/4716521/2018K.pdf)
+10. Nair CK, Raghavan V, Bhattacharjee A, Kurup AR. Impact of early reduction in paraprotein on survival in transplant ineligible myeloma: Lesson from a tertiary cancer center in rural India.
+
+11.Amit Joshi, Vijay Patil, Vanita Noronha, Anuradha Chougule, Atanu Bhattacharjee, Rajiv Kumar, Supriya Goud, Sucheta More, Anant Ramaswamy, Ashay Karpe, Nikhil Pande, Arun Chandrasekharan, Alok Goel, Vikas Talreja, Abhishek Mahajan, Amit Janu, Nilendu Purandare, Kumar Prabhash: Efficacy of gefitinib in epidermal growth factor receptor-activating mutation-positive nonsmall cell lung cancer: Does exon 19 deletion differ from exon 21 mutation?. Lung India 01/2018; 35(1):27., DOI:10.4103/lungindia.lungindia_201_17. [2018K.pdf](https://github.com/AtanuBhattacharjee/github.io/files/4716521/2018K.pdf)
+
+12.Gaurav Roy, Papai Roy, Atanu Bhattacharjee, Mudassar Shahid, Mohammad Misbah, Subash Gupta, Mohammad Husain. Expression signature of lysosomal-associated transmembrane protein 4B in hepatitis C virus-induced hepatocellular carcinoma.The International Journal of Biological Markers.2018, Vol. 33(3) 283–292.[2018L.pdf](https://github.com/AtanuBhattacharjee/github.io/files/4741389/2018L.pdf)
+
+
 ## [2017]
 ## [2016-2014]
 1.VM Patil,S Chakraborty,TK Jithin, S Dessai, TP Sajith Babu,V Raghavan, M Geetha, T Shiva Kumar, MS Biji, A Bhattacharjee, C Nair.Development and validation of a questionnaire to measure preferences and expectations of patients undergoing palliative chemotherapy: EXPECT questionnaire.Indian Journal of Cancer.2016;53(2),339-344.[2016A.pdf](https://github.com/AtanuBhattacharjee/github.io/files/4716367/2016A.pdf).
