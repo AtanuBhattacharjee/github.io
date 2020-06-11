@@ -127,6 +127,48 @@ Vol. 0 (2018), No. 0, xx-xx.[2018I.pdf](https://github.com/AtanuBhattacharjee/gi
 
 
 ## [2017]
+
+1.Agreement analysis between three different
+short geriatric screening scales in patients
+undergoing chemotherapy for solid tumors[2017A.pdf](https://github.com/AtanuBhattacharjee/github.io/files/4764006/2017A.pdf)
+2.Results of a phase II randomized controlled clinical trial comparing efficacy
+of Cabazitaxel versus Docetaxel as second line or above therapy in recurrent
+head and neck cancer[2017B.pdf](https://github.com/AtanuBhattacharjee/github.io/files/4764007/2017B.pdf)
+3.A tertiary care experience with paclitaxel and cetuximab as palliative
+chemotherapy in platinum sensitive and nonsensitive in head and neck
+cancers[2017C.pdf](https://github.com/AtanuBhattacharjee/github.io/files/4764008/2017C.pdf)
+4.Assay of Urinary Protein Carbonyl Content Can Predict the Steroid
+Dependence and Resistance in Children with Idiopathic Nephrotic
+Syndrome[2017D.pdf](https://github.com/AtanuBhattacharjee/github.io/files/4764009/2017D.pdf)
+5.Joint modeling of missing and mismeasured
+measurements for computing radiotherapy margins[2017E.pdf](https://github.com/AtanuBhattacharjee/github.io/files/4764011/2017E.pdf)
+6.Impact of waiting time for treatment on survival in patients
+undergoing radiotherapy for head and neck cancer[2017F.pdf](https://github.com/AtanuBhattacharjee/github.io/files/4764012/2017F.pdf)
+7.Human epidermal growth factor receptor 2 borderline mortality in
+breast cancer patients: Evidence from surveillance, epidemiology, and
+end results program population-based study[2017G.pdf](https://github.com/AtanuBhattacharjee/github.io/files/4764013/2017G.pdf)
+8.Development and validation of a predictive score, for identifying poor eastern
+cooperative oncology group performance status (performance status 3–4) advanced
+nonsmall cell lung cancer patients who are likely to benefit from tyrosine kinase
+inhibitors[2017H.pdf](https://github.com/AtanuBhattacharjee/github.io/files/4764014/2017H.pdf)
+9.Impact of exon 19 versus exon 21 EGFR-activating mutation on
+outcomes with upfront pemetrexed–carboplatin chemotherapy[2017I.pdf](https://github.com/AtanuBhattacharjee/github.io/files/4764015/2017I.pdf)
+10.EMERALD: Emergency visit audit of patients treated under medical oncology
+in a tertiary cancer center: Logical steps to decrease the burden[2017J.pdf](https://github.com/AtanuBhattacharjee/github.io/files/4764016/2017J.pdf)
+11.Results of a phase II randomized controlled clinical trial comparing efficacy
+of Cabazitaxel versus Docetaxel as second line or above therapy in recurrent
+head and neck cancer[2017K.pdf](https://github.com/AtanuBhattacharjee/github.io/files/4764017/2017K.pdf)
+12.Agreement analysis between three different
+short geriatric screening scales in patients
+undergoing chemotherapy for solid tumors.[2017L.pdf](https://github.com/AtanuBhattacharjee/github.io/files/4764018/2017L.pdf)
+13.A New Index to Measure Intra-observer Variation in
+Delineating GTV Primary in Head and Neck Cancer[2017M.pdf](https://github.com/AtanuBhattacharjee/github.io/files/4764019/2017M.pdf)
+14.Multiple Imputations for Determining an Optimum
+Biological Dose of a Metronomic Chemotherapy[2017N.pdf](https://github.com/AtanuBhattacharjee/github.io/files/4764020/2017N.pdf)
+15.Bayesian relative survival : An illustration with lung cancer patients 
+data[2017O.pdf](https://github.com/AtanuBhattacharjee/github.io/files/4764021/2017O.pdf)
+16.Once-a-Week Versus Once-Every-3-Weeks Cisplatin Chemoradiation for Locally Advanced Head and Neck Cancer: A Phase III Randomized Noninferiority Trial.[2017P.pdf](https://github.com/AtanuBhattacharjee/github.io/files/4764022/2017P.pdf)
+
 ## [2016-2014]
 1.VM Patil,S Chakraborty,TK Jithin, S Dessai, TP Sajith Babu,V Raghavan, M Geetha, T Shiva Kumar, MS Biji, A Bhattacharjee, C Nair.Development and validation of a questionnaire to measure preferences and expectations of patients undergoing palliative chemotherapy: EXPECT questionnaire.Indian Journal of Cancer.2016;53(2),339-344.[2016A.pdf](https://github.com/AtanuBhattacharjee/github.io/files/4716367/2016A.pdf).
 
