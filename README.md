@@ -128,46 +128,64 @@ Vol. 0 (2018), No. 0, xx-xx.[2018I.pdf](https://github.com/AtanuBhattacharjee/gi
 
 ## [2017]
 
-1.Agreement analysis between three different
-short geriatric screening scales in patients
-undergoing chemotherapy for solid tumors[2017A.pdf](https://github.com/AtanuBhattacharjee/github.io/files/4764006/2017A.pdf)
-2.Results of a phase II randomized controlled clinical trial comparing efficacy
-of Cabazitaxel versus Docetaxel as second line or above therapy in recurrent
-head and neck cancer[2017B.pdf](https://github.com/AtanuBhattacharjee/github.io/files/4764007/2017B.pdf)
-3.A tertiary care experience with paclitaxel and cetuximab as palliative
-chemotherapy in platinum sensitive and nonsensitive in head and neck
-cancers[2017C.pdf](https://github.com/AtanuBhattacharjee/github.io/files/4764008/2017C.pdf)
-4.Assay of Urinary Protein Carbonyl Content Can Predict the Steroid
-Dependence and Resistance in Children with Idiopathic Nephrotic
-Syndrome[2017D.pdf](https://github.com/AtanuBhattacharjee/github.io/files/4764009/2017D.pdf)
-5.Joint modeling of missing and mismeasured
-measurements for computing radiotherapy margins[2017E.pdf](https://github.com/AtanuBhattacharjee/github.io/files/4764011/2017E.pdf)
-6.Impact of waiting time for treatment on survival in patients
-undergoing radiotherapy for head and neck cancer[2017F.pdf](https://github.com/AtanuBhattacharjee/github.io/files/4764012/2017F.pdf)
-7.Human epidermal growth factor receptor 2 borderline mortality in
-breast cancer patients: Evidence from surveillance, epidemiology, and
-end results program population-based study[2017G.pdf](https://github.com/AtanuBhattacharjee/github.io/files/4764013/2017G.pdf)
-8.Development and validation of a predictive score, for identifying poor eastern
-cooperative oncology group performance status (performance status 3–4) advanced
-nonsmall cell lung cancer patients who are likely to benefit from tyrosine kinase
-inhibitors[2017H.pdf](https://github.com/AtanuBhattacharjee/github.io/files/4764014/2017H.pdf)
-9.Impact of exon 19 versus exon 21 EGFR-activating mutation on
+1.Joshi A, Tandon N, Patil VM, Noronha V, Gupta S, Bhattacharjee A, et al. Agreement analysis between three
+different short geriatric screening scales in patients undergoing chemotherapy for solid tumors. J Can Res Ther 2017;13:1023-6.[2017A.pdf](https://github.com/AtanuBhattacharjee/github.io/files/4764006/2017A.pdf).
+
+2.Amit Joshia,Vijay Patila,1, Vanita Noronhaa, Sachin Dhumala, Nikhil Pandea,Arun Chandrasekharana, Siddharth Turkara, Hollis DSouzaa, Sameer Shrirangwara,Abhishek Mahajanb, Supreeta Aryab, Shashikant Juvekarb, Atanu BhattaCharjeec,Kumar Prabhasha,⁎Results of a phase II randomized controlled clinical trial comparing efficacyof Cabazitaxel versus Docetaxel as second line or above therapy in recurrent
+head and neck cancer.Oral Oncology 75 (2017) 54–60.[2017B.pdf](https://github.com/AtanuBhattacharjee/github.io/files/4764007/2017B.pdf).
+
+3.Noronha V, Patil VM, Joshi A, Bhattacharjee A, Paul D,
+Dhumal S, et al. A tertiary care experience with paclitaxel and cetuximab as
+palliative chemotherapy in platinum sensitive and nonsensitive in head and
+neck cancers. South Asian J Cancer 2017;6:11-4.[2017C.pdf](https://github.com/AtanuBhattacharjee/github.io/files/4764008/2017C.pdf)
+
+4.Niranjan Gopal,Bidhan Chandra Koner,Atanu Bhattacharjee,Vishnu Bhat, Sathish Babu,Murugaiyan, Prakash H. Muddegowda.Assay of Urinary Protein Carbonyl Content Can Predict the Steroid Dependence and Resistance in Children with Idiopathic Nephrotic
+Syndrome.Saudi J Kidney Dis Transpl 2017;28(2):268-272[2017D.pdf](https://github.com/AtanuBhattacharjee/github.io/files/4764009/2017D.pdf)
+
+5.Atanu Bhattacharjee,Jesna Jose,Gajendra K. Vishwakarma,Ramesh Kumar.Joint modeling of missing and mismeasured measurements for computing radiotherapy margins[2017E.pdf](https://github.com/AtanuBhattacharjee/github.io/files/4764011/2017E.pdf)
+
+6.Atanu Bhattacharjeea,Tapesh Bhattacharyya,Sanjana Santhosh,P. Kiran,V.P. Sanudev Sadanandan,M. Geetha.Impact of waiting time for treatment on survival in patients undergoing radiotherapy for head and neck cancer.Journal of Cancer Policy 13 (2017) 1–4[2017F.pdf](https://github.com/AtanuBhattacharjee/github.io/files/4764012/2017F.pdf)
+
+7.A. Bhattacharjee, et al., Human epidermal growth factor receptor 2 borderline mortality in breast cancer
+patients: Evidence from surveillance, epidemiology, and end results program population-based study, Clin Epidemiol Glob Health (2018),
+https://doi.org/10.1016/j.cegh.2017.12.005.[2017G.pdf](https://github.com/AtanuBhattacharjee/github.io/files/4764013/2017G.pdf)
+
+8.Joshi A, Bhattacharjee A, Noronha V, Patil V M, Karpe A, Kadam N, Solanki L, Prabhash K. Development and validation of a
+predictive score, for identifying poor eastern cooperative oncology group performance status (performance status 3–4) advanced
+nonsmall cell lung cancer patients who are likely to benefit from tyrosine kinase inhibitors.Indian J Cancer 2017;54:127-131.[2017H.pdf](https://github.com/AtanuBhattacharjee/github.io/files/4764014/2017H.pdf)
+
+9.Vanita Noronha,Vijay Patil1,Amit Joshi1, Anuradha Chougule,Atanu Bhattacharjee,Rajiv Kumar, Sucheta More,Supriya
+Goud, Ashay Karpe, Anant Ramaswamy, Nikhil Pande, Arun Chandrasekharan, Alok Goel, Vikas Talreja, Abhishek
+Mahajan, Amit Janu, Nilendu Purandare and Kumar Prabhash.Impact of exon 19 versus exon 21 EGFR-activating mutation on
 outcomes with upfront pemetrexed–carboplatin chemotherapy[2017I.pdf](https://github.com/AtanuBhattacharjee/github.io/files/4764015/2017I.pdf)
-10.EMERALD: Emergency visit audit of patients treated under medical oncology
-in a tertiary cancer center: Logical steps to decrease the burden[2017J.pdf](https://github.com/AtanuBhattacharjee/github.io/files/4764016/2017J.pdf)
-11.Results of a phase II randomized controlled clinical trial comparing efficacy
-of Cabazitaxel versus Docetaxel as second line or above therapy in recurrent
-head and neck cancer[2017K.pdf](https://github.com/AtanuBhattacharjee/github.io/files/4764017/2017K.pdf)
-12.Agreement analysis between three different
-short geriatric screening scales in patients
-undergoing chemotherapy for solid tumors.[2017L.pdf](https://github.com/AtanuBhattacharjee/github.io/files/4764018/2017L.pdf)
-13.A New Index to Measure Intra-observer Variation in
-Delineating GTV Primary in Head and Neck Cancer[2017M.pdf](https://github.com/AtanuBhattacharjee/github.io/files/4764019/2017M.pdf)
-14.Multiple Imputations for Determining an Optimum
-Biological Dose of a Metronomic Chemotherapy[2017N.pdf](https://github.com/AtanuBhattacharjee/github.io/files/4764020/2017N.pdf)
-15.Bayesian relative survival : An illustration with lung cancer patients 
-data[2017O.pdf](https://github.com/AtanuBhattacharjee/github.io/files/4764021/2017O.pdf)
-16.Once-a-Week Versus Once-Every-3-Weeks Cisplatin Chemoradiation for Locally Advanced Head and Neck Cancer: A Phase III Randomized Noninferiority Trial.[2017P.pdf](https://github.com/AtanuBhattacharjee/github.io/files/4764022/2017P.pdf)
+
+10.Joshi A, Patil VM, Noronha V, Ramaswamy A,
+Gupta S, Bhattacharjee A, et al. EMERALD: Emergency visit audit of patients
+treated under medical oncology in a tertiary cancer center: Logical steps to
+decrease the burden. South Asian J Cancer 2017;6:186-9.[2017J.pdf](https://github.com/AtanuBhattacharjee/github.io/files/4764016/2017J.pdf)
+
+11.Amit Joshi,Vijay Patil,Vanita Noronha,Sachin Dhumal,Nikhil Pande,Arun Chandrasekharan,Siddharth Turkar,Hollis DSouza,Sameer Shrirangwar, Abhishek Mahajan, Supreeta Arya, Shashikant Juvekar, Atanu BhattaCharjee, Kumar Prabhash.
+Results of a phase II randomized controlled clinical trial comparing efficacy of Cabazitaxel versus Docetaxel as second line or above therapy in recurrent head and neck cancer.Oral Oncol
+. 2017 Dec;75:54-60. [2017K.pdf](https://github.com/AtanuBhattacharjee/github.io/files/4764017/2017K.pdf)
+
+
+12.Joshi A, Tandon N, Patil VM, Noronha V, Gupta S, Bhattacharjee A, et al. Agreement analysis between three
+different short geriatric screening scales in patients undergoing chemotherapy for solid tumors. J Can Res Ther 2017;13:1023-6.[2017L.pdf](https://github.com/AtanuBhattacharjee/github.io/files/4764018/2017L.pdf)
+
+13.A New Index to Measure Intra-observer Variation in Delineating GTV Primary in Head and Neck Cancer[2017M.pdf](https://github.com/AtanuBhattacharjee/github.io/files/4764019/2017M.pdf)
+
+14.Atanu B, Gajendra V, Jesna J and Ramesh V.Multiple Imputations for Determining an Optimum Biological Dose of a Metronomic Chemotherapy.Biostat Biometrics Open Acc J 3(5): BBOAJ.MS.ID.555621 (2017).[2017N.pdf](https://github.com/AtanuBhattacharjee/github.io/files/4764020/2017N.pdf)
+
+
+15.Vijay M Patil,Vanita Noronh,Amit Joshi,Kumar Prabhash,Atanu Bhattacharjee.Bayesian relative survival : An illustration with lung cancer patients data.Journal of Statistics & Management Systems
+Vol. 20 (2017), No. 3, pp. 325–336.[2017O.pdf](https://github.com/AtanuBhattacharjee/github.io/files/4764021/2017O.pdf)
+
+16.Vanita Noronha, Amit Joshi, Vijay Maruti Patil, Jaiprakash Agarwal, Sarbani Ghosh-Laskar, Ashwini Budrukkar,
+Vedang Murthy, Tejpal Gupta, Anil K. D’Cruz, Shripad Banavali, Prathamesh S. Pai, Pankaj Chaturvedi,
+Devendra Chaukar, Nikhil Pande, Arun Chandrasekharan, Vikas Talreja, Dilip Harindran Vallathol,
+Vijayalakshmi Mathrudev, Aparna Manjrekar, Kamesh Maske, Arati Sanjay Bhelekar, Kavita Nawale, Sadhana
+Kannan, Vikram Gota, Atanu Bhattacharjee, Shubhada Kane, Shashikant L. Juvekar, and Kumar Prabhash.Once-a-Week Versus Once-Every-3-Weeks Cisplatin Chemoradiation for Locally Advanced Head and Neck Cancer: A Phase III Randomized Noninferiority Trial.J Clin Oncol
+. 2018 Apr 10;36(11):1064-1072.[2017P.pdf](https://github.com/AtanuBhattacharjee/github.io/files/4764022/2017P.pdf)
 
 ## [2016-2014]
 1.VM Patil,S Chakraborty,TK Jithin, S Dessai, TP Sajith Babu,V Raghavan, M Geetha, T Shiva Kumar, MS Biji, A Bhattacharjee, C Nair.Development and validation of a questionnaire to measure preferences and expectations of patients undergoing palliative chemotherapy: EXPECT questionnaire.Indian Journal of Cancer.2016;53(2),339-344.[2016A.pdf](https://github.com/AtanuBhattacharjee/github.io/files/4716367/2016A.pdf).
