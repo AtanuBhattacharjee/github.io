@@ -23,7 +23,7 @@ Case Load Rate.[preprints202005.0044.v1.pdf](https://github.com/AtanuBhattacharj
 3.Atanu Bhattacharjee,GajendraK.Vishwakarma,Souvik Banerjee and Sharvari Shukla.How to Analyze Cancer Progression in COVID-19 Pandemic?
 [v1_stamped.pdf](https://github.com/AtanuBhattacharjee/github.io/files/4751930/v1_stamped.pdf).
 
-4.Nimisha Tripathi, Sneha Keshari, Pallavi Shahi, Poonam Maurya, Atanu Bhattacharjee, Kushal Gupta, Sanjay Talole, Mekesh Kumar.Human papillomavirus elevated genetic biomarker signature by statistical algorithm.Journal of Cellular Physiology(In press).
+4.Nimisha Tripathi, Sneha Keshari, Pallavi Shahi, Poonam Maurya, Atanu Bhattacharjee, Kushal Gupta, Sanjay Talole, Mekesh Kumar.Human papillomavirus elevated genetic biomarker signature by statistical algorithm.Journal of Cellular Physiology(In press).[JCP Published Article.pdf](https://github.com/AtanuBhattacharjee/github.io/files/4779762/JCP.Published.Article.pdf)
 
 5.Arun Balaji, Shivakumar Thiagarajan, Harsh Dhar, Akshat Malik, Atanu Bhattacharjee, Adhara Chakraborthy,Snehal Shah, et al.The results of sequential swallowing assessments after total laryngectomy for laryngeal and hypopharyngeal malignancies.European Archives of Oto-Rhino-Laryngology. https://doi.org/10.1007/s00405-020-06105-5
 [10.1007_s00405-020-06105-5.pdf](https://github.com/AtanuBhattacharjee/github.io/files/4752458/10.1007_s00405-020-06105-5.pdf)
