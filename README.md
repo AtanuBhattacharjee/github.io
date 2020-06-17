@@ -184,7 +184,7 @@ Results of a phase II randomized controlled clinical trial comparing efficacy of
 12.Joshi A, Tandon N, Patil VM, Noronha V, Gupta S, Bhattacharjee A, et al. Agreement analysis between three
 different short geriatric screening scales in patients undergoing chemotherapy for solid tumors. J Can Res Ther 2017;13:1023-6.[2017L.pdf](https://github.com/AtanuBhattacharjee/github.io/files/4764018/2017L.pdf)
 
-13.A New Index to Measure Intra-observer Variation in Delineating GTV Primary in Head and Neck Cancer[2017M.pdf](https://github.com/AtanuBhattacharjee/github.io/files/4764019/2017M.pdf)
+13.Tapesh Bhattacharyya and Atanu Bhattacharjee.A New Index to Measure Intra-observer Variation in Delineating GTV Primary in Head and Neck Cancer.MOJ Cell Sci Rep. 2017;4(4):104‒108.[2017M.pdf](https://github.com/AtanuBhattacharjee/github.io/files/4764019/2017M.pdf)
 
 14.Atanu B, Gajendra V, Jesna J and Ramesh V.Multiple Imputations for Determining an Optimum Biological Dose of a Metronomic Chemotherapy.Biostat Biometrics Open Acc J 3(5): BBOAJ.MS.ID.555621 (2017).[2017N.pdf](https://github.com/AtanuBhattacharjee/github.io/files/4764020/2017N.pdf)
 
