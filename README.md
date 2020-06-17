@@ -131,7 +131,7 @@ Head and Neck Cancer.Clinical Oncology xxx (2018) 1.[2018H.pdf](https://github.c
 of Metronomic Chemotherapy.Biometrical Letters
 Vol. 0 (2018), No. 0, xx-xx.[2018I.pdf](https://github.com/AtanuBhattacharjee/github.io/files/4716520/2018I.pdf).
 
-10. Nair CK, Raghavan V, Bhattacharjee A, Kurup AR. Impact of early reduction in paraprotein on survival in transplant ineligible myeloma: Lesson from a tertiary cancer center in rural India.
+10. Nair CK, Raghavan V, Bhattacharjee A, Kurup AR. Impact of early reduction in paraprotein on survival in transplant ineligible myeloma: Lesson from a tertiary cancer center in rural India.[2018J.pdf](https://github.com/AtanuBhattacharjee/github.io/files/4793314/2018J.pdf)
 
 11.Amit Joshi, Vijay Patil, Vanita Noronha, Anuradha Chougule, Atanu Bhattacharjee, Rajiv Kumar, Supriya Goud, Sucheta More, Anant Ramaswamy, Ashay Karpe, Nikhil Pande, Arun Chandrasekharan, Alok Goel, Vikas Talreja, Abhishek Mahajan, Amit Janu, Nilendu Purandare, Kumar Prabhash: Efficacy of gefitinib in epidermal growth factor receptor-activating mutation-positive nonsmall cell lung cancer: Does exon 19 deletion differ from exon 21 mutation?. Lung India 01/2018; 35(1):27., DOI:10.4103/lungindia.lungindia_201_17. [2018K.pdf](https://github.com/AtanuBhattacharjee/github.io/files/4716521/2018K.pdf)
 
