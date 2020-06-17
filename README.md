@@ -197,7 +197,33 @@ Vedang Murthy, Tejpal Gupta, Anil K. D’Cruz, Shripad Banavali, Prathamesh S. P
 Devendra Chaukar, Nikhil Pande, Arun Chandrasekharan, Vikas Talreja, Dilip Harindran Vallathol,
 Vijayalakshmi Mathrudev, Aparna Manjrekar, Kamesh Maske, Arati Sanjay Bhelekar, Kavita Nawale, Sadhana
 Kannan, Vikram Gota, Atanu Bhattacharjee, Shubhada Kane, Shashikant L. Juvekar, and Kumar Prabhash.Once-a-Week Versus Once-Every-3-Weeks Cisplatin Chemoradiation for Locally Advanced Head and Neck Cancer: A Phase III Randomized Noninferiority Trial.J Clin Oncol
-. 2018 Apr 10;36(11):1064-1072.[2017P.pdf](https://github.com/AtanuBhattacharjee/github.io/files/4764022/2017P.pdf)
+. 2018 Apr 10;36(11):1064-1072.[2017P.pdf](https://github.com/AtanuBhattacharjee/github.io/files/4764022/2017P.pdf).
+
+17.Retrospective analysis of palliative metronomic chemotherapy in head and neck cancer.
+
+18.Comparison of paclitaxel-cetuximab chemotherapy versus metronomic chemotherapy consisting of methotrexate and celecoxib as palliative chemotherapy in head and neck cancers.
+
+19.Risk-Based Monitoring in Clinical Trial: An Application with Neural Networking.
+
+20.Detecting Diagnostic Accuracy of Biomarkers Through a Bivariate Beta Distribution.
+
+21.A Novel Model to Predict Tumour Recurrence in Hepatitis B Virus Associated Hepatocellular Carcinoma.
+
+22.Reference Data for Standardized Quality of Life Questionnaires in Indian Patients with Brain Metastases from Non-small Cell Lung Cancer: Results from a Prospective Study.
+
+24.Phase III study of gefitinib or pemetrexed with carboplatin in EGFR-mutated advanced lung adenocarcinoma.
+
+25.Neoadjuvant chemotherapy in geriatric head and neck cancers.
+
+
+26.Determining an optimum biological dose of a metronomic chemotherapy.
+
+
+27.Bayesian accelerated failure time and its application in Chemotherapy drug treatment trial.
+
+
+
+
 
 ## [2016-2014]
 1.VM Patil,S Chakraborty,TK Jithin, S Dessai, TP Sajith Babu,V Raghavan, M Geetha, T Shiva Kumar, MS Biji, A Bhattacharjee, C Nair.Development and validation of a questionnaire to measure preferences and expectations of patients undergoing palliative chemotherapy: EXPECT questionnaire.Indian Journal of Cancer.2016;53(2),339-344.[2016A.pdf](https://github.com/AtanuBhattacharjee/github.io/files/4716367/2016A.pdf).
