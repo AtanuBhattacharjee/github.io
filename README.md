@@ -203,35 +203,27 @@ Kannan, Vikram Gota, Atanu Bhattacharjee, Shubhada Kane, Shashikant L. Juvekar, 
 
 18.Comparison of paclitaxel-cetuximab chemotherapy versus metronomic chemotherapy consisting of methotrexate and celecoxib as palliative chemotherapy in head and neck cancers.
 
-19.Risk-Based Monitoring in Clinical Trial: An Application with Neural Networking.[2017S.pdf](https://github.com/AtanuBhattacharjee/github.io/files/4793434/2017S.pdf)
+19.Atanu B,Savanur S and Suman K.Risk-Based Monitoring in Clinical Trial: An Application with Neural Networking.Biostat Biometrics Open Acc J 3(5): BBOAJ.MS.ID.555524 (2017).[2017S.pdf](https://github.com/AtanuBhattacharjee/github.io/files/4793434/2017S.pdf)
 
 
-20.Detecting Diagnostic Accuracy of Biomarkers Through a Bivariate Beta Distribution.[2017T.pdf](https://github.com/AtanuBhattacharjee/github.io/files/4793478/2017T.pdf)
+20.Atanu Bhattacharjee,Gajendra Vishwakarma,Abin Thomas.Detecting Diagnostic Accuracy of Biomarkers Through a Bivariate Beta Distribution.[2017T.pdf](https://github.com/AtanuBhattacharjee/github.io/files/4793478/2017T.pdf)
 
 
 21.A Novel Model to Predict Tumour Recurrence in Hepatitis B Virus Associated Hepatocellular Carcinoma.[2017U.pdf](https://github.com/AtanuBhattacharjee/github.io/files/4793483/2017U.pdf)
 
 
-22.Reference Data for Standardized Quality of Life Questionnaires in Indian Patients with Brain Metastases from Non-small Cell Lung Cancer: Results from a Prospective Study.[2017V.pdf](https://github.com/AtanuBhattacharjee/github.io/files/4793495/2017V.pdf)
+22.Jaiprakash Aggarwal,Santam Chakraborty,Sarbani Ghosh Laskar,Vijay M. Patil,Kumar Prabhash,Atanu Bhattacharjee,Vanita Noronha,Nilendu C. Purandare,Amit Joshi,Naveen Mummudi,Jitendra Arora,Rupali Badhe.Reference Data for Standardized Quality of Life Questionnaires in Indian Patients with Brain Metastases from Non-small Cell Lung Cancer: Results from a Prospective Study.Cureus 9(4): e1149. DOI 10.7759/cureus.1149[2017V.pdf](https://github.com/AtanuBhattacharjee/github.io/files/4793495/2017V.pdf)
 
 
-24.Phase III study of gefitinib or pemetrexed with carboplatin in EGFR-mutated advanced lung adenocarcinoma.[2017W.pdf](https://github.com/AtanuBhattacharjee/github.io/files/4793475/2017W.pdf)
+24.Vijay Maruti Patil,Vanita Noronha,Amit Joshi,Anuradha Bharat Choughule,Atanu Bhattacharjee,Rajiv Kumar,Supriya Goud,Sucheta More,Anant Ramaswamy,Ashay Karpe,Nikhil Pande,Arun Chandrasekharan,Alok Goel,Vikas Talreja,Abhishek Mahajan,Amit Janu,Nilendu Purandare,Kumar Prabhash.Phase III study of gefitinib or pemetrexed with carboplatin in EGFR-mutated advanced lung adenocarcinoma.ESMO Open 2017;2:e000168. doi:10.1136/esmoopen-2017-000168
+.[2017W.pdf](https://github.com/AtanuBhattacharjee/github.io/files/4793475/2017W.pdf)
 
 
-25.Neoadjuvant chemotherapy in geriatric head and neck cancers.[2017X.pdf](https://github.com/AtanuBhattacharjee/github.io/files/4793462/2017X.pdf)
+25.Vijay M. Patil,Vanita Noronha,Amit Joshi,Anant Ramaswamy,Sachin Dhumal,Shashikant Juvekar,Supreeta Arya,Abhishek Mahajan,Pankaj Chaturvedi,Anil D’Cruz,Atanu Bhattacharjee,Kumar Prabhash.Neoadjuvant chemotherapy in geriatric head and neck cancers.HEAD & NECK—DOI 10.1002/HED MONTH 2017[2017X.pdf](https://github.com/AtanuBhattacharjee/github.io/files/4793462/2017X.pdf)
 
+26.Atanu Bhattacharjee,Vijay M Patil.Determining an optimum biological dose of a metronomic chemotherapy.Journal of Data Science 15(2017), 867-884 [2017Y.pdf](https://github.com/AtanuBhattacharjee/github.io/files/4793449/2017Y.pdf)
 
-
-26.Determining an optimum biological dose of a metronomic chemotherapy.[2017Y.pdf](https://github.com/AtanuBhattacharjee/github.io/files/4793449/2017Y.pdf)
-
-
-
-27.Bayesian accelerated failure time and its application in Chemotherapy drug treatment trial.[2017Z.pdf](https://github.com/AtanuBhattacharjee/github.io/files/4793418/2017Z.pdf)
-
-
-
-
-
+27.Vijay M Patil, Vanita Noronh, Amit Joshi, Kumar Prabhash & Atanu Bhattacharjee.Bayesian accelerated failure time and its application in Chemotherapy drug treatment trial.Journal of Statistics & Management Systems Vol. 20 (2017), No. 3, pp. 325–336.[2017Z.pdf](https://github.com/AtanuBhattacharjee/github.io/files/4793418/2017Z.pdf)
 
 ## [2016-2014]
 1.VM Patil,S Chakraborty,TK Jithin, S Dessai, TP Sajith Babu,V Raghavan, M Geetha, T Shiva Kumar, MS Biji, A Bhattacharjee, C Nair.Development and validation of a questionnaire to measure preferences and expectations of patients undergoing palliative chemotherapy: EXPECT questionnaire.Indian Journal of Cancer.2016;53(2),339-344.[2016A.pdf](https://github.com/AtanuBhattacharjee/github.io/files/4716367/2016A.pdf).
