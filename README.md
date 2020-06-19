@@ -69,6 +69,9 @@ Nimotuzumab-cisplatin-radiation versus cisplatin-radiation in HPV negative oroph
 
 19.Vijay Maruti Patil,Vanita Noronha,Shivakumar Thiagarajan,Amit Joshi,Arun Chandrasekharan,Vikas Talreja,Jaiprakash Agarwal,Sarbani Ghosh-Laskar,Ashwini Budrukkar,Shashikant Juvekar,Abhishek Mahajan,Archi Agarwal,Nilendu Purandare,Atanu Bhattacharjee, Anil K D'Cruz, Pankaj Chaturvedi,Prathamesh S Pai 2,Devendra Chaukar,Kumar Prabhash.Salvage surgery in head and neck cancer: Does it improve outcomes?Eur J Surg Oncol. 2020 Jan 15;S0748-7983(20)30024-X. doi: 10.1016/j.ejso.2020.01.019.[2020D.pdf](https://github.com/AtanuBhattacharjee/github.io/files/4716296/2020D.pdf)
 
+20.Vijay M. Patil, Vanita Noronha, Amit Joshi,Vikas Talreja, Sachin Dhumal, Nandini Menon,Anuja Abhyankar, Hollis Dsouza,Gunjesh Kumar Singh, Atanu Bhattacharjee,Sarbani Ghosh‑Laskar,Prathamesh Pai,Pankaj Chaturvedi,Deepa Nair,Devendra Chaukar3, Anil D’Cruz,Prakash Shetty3, Aliasgar Moiyadi,Kumar Prabhash.Long-term outcomes of locally advanced and borderline resectable esthesioneuroblastoma and sinonasal tumor with neuroendocrine differentiation treated with neoadjuvant chemotherapy.Cancer Res Stat Treat 2020;3:201-6.[2020T.pdf](https://github.com/AtanuBhattacharjee/github.io/files/4804031/2020T.pdf)
+ 
+
 ## [2019]
 1. Amit Joshi, Sameer Shrirangwar, Vanita Noronha, Nilesh Sable, Archi Agarwal, Palak Popat, Atanu Bhattacharjee, Kumar Prabhash.
  A tertiary care audit of using abiraterone acetate in patients of metastatic castrate-resistant prostate cancer.South Asian J
