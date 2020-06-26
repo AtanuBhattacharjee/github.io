@@ -17,7 +17,7 @@ Computational Approaches and Precision Medicine. Spinger Verlag, Nature.
 ### [2020]
 1.Atanu Bhattacharjee, Gajendra Vishwakarma and Souvik Banerjee.Joint Modeling of Longitudinal and Time-to-Event Data with Missing Time-Varying Covariates in Targeted Therapy of Oncology.Communications in Statistics: Case Studies, Data Analysis and Applications.(In press).
 
-2.Atanu Bhattacharjee. Estimation of Treatment Effect with Missing Observations for Three Arms and Three Periods Crossover Clinical Trials.(In Press). Annals of Data Science.
+2.Atanu Bhattacharjee. Estimation of Treatment Effect with Missing Observations for Three Arms and Three Periods Crossover Clinical Trials.(In Press). Annals of Data Science.https://rdcu.be/b5bPM
 
 3.Sandip Basu,Atanu Bhattacharjee and Beju Menon. "Standardized Uptake Values and Ratios on 68Ga-DOTATATE PET-CT for Normal organs and Malignant Lesions and their correlation with Krenning Score in patients with Metastatic Neuroendocrine tumors"(In press). Nuclear Medicine Communications.
 
