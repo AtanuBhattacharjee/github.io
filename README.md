@@ -29,7 +29,7 @@ Computational Approaches and Precision Medicine. Spinger Verlag, Nature.
 sinonasal tumor with neuroendocrine differentiation treated with neoadjuvant chemotherapy.(In press).
 
 6.Atanu Bhattacharjee,Mukesh Kumar,Kamalesh Kumar Patel. When COVID-19 will Decline in India? Prediction by Combination of Recovery and
-Case Load Rate.[preprints202005.0044.v1.pdf](https://github.com/AtanuBhattacharjee/github.io/files/4751985/preprints202005.0044.v1.pdf)
+Case Load Rate.[[CEGH Published.pdf](https://github.com/AtanuBhattacharjee/github.io/files/4840778/CEGH.Published.pdf)](https://github.com/AtanuBhattacharjee/github.io/files/4751985/preprints202005.0044.v1.pdf)
 
 7.Atanu Bhattacharjee,GajendraK.Vishwakarma,Souvik Banerjee and Sharvari Shukla.How to Analyze Cancer Progression in COVID-19 Pandemic?
 [v1_stamped.pdf](https://github.com/AtanuBhattacharjee/github.io/files/4751930/v1_stamped.pdf).
