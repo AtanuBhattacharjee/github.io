@@ -20,7 +20,8 @@ Computational Approaches and Precision Medicine. Spinger Verlag, Nature.
 2.Atanu Bhattacharjee. Estimation of Treatment Effect with Missing Observations for Three Arms and Three Periods Crossover Clinical Trials.(In Press). Annals of Data Science.https://rdcu.be/b5bPM[ADS.pdf](https://github.com/AtanuBhattacharjee/github.io/files/4843917/ADS.pdf)
 
 
-3.Sandip Basu,Atanu Bhattacharjee and Beju Menon. "Standardized Uptake Values and Ratios on 68Ga-DOTATATE PET-CT for Normal organs and Malignant Lesions and their correlation with Krenning Score in patients with Metastatic Neuroendocrine tumors"(In press). Nuclear Medicine Communications.
+3.Sandip Basu,Atanu Bhattacharjee and Beju Menon. "Standardized Uptake Values and Ratios on 68Ga-DOTATATE PET-CT for Normal organs and Malignant Lesions and their correlation with Krenning Score in patients with Metastatic Neuroendocrine tumors"(In press). Nuclear Medicine Communications.[NMC.pdf](https://github.com/AtanuBhattacharjee/github.io/files/4867694/NMC.pdf)
+
 
 4.Hitesh Rajendra Singhavi,Arjun Singh,Atanu Bhattacharjee,Sanjay Talole,Rajesh Dikshit,Pankaj Chaturvedi. Alcohol and Cancer Risk: A Systematic Review and Meta‑Analysis of Prospective Indian Studies.June 2020Indian journal of public health 64(2):186-193
 [IndianJPublicHealth642186-6212962_171529.pdf](https://github.com/AtanuBhattacharjee/github.io/files/4788130/IndianJPublicHealth642186-6212962_171529.pdf)
