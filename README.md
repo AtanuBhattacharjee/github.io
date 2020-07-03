@@ -15,7 +15,7 @@ Gaurav Roy, Atanu Bhattacharjee, and Iqra Khan (2020).‘Essentials of Cancer Ge
 Computational Approaches and Precision Medicine. Spinger Verlag, Nature.
 ## Research Paper
 ### [2020]
-1.Atanu Bhattacharjee, Gajendra Vishwakarma and Souvik Banerjee.Joint Modeling of Longitudinal and Time-to-Event Data with Missing Time-Varying Covariates in Targeted Therapy of Oncology.Communications in Statistics: Case Studies, Data Analysis and Applications.(In press).
+1.Atanu Bhattacharjee, Gajendra Vishwakarma and Souvik Banerjee.Joint Modeling of Longitudinal and Time-to-Event Data with Missing Time-Varying Covariates in Targeted Therapy of Oncology.Communications in Statistics: Case Studies, Data Analysis and Applications.[Joint modeling PCR.pdf](https://github.com/AtanuBhattacharjee/github.io/files/4867678/Joint.modeling.PCR.pdf).
 
 2.Atanu Bhattacharjee. Estimation of Treatment Effect with Missing Observations for Three Arms and Three Periods Crossover Clinical Trials.(In Press). Annals of Data Science.https://rdcu.be/b5bPM[ADS.pdf](https://github.com/AtanuBhattacharjee/github.io/files/4843917/ADS.pdf)
 
