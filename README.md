@@ -101,7 +101,8 @@ Clinical Epidemiology and Global Health.2019.7(3).337-341.
 ## [2018]
  
 1.Atanu Bhattacharjee,Gajendra K. Vishwakarma,Abin Thomas.Bayesian state-space modeling in gene expression data analysis: An
-application with biomarker prediction.2018;Mathematical Biosciences.2018 Nov;305:96-101. doi: 10.1016/j.mbs.2018.08.011. Epub 2018 Sep 5.[2018A.pdf](https://github.com/AtanuBhattacharjee/github.io/files/4716508/2018A.pdf)
+application with biomarker prediction.2018;Mathematical Biosciences.2018 Nov;305:96-101. doi: 10.1016/j.mbs.2018.08.011. Epub 2018 Sep 5.[2018A.pdf](https://github.com/AtanuBhattacharjee/github.io/files/4882333/2018A.pdf)
+
 
 2.Vijay Patil, Amit Joshi, Vanita Noronha, Atanu Bhattacharjee1, Sachin Dhumal, M. V. Chandrakanth, Ashay Karpe,
 Vikas Talreja, Arun Chandrasekharan, Siddharth Turkar, Nikhil Pande, Anant Ramaswamy, Kumar Prabhash. Quality of life and quality‑adjusted time without toxicity in palliatively treated
