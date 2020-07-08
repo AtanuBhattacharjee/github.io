@@ -98,7 +98,8 @@ Clinical Epidemiology and Global Health.2019.7(3).337-341.
 13. A Bhattacharjee, GK Vishwakarma.Time-course data prediction for repeatedly measured gene expression.International Journal of Biomathematics.2019.12(4).[bhattacharjee2019.pdf](https://github.com/AtanuBhattacharjee/github.io/files/4882223/bhattacharjee2019.pdf)
 
 14. Vijay M Patil, Arun Chandrasekharan, Dilip Harindran Vallathol, Mridul Malhotra, Ram Abhinav, Priti Agarwal, Anu Rajpurohit, Raees Tonse, Atanu Bhattacharjee, Rakesh Jalali. Antiemetic prophylaxis with temozolomide: an audit from a tertiary care center.2019.Neuro-Oncology Practice.4(19).
-15. Atanu Bhattacharjee, Gaurav Roy, Atul Budukh, Rajesh Dikshit, Vijay M Patil, Amit Joshi, Vanita Noronha, Kumar Prabash, Papai Roy A competing risk analysis of death patterns in male genitourinary cancer.(2019).Cancer Reports, e1174.
+15. Atanu Bhattacharjee, Gaurav Roy, Atul Budukh, Rajesh Dikshit, Vijay M Patil, Amit Joshi, Vanita Noronha, Kumar Prabash, Papai Roy A competing risk analysis of death patterns in male genitourinary cancer.(2019).Cancer Reports, e1174.[cnr2.1174.pdf](https://github.com/AtanuBhattacharjee/github.io/files/4890400/cnr2.1174.pdf)
+
 ## [2018]
  
 1.Atanu Bhattacharjee,Gajendra K. Vishwakarma,Abin Thomas.Bayesian state-space modeling in gene expression data analysis: An
