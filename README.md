@@ -51,7 +51,6 @@ Case Load Rate.[[CEGH Published.pdf](https://github.com/AtanuBhattacharjee/githu
 
 13.Vijay M. Patil  Arti Bhelekar  Nandini Menon  Atanu Bhattacharjee  Vijai Simha  Ram Abhinav  Anuja Abhyankar  Epari Sridhar  Abhishek Mahajan  Ameya D. Puranik. Reverse swing‐M, phase 1 study of repurposing mebendazole in recurrent high‐grade glioma.cancer Medicine.https://doi.org/10.1002/cam4.3094.[2020I.pdf](https://github.com/AtanuBhattacharjee/github.io/files/4716315/2020I.pdf)
 
-
 14.Atanu Bhattacharjee, Vijay M Patil, Rajesh Dikshit, Kumar Prabhash, Arjun Singh, Pankaj Chaturvedi.Should we wait or not? The preferable option for patients with stage IV oral cancer in COVID-19 pandemic.Head Neck
 .2020 Jun;42(6):1173-1178. doi: 10.1002/hed.26196. Epub 2020 Apr 28.[2020G.pdf](https://github.com/AtanuBhattacharjee/github.io/files/4716313/2020G.pdf)
 
@@ -97,7 +96,8 @@ Clinical Epidemiology and Global Health.2019.7(3).337-341.
 12. Bhattacharjee A,Budukh A,Dikshit  R.Prostate cancer survival estimates: An application with piecewise hazard function derivation.South Asian journal of cancer.2019.8(3).105.
 13. A Bhattacharjee, GK Vishwakarma.Time-course data prediction for repeatedly measured gene expression.International Journal of Biomathematics.2019.12(4).[bhattacharjee2019.pdf](https://github.com/AtanuBhattacharjee/github.io/files/4882223/bhattacharjee2019.pdf)
 
-14. Vijay M Patil, Arun Chandrasekharan, Dilip Harindran Vallathol, Mridul Malhotra, Ram Abhinav, Priti Agarwal, Anu Rajpurohit, Raees Tonse, Atanu Bhattacharjee, Rakesh Jalali. Antiemetic prophylaxis with temozolomide: an audit from a tertiary care center.2019.Neuro-Oncology Practice.4(19).
+14. Vijay M Patil, Arun Chandrasekharan, Dilip Harindran Vallathol, Mridul Malhotra, Ram Abhinav, Priti Agarwal, Anu Rajpurohit, Raees Tonse, Atanu Bhattacharjee, Rakesh Jalali. Antiemetic prophylaxis with temozolomide: an audit from a tertiary care center.2019.Neuro-Oncology Practice.4(19).[20200708171912.pdf](https://github.com/AtanuBhattacharjee/github.io/files/4890407/20200708171912.pdf)
+
 15. Atanu Bhattacharjee, Gaurav Roy, Atul Budukh, Rajesh Dikshit, Vijay M Patil, Amit Joshi, Vanita Noronha, Kumar Prabash, Papai Roy A competing risk analysis of death patterns in male genitourinary cancer.(2019).Cancer Reports, e1174.[cnr2.1174.pdf](https://github.com/AtanuBhattacharjee/github.io/files/4890400/cnr2.1174.pdf)
 
 ## [2018]
