@@ -100,7 +100,10 @@ Clinical Epidemiology and Global Health.2019.7(3).337-341.
 
 14. Vijay M Patil, Arun Chandrasekharan, Dilip Harindran Vallathol, Mridul Malhotra, Ram Abhinav, Priti Agarwal, Anu Rajpurohit, Raees Tonse, Atanu Bhattacharjee, Rakesh Jalali. Antiemetic prophylaxis with temozolomide: an audit from a tertiary care center.2019.Neuro-Oncology Practice.4(19).[20200708171912.pdf](https://github.com/AtanuBhattacharjee/github.io/files/4890407/20200708171912.pdf)
 
-15. Atanu Bhattacharjee, Gaurav Roy, Atul Budukh, Rajesh Dikshit, Vijay M Patil, Amit Joshi, Vanita Noronha, Kumar Prabash, Papai Roy A competing risk analysis of death patterns in male genitourinary cancer.(2019).Cancer Reports, e1174.[cnr2.1174.pdf](https://github.com/AtanuBhattacharjee/github.io/files/4890400/cnr2.1174.pdf)
+15. Atanu Bhattacharjee, Gaurav Roy, Atul Budukh, Rajesh Dikshit, Vijay M Patil, Amit Joshi, Vanita Noronha, Kumar Prabash, Papai Roy A competing risk analysis of death patterns in male genitourinary cancer.(2019).Cancer Reports, e1174.[cnr2.1174.pdf](https://github.com/AtanuBhattacharjee/github.io/files/4890400/cnr2.1174.pdf).
+
+16.Vanita Noronha,Vijay Maruti Patil,Amit Joshi,Nandini Menon,Anuradha Chougule,Abhishek Mahajan,Amit Janu,Nilendu Purandare,Rajiv Kumar,Sucheta More,Supriya Goud,Nandkumar Kadam,Nilesh Daware,Atanu Bhattacharjee,Srushti Shah,Akanksha Yadav, Vaishakhi Trivedi, Vichitra Behel,Amit Dutt,hripad Dinanath Banavali,and Kumar Prabhash.Gefitinib Versus Gefitinib Plus Pemetrexed and Carboplatin Chemotherapy in EGFR-Mutated Lung Cancer.[noronha2019.pdf](https://github.com/AtanuBhattacharjee/github.io/files/4890867/noronha2019.pdf)
+
 
 ## [2018]
  
