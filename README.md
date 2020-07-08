@@ -76,7 +76,8 @@ Nimotuzumab-cisplatin-radiation versus cisplatin-radiation in HPV negative oroph
 
 ## [2019]
 1. Amit Joshi, Sameer Shrirangwar, Vanita Noronha, Nilesh Sable, Archi Agarwal, Palak Popat, Atanu Bhattacharjee, Kumar Prabhash.
- A tertiary care audit of using abiraterone acetate in patients of metastatic castrate-resistant prostate cancer.South Asian J
+ A tertiary care audit of using abiraterone acetate in patients of metastatic castrate-resistant prostate cancer.
+ Asian J
 Cancer 2020;9:23-6.
 2. Thiagarajan S, Dhar H, Bhattacharjee A, Fatehi KS, Shah SB, Chaukar D, Nair D, Deshmukh A, Prabhash K, Joshi A, Patil V, Noronha V, Laskar SG, Cruz AKD.Patterns of failure and outcomes in cT4 Oral squamous cell carcinoma (OSCC) undergoing upfront surgery in comparison to Neo-Adjuvant Chemotherapy (NACT) followed by surgery: A Matched Pair analysis.Oral Oncol. 2019 Nov 15;100:104455. doi: 10.1016/j.oraloncology.2019.104455.
 3. Narasimhan M, Kannan S, Chawade A, Bhattacharjee A, Govekar R. Clinical biomarker discovery by SWATH-MS based label-free quantitative proteomics: impact of criteria for identification of differentiators and data normalization method.J Transl Med. 2019 May 31;17(1):184. doi: 10.1186/s12967-019-1937-9.
@@ -93,7 +94,8 @@ Trivedi V, Behel V, Dutt A, Banavali SD, Prabhash K.Gefitinib Versus Gefitinib P
 Cancer Reports.Parametric survival analysis using R: Illustration with lung cancer data.2019. https://doi.org/10.1002/cnr2.1210
 11. Bhattacharjee A.A joint longitudinal and survival model for dynamic treatment regimes in Presence of Competing Risk Analysis.
 Clinical Epidemiology and Global Health.2019.7(3).337-341.
-12. Bhattacharjee A,Budukh A,Dikshit  R.Prostate cancer survival estimates: An application with piecewise hazard function derivation.South Asian journal of cancer.2019.8(3).105.
+12. Bhattacharjee A,Budukh A,Dikshit  R.Prostate cancer survival estimates: An application with piecewise hazard function derivation.South Asian journal of cancer.2019.8(3).105.[SouthAsianJCancer83150-4324212_120042.pdf](https://github.com/AtanuBhattacharjee/github.io/files/4890472/SouthAsianJCancer83150-4324212_120042.pdf)
+
 13. A Bhattacharjee, GK Vishwakarma.Time-course data prediction for repeatedly measured gene expression.International Journal of Biomathematics.2019.12(4).[bhattacharjee2019.pdf](https://github.com/AtanuBhattacharjee/github.io/files/4882223/bhattacharjee2019.pdf)
 
 14. Vijay M Patil, Arun Chandrasekharan, Dilip Harindran Vallathol, Mridul Malhotra, Ram Abhinav, Priti Agarwal, Anu Rajpurohit, Raees Tonse, Atanu Bhattacharjee, Rakesh Jalali. Antiemetic prophylaxis with temozolomide: an audit from a tertiary care center.2019.Neuro-Oncology Practice.4(19).[20200708171912.pdf](https://github.com/AtanuBhattacharjee/github.io/files/4890407/20200708171912.pdf)
