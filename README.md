@@ -15,64 +15,67 @@ Gaurav Roy, Atanu Bhattacharjee, and Iqra Khan (2020).‘Essentials of Cancer Ge
 Computational Approaches and Precision Medicine. Spinger Verlag, Nature.
 ## Research Paper
 ### [2020]
-1.Atanu Bhattacharjee, Gajendra Vishwakarma and Souvik Banerjee.Joint Modeling of Longitudinal and Time-to-Event Data with Missing Time-Varying Covariates in Targeted Therapy of Oncology.Communications in Statistics: Case Studies, Data Analysis and Applications.[Joint modeling PCR.pdf](https://github.com/AtanuBhattacharjee/github.io/files/4867678/Joint.modeling.PCR.pdf).
-
-2.Atanu Bhattacharjee. Estimation of Treatment Effect with Missing Observations for Three Arms and Three Periods Crossover Clinical Trials.(In Press). Annals of Data Science.https://rdcu.be/b5bPM[ADS.pdf][10.1007_s40745-020-00303-y.pdf](https://github.com/AtanuBhattacharjee/github.io/files/4941078/10.1007_s40745-020-00303-y.pdf)
+1. Classification Algorithm for High Dimensional Protein Markers in Time-course Data. Accepted in Statistics in Medicine.
 
 
+2.Atanu Bhattacharjee, Gajendra Vishwakarma and Souvik Banerjee.Joint Modeling of Longitudinal and Time-to-Event Data with Missing Time-Varying Covariates in Targeted Therapy of Oncology.Communications in Statistics: Case Studies, Data Analysis and Applications.[Joint modeling PCR.pdf](https://github.com/AtanuBhattacharjee/github.io/files/4867678/Joint.modeling.PCR.pdf).
 
-3.Sandip Basu,Atanu Bhattacharjee and Beju Menon. "Standardized Uptake Values and Ratios on 68Ga-DOTATATE PET-CT for Normal organs and Malignant Lesions and their correlation with Krenning Score in patients with Metastatic Neuroendocrine tumors"(In press). Nuclear Medicine Communications.[NMC.pdf](https://github.com/AtanuBhattacharjee/github.io/files/4867694/NMC.pdf)
+3.Atanu Bhattacharjee. Estimation of Treatment Effect with Missing Observations for Three Arms and Three Periods Crossover Clinical Trials.(In Press). Annals of Data Science.https://rdcu.be/b5bPM[ADS.pdf][10.1007_s40745-020-00303-y.pdf](https://github.com/AtanuBhattacharjee/github.io/files/4941078/10.1007_s40745-020-00303-y.pdf)
 
 
-4.Hitesh Rajendra Singhavi,Arjun Singh,Atanu Bhattacharjee,Sanjay Talole,Rajesh Dikshit,Pankaj Chaturvedi. Alcohol and Cancer Risk: A Systematic Review and Meta‑Analysis of Prospective Indian Studies.June 2020Indian journal of public health 64(2):186-193
+
+4.Sandip Basu,Atanu Bhattacharjee and Beju Menon. "Standardized Uptake Values and Ratios on 68Ga-DOTATATE PET-CT for Normal organs and Malignant Lesions and their correlation with Krenning Score in patients with Metastatic Neuroendocrine tumors"(In press). Nuclear Medicine Communications.[NMC.pdf](https://github.com/AtanuBhattacharjee/github.io/files/4867694/NMC.pdf)
+
+
+5.Hitesh Rajendra Singhavi,Arjun Singh,Atanu Bhattacharjee,Sanjay Talole,Rajesh Dikshit,Pankaj Chaturvedi. Alcohol and Cancer Risk: A Systematic Review and Meta‑Analysis of Prospective Indian Studies.June 2020Indian journal of public health 64(2):186-193
 [IndianJPublicHealth642186-6212962_171529.pdf](https://github.com/AtanuBhattacharjee/github.io/files/4788130/IndianJPublicHealth642186-6212962_171529.pdf)
 
 
-5.Long‑term outcomes of locally advanced and borderline resectable esthesioneuroblastoma and
+6.Long‑term outcomes of locally advanced and borderline resectable esthesioneuroblastoma and
 sinonasal tumor with neuroendocrine differentiation treated with neoadjuvant chemotherapy.(In press).
 
-6.Atanu Bhattacharjee,Mukesh Kumar,Kamalesh Kumar Patel. When COVID-19 will Decline in India? Prediction by Combination of Recovery and
+7.Atanu Bhattacharjee,Mukesh Kumar,Kamalesh Kumar Patel. When COVID-19 will Decline in India? Prediction by Combination of Recovery and
 Case Load Rate.[[CEGH Published.pdf](https://github.com/AtanuBhattacharjee/github.io/files/4840778/CEGH.Published.pdf)](https://github.com/AtanuBhattacharjee/github.io/files/4751985/preprints202005.0044.v1.pdf)
 
-7.Atanu Bhattacharjee,GajendraK.Vishwakarma,Souvik Banerjee and Sharvari Shukla.How to Analyze Cancer Progression in COVID-19 Pandemic?
+8.Atanu Bhattacharjee,GajendraK.Vishwakarma,Souvik Banerjee and Sharvari Shukla.How to Analyze Cancer Progression in COVID-19 Pandemic?
 [v1_stamped.pdf](https://github.com/AtanuBhattacharjee/github.io/files/4751930/v1_stamped.pdf).
 
-8.Nimisha Tripathi, Sneha Keshari, Pallavi Shahi, Poonam Maurya, Atanu Bhattacharjee, Kushal Gupta, Sanjay Talole, Mekesh Kumar.Human papillomavirus elevated genetic biomarker signature by statistical algorithm.Journal of Cellular Physiology(In press).[JCP Published Article.pdf](https://github.com/AtanuBhattacharjee/github.io/files/4779762/JCP.Published.Article.pdf)
+9.Nimisha Tripathi, Sneha Keshari, Pallavi Shahi, Poonam Maurya, Atanu Bhattacharjee, Kushal Gupta, Sanjay Talole, Mekesh Kumar.Human papillomavirus elevated genetic biomarker signature by statistical algorithm.Journal of Cellular Physiology(In press).[JCP Published Article.pdf](https://github.com/AtanuBhattacharjee/github.io/files/4779762/JCP.Published.Article.pdf)
 
-9.Arun Balaji, Shivakumar Thiagarajan, Harsh Dhar, Akshat Malik, Atanu Bhattacharjee, Adhara Chakraborthy,Snehal Shah, et al.The results of sequential swallowing assessments after total laryngectomy for laryngeal and hypopharyngeal malignancies.European Archives of Oto-Rhino-Laryngology. https://doi.org/10.1007/s00405-020-06105-5
+10.Arun Balaji, Shivakumar Thiagarajan, Harsh Dhar, Akshat Malik, Atanu Bhattacharjee, Adhara Chakraborthy,Snehal Shah, et al.The results of sequential swallowing assessments after total laryngectomy for laryngeal and hypopharyngeal malignancies.European Archives of Oto-Rhino-Laryngology. https://doi.org/10.1007/s00405-020-06105-5
 [10.1007_s00405-020-06105-5.pdf](https://github.com/AtanuBhattacharjee/github.io/files/4752458/10.1007_s00405-020-06105-5.pdf)
 
 
-10.Nikita Singh,Mukesh Kumar,Atanu Bhattacharjee,Prashant Kumar Sonker,Agni Saroj.Identification of Biomarkers and Enriched Pathways Involved in Lung Cancer.
+11.Nikita Singh,Mukesh Kumar,Atanu Bhattacharjee,Prashant Kumar Sonker,Agni Saroj.Identification of Biomarkers and Enriched Pathways Involved in Lung Cancer.
 [preprints2020NCC.pdf](https://github.com/AtanuBhattacharjee/github.io/files/4751966/preprints2020NCC.pdf)
 
-11.Abin Thomas,Gajendra K.Vishwakarma and Atanu Bhattacharjee.Joint modeling of longitudinal and time-to-event data on multivariate protein biomarkers.https://doi.org/10.1016/j.cam.2020.113016.[1-s2.0-S0377042720303071-main.pdf](https://github.com/AtanuBhattacharjee/github.io/files/4737433/1-s2.0-S0377042720303071-main.pdf)
+12.Abin Thomas,Gajendra K.Vishwakarma and Atanu Bhattacharjee.Joint modeling of longitudinal and time-to-event data on multivariate protein biomarkers.https://doi.org/10.1016/j.cam.2020.113016.[1-s2.0-S0377042720303071-main.pdf](https://github.com/AtanuBhattacharjee/github.io/files/4737433/1-s2.0-S0377042720303071-main.pdf)
 
-12.Atanu Bhattacharjee,Subita Patil,Sanjay Talole,Arjun Singh,Pankaj Chaturvedie,Rajesh Dikshit.An impact of single prevalence rate reduction of tobacco on cancer incidence- A challenge for global policy maker.https://doi.org/10.1016/j.cegh.2020.04.029.[pagination_CEGH_583.pdf](https://github.com/AtanuBhattacharjee/github.io/files/4714852/pagination_CEGH_583.pdf).
+13.Atanu Bhattacharjee,Subita Patil,Sanjay Talole,Arjun Singh,Pankaj Chaturvedie,Rajesh Dikshit.An impact of single prevalence rate reduction of tobacco on cancer incidence- A challenge for global policy maker.https://doi.org/10.1016/j.cegh.2020.04.029.[pagination_CEGH_583.pdf](https://github.com/AtanuBhattacharjee/github.io/files/4714852/pagination_CEGH_583.pdf).
 
-13.Vijay M. Patil  Arti Bhelekar  Nandini Menon  Atanu Bhattacharjee  Vijai Simha  Ram Abhinav  Anuja Abhyankar  Epari Sridhar  Abhishek Mahajan  Ameya D. Puranik. Reverse swing‐M, phase 1 study of repurposing mebendazole in recurrent high‐grade glioma.cancer Medicine.https://doi.org/10.1002/cam4.3094.[2020I.pdf](https://github.com/AtanuBhattacharjee/github.io/files/4716315/2020I.pdf)
+14.Vijay M. Patil  Arti Bhelekar  Nandini Menon  Atanu Bhattacharjee  Vijai Simha  Ram Abhinav  Anuja Abhyankar  Epari Sridhar  Abhishek Mahajan  Ameya D. Puranik. Reverse swing‐M, phase 1 study of repurposing mebendazole in recurrent high‐grade glioma.cancer Medicine.https://doi.org/10.1002/cam4.3094.[2020I.pdf](https://github.com/AtanuBhattacharjee/github.io/files/4716315/2020I.pdf)
 
-14.Atanu Bhattacharjee, Vijay M Patil, Rajesh Dikshit, Kumar Prabhash, Arjun Singh, Pankaj Chaturvedi.Should we wait or not? The preferable option for patients with stage IV oral cancer in COVID-19 pandemic.Head Neck
+15.Atanu Bhattacharjee, Vijay M Patil, Rajesh Dikshit, Kumar Prabhash, Arjun Singh, Pankaj Chaturvedi.Should we wait or not? The preferable option for patients with stage IV oral cancer in COVID-19 pandemic.Head Neck
 .2020 Jun;42(6):1173-1178. doi: 10.1002/hed.26196. Epub 2020 Apr 28.[2020G.pdf](https://github.com/AtanuBhattacharjee/github.io/files/4716313/2020G.pdf)
 
 
-15.Atanu Bhattacharjee, Jacinth Rajendra, Rajesh Dikshit, Shilpee Dutt.HER2 borderline is a negative prognostic factor for primary malignant breast cancer.Breast Cancer Res Treat. 2020 May;181(1):225-231. doi: 10.1007/s10549-020-05608-3.[2020F.pdf](https://github.com/AtanuBhattacharjee/github.io/files/4716308/2020F.pdf)
+16.Atanu Bhattacharjee, Jacinth Rajendra, Rajesh Dikshit, Shilpee Dutt.HER2 borderline is a negative prognostic factor for primary malignant breast cancer.Breast Cancer Res Treat. 2020 May;181(1):225-231. doi: 10.1007/s10549-020-05608-3.[2020F.pdf](https://github.com/AtanuBhattacharjee/github.io/files/4716308/2020F.pdf)
 
-16.Atanu Bhattacharjee.Bayesian competing risks analysis without data stratification.DOI:https://doi.org/10.1016/j.cegh.2019.08.010.[2020E.pdf](https://github.com/AtanuBhattacharjee/github.io/files/4716303/2020E.pdf)
+17.Atanu Bhattacharjee.Bayesian competing risks analysis without data stratification.DOI:https://doi.org/10.1016/j.cegh.2019.08.010.[2020E.pdf](https://github.com/AtanuBhattacharjee/github.io/files/4716303/2020E.pdf)
 
-17.Akshat Malik,Sudhir Nair,Arjun Singh,Komal Lamba,Swapnil Rane,Munita Bal,Atanu Bhattacharjee,Hisham Mehanna, Pankaj Chaturvedi.Soft tissue deposit in neck dissection specimen carries a poor prognosis in oral cancer: A matched pair analysis.https://doi.org/10.1002/hed.26103. [2020A.pdf](https://github.com/AtanuBhattacharjee/github.io/files/4716274/2020A.pdf)
+18.Akshat Malik,Sudhir Nair,Arjun Singh,Komal Lamba,Swapnil Rane,Munita Bal,Atanu Bhattacharjee,Hisham Mehanna, Pankaj Chaturvedi.Soft tissue deposit in neck dissection specimen carries a poor prognosis in oral cancer: A matched pair analysis.https://doi.org/10.1002/hed.26103. [2020A.pdf](https://github.com/AtanuBhattacharjee/github.io/files/4716274/2020A.pdf)
 
-18.Vanita Noronha,Vijay Maruti Patil,Amit Joshi,Manoj Mahimkar,Usha Patel,Manish Kumar Pandey,Arun Chandrasekharan,Hollis Dsouza,Atanu Bhattacharjee,Abhishek Mahajan,Nilesh Sabale,Jai Prakash Agarwal,Sarbani Ghosh-Laskar,Ashwini Budrukkar,Anil K D'Cruz,Pankaj Chaturvedi ,Prathamesh S Pai,Devendra Chaukar, Sudhir Nair,Shivakumar Thiagarajan,Shripad Banavali,Kumar Prabhash.
+19.Vanita Noronha,Vijay Maruti Patil,Amit Joshi,Manoj Mahimkar,Usha Patel,Manish Kumar Pandey,Arun Chandrasekharan,Hollis Dsouza,Atanu Bhattacharjee,Abhishek Mahajan,Nilesh Sabale,Jai Prakash Agarwal,Sarbani Ghosh-Laskar,Ashwini Budrukkar,Anil K D'Cruz,Pankaj Chaturvedi ,Prathamesh S Pai,Devendra Chaukar, Sudhir Nair,Shivakumar Thiagarajan,Shripad Banavali,Kumar Prabhash.
 Nimotuzumab-cisplatin-radiation versus cisplatin-radiation in HPV negative oropharyngeal cancer. Oncotarget
 . 2020 Jan 28;11(4):399-408. doi: 10.18632/oncotarget.27443.[2020B.pdf](https://github.com/AtanuBhattacharjee/github.io/files/4716284/2020B.pdf)
 
-19.Vanita Noronha,Atanu Bhattacharjee,Vijay M Patil,Amit Joshi,Nandini Menon,Srushti Shah,Sadhana Kannan,Sadaf A Mukadam, Kamesh Maske, Sandeep Ishi, Kumar Prabhash.Aprepitant for Cough Suppression in Advanced Lung Cancer: A Randomized Trial.Chest
+20.Vanita Noronha,Atanu Bhattacharjee,Vijay M Patil,Amit Joshi,Nandini Menon,Srushti Shah,Sadhana Kannan,Sadaf A Mukadam, Kamesh Maske, Sandeep Ishi, Kumar Prabhash.Aprepitant for Cough Suppression in Advanced Lung Cancer: A Randomized Trial.Chest
 . 2020 Jan 18;S0012-3692(20)30032-5. doi: 10.1016/j.chest.2019.11.048.[2020C.pdf](https://github.com/AtanuBhattacharjee/github.io/files/4729558/2020C.pdf)
 
 
-20.Vijay Maruti Patil,Vanita Noronha,Shivakumar Thiagarajan,Amit Joshi,Arun Chandrasekharan,Vikas Talreja,Jaiprakash Agarwal,Sarbani Ghosh-Laskar,Ashwini Budrukkar,Shashikant Juvekar,Abhishek Mahajan,Archi Agarwal,Nilendu Purandare,Atanu Bhattacharjee, Anil K D'Cruz, Pankaj Chaturvedi,Prathamesh S Pai 2,Devendra Chaukar,Kumar Prabhash.Salvage surgery in head and neck cancer: Does it improve outcomes?Eur J Surg Oncol. 2020 Jan 15;S0748-7983(20)30024-X. doi: 10.1016/j.ejso.2020.01.019.[2020D.pdf](https://github.com/AtanuBhattacharjee/github.io/files/4716296/2020D.pdf)
+21.Vijay Maruti Patil,Vanita Noronha,Shivakumar Thiagarajan,Amit Joshi,Arun Chandrasekharan,Vikas Talreja,Jaiprakash Agarwal,Sarbani Ghosh-Laskar,Ashwini Budrukkar,Shashikant Juvekar,Abhishek Mahajan,Archi Agarwal,Nilendu Purandare,Atanu Bhattacharjee, Anil K D'Cruz, Pankaj Chaturvedi,Prathamesh S Pai 2,Devendra Chaukar,Kumar Prabhash.Salvage surgery in head and neck cancer: Does it improve outcomes?Eur J Surg Oncol. 2020 Jan 15;S0748-7983(20)30024-X. doi: 10.1016/j.ejso.2020.01.019.[2020D.pdf](https://github.com/AtanuBhattacharjee/github.io/files/4716296/2020D.pdf)
 
-21.Vijay M. Patil, Vanita Noronha, Amit Joshi,Vikas Talreja, Sachin Dhumal, Nandini Menon,Anuja Abhyankar, Hollis Dsouza,Gunjesh Kumar Singh, Atanu Bhattacharjee,Sarbani Ghosh‑Laskar,Prathamesh Pai,Pankaj Chaturvedi,Deepa Nair,Devendra Chaukar3, Anil D’Cruz,Prakash Shetty3, Aliasgar Moiyadi,Kumar Prabhash.Long-term outcomes of locally advanced and borderline resectable esthesioneuroblastoma and sinonasal tumor with neuroendocrine differentiation treated with neoadjuvant chemotherapy.Cancer Res Stat Treat 2020;3:201-6.[2020T.pdf](https://github.com/AtanuBhattacharjee/github.io/files/4804031/2020T.pdf)
+22.Vijay M. Patil, Vanita Noronha, Amit Joshi,Vikas Talreja, Sachin Dhumal, Nandini Menon,Anuja Abhyankar, Hollis Dsouza,Gunjesh Kumar Singh, Atanu Bhattacharjee,Sarbani Ghosh‑Laskar,Prathamesh Pai,Pankaj Chaturvedi,Deepa Nair,Devendra Chaukar3, Anil D’Cruz,Prakash Shetty3, Aliasgar Moiyadi,Kumar Prabhash.Long-term outcomes of locally advanced and borderline resectable esthesioneuroblastoma and sinonasal tumor with neuroendocrine differentiation treated with neoadjuvant chemotherapy.Cancer Res Stat Treat 2020;3:201-6.[2020T.pdf](https://github.com/AtanuBhattacharjee/github.io/files/4804031/2020T.pdf)
  
 
 ## [2019]
