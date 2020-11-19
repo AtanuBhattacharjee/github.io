@@ -24,14 +24,13 @@ Computational Approaches and Precision Medicine. Spinger Verlag, Nature.
 
 3.Vijay PatilVanita NoronhaSachin Babanrao DhumalAmit JoshiNandini MenonAtanu Bhattacharjee and et al. Low-cost oral metronomic chemotherapy versus intravenous cisplatin in patients with recurrent, metastatic, inoperable head and neck carcinoma: an open-label, parallel-group, non-inferiority, randomised, phase 3 trial. www.thelancet.com/lancetgh.
 
-
-
 4.Atanu Bhattacharjee1,Gajendra K.Vishwakarma,Souvik Banerjee and Sharvari Shukla. Disease progression of cancer patients
 during COVID-19 pandemic: a comprehensive analytical strategy by timedependent modelling.BMC Medical Research Methodology (2020) 20:209.[Bhattacharjee_et_al-2020-BMC_Medical_Research_Methodology.pdf](https://github.com/AtanuBhattacharjee/github.io/files/5070215/Bhattacharjee_et_al-2020-BMC_Medical_Research_Methodology.pdf)
 
 
 
-5.Classification Algorithm for High Dimensional Protein Markers in Time-course Data. Accepted in Statistics in Medicine.
+5.Gajendra K. Vishwakarma,Atanu Bhattacharjee,Souvik Banerjee,Benoit Liquet. Classification Algorithm for High Dimensional Protein Markers in Time-course Data. Accepted in Statistics in Medicine.[10.1002@SIM.8720.pdf](https://github.com/AtanuBhattacharjee/github.io/files/5569677/10.1002%40SIM.8720.pdf)
+
 
 
 6.Atanu Bhattacharjee, Gajendra Vishwakarma and Souvik Banerjee.Joint Modeling of Longitudinal and Time-to-Event Data with Missing Time-Varying Covariates in Targeted Therapy of Oncology.Communications in Statistics: Case Studies, Data Analysis and Applications.[Joint modeling PCR.pdf](https://github.com/AtanuBhattacharjee/github.io/files/4867678/Joint.modeling.PCR.pdf).
