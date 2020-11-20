@@ -15,6 +15,12 @@ Associate Editor, British Medical Central-Research Methodology
 ### Chapters in Book
 Gaurav Roy, Atanu Bhattacharjee, and Iqra Khan (2020).‘Essentials of Cancer Genomic,
 Computational Approaches and Precision Medicine. Spinger Verlag, Nature.
+
+3.Special Issue:Biostatistics in Oncology.Volume 3, Issue 4
+August 2020
+Issue Edited by: 
+Atanu Bhattacharjee, in Cancer Reports. https://onlinelibrary.wiley.com/toc/25738348/2020/3/4
+
 ## Research Paper
 ### [2020]
 
