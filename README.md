@@ -24,7 +24,8 @@ Atanu Bhattacharjee, in Cancer Reports. https://onlinelibrary.wiley.com/toc/2573
 ## Research Paper
 ### [2020]
 
-1.Monika Rajput, Mukesh Kumar, Mayuri Kumari, Atanu Bhattacharjee, Aanchal Anant Awasthi.Identification of key genes and construction of regulatory network for the progression of cervical cancer. ( In press Gene Reports)
+1.Monika Rajput, Mukesh Kumar, Mayuri Kumari, Atanu Bhattacharjee, Aanchal Anant Awasthi.Identification of key genes and construction of regulatory network for the progression of cervical cancer. [1-s2.0-S2452014420303794-main.pdf](https://github.com/AtanuBhattacharjee/github.io/files/5594233/1-s2.0-S2452014420303794-main.pdf)
+
 
 2.Gajendra K. Vishwakarma,Atanu Bhattacharjee,Souvik Banerjeea.Handling Missingness Value on Jointly Measured Time-Course and Time-to-event Data. Accepted in Communication in Statistics-Simulation and computation. 
 
