@@ -28,7 +28,8 @@ Atanu Bhattacharjee, in Cancer Reports. https://onlinelibrary.wiley.com/toc/2573
 2.Monika Rajput, Mukesh Kumar, Mayuri Kumari, Atanu Bhattacharjee, Aanchal Anant Awasthi.Identification of key genes and construction of regulatory network for the progression of cervical cancer. gene reports(2020).[1-s2.0-S2452014420303794-main.pdf](https://github.com/AtanuBhattacharjee/github.io/files/5594233/1-s2.0-S2452014420303794-main.pdf)
 
 
-3.Gajendra K. Vishwakarma,Atanu Bhattacharjee,Souvik Banerjeea.Handling Missingness Value on Jointly Measured Time-Course and Time-to-event Data. Accepted in Communication in Statistics-Simulation and computation. 
+3.Gajendra K. Vishwakarma,Atanu Bhattacharjee,Souvik Banerjeea.Handling Missingness Value on Jointly Measured Time-Course and Time-to-event Data [Handling missingness value on jointly measured time course and time to event data.pdf](https://github.com/AtanuBhattacharjee/github.io/files/5658367/Handling.missingness.value.on.jointly.measured.time.course.and.time.to.event.data.pdf)
+
 
 4.Vijay PatilVanita NoronhaSachin Babanrao DhumalAmit JoshiNandini MenonAtanu Bhattacharjee and et al. Low-cost oral metronomic chemotherapy versus intravenous cisplatin in patients with recurrent, metastatic, inoperable head and neck carcinoma: an open-label, parallel-group, non-inferiority, randomised, phase 3 trial. www.thelancet.com/lancetgh.
 
