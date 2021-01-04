@@ -8,7 +8,7 @@ My research interests include Bayesian inference, longitudinal data analysis, su
 ## Editorial 
 Associate Editor, British Medical Central-Research Methodology
 ## Book Publication
-1.Atanu Bhattacharjee (2021).Bayesian Approaches in Oncology Using R and OpenBUGS.(In press).CRC press.https://www.routledge.com/Bayesian-Approaches-in-Oncology-Using-R-and-OpenBUGS/Bhattacharjee/p/book/9780367350505.
+1.Atanu Bhattacharjee (2021).Bayesian Approaches in Oncology Using R and OpenBUGS.CRC press.https://www.routledge.com/Bayesian-Approaches-in-Oncology-Using-R-and-OpenBUGS/Bhattacharjee/p/book/9780367350505.
 
 
 2. Atanu Bhattacharjee (2013).Bayesian Analysis in Longitudinal Data. Lambert Publication.
@@ -23,7 +23,7 @@ Atanu Bhattacharjee, in Cancer Reports. https://onlinelibrary.wiley.com/toc/2573
 
 ## Research Paper
 ### [2021]
-1.Bayesian Competing Risk Analysis: An Application to Nasopharyngeal Carcinoma Patients data( In press)Computational and Systems Oncology.[cso2.1006.pdf](https://github.com/AtanuBhattacharjee/github.io/files/5763432/cso2.1006.pdf)DOI: ./cso.
+1.Bayesian Competing Risk Analysis: An Application to Nasopharyngeal Carcinoma Patients data( In press)Computational and Systems Oncology.[cso2.1006.pdf](https://github.com/AtanuBhattacharjee/github.io/files/5763432/cso2.1006.pdf).Comput Syst Oncol.2020.1:e1006.
 ## Research Paper
 ### [2020]
 
