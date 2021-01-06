@@ -57,8 +57,7 @@ during COVID-19 pandemic: a comprehensive analytical strategy by timedependent m
 [IndianJPublicHealth642186-6212962_171529.pdf](https://github.com/AtanuBhattacharjee/github.io/files/4788130/IndianJPublicHealth642186-6212962_171529.pdf)
 
 
-10.Long‑term outcomes of locally advanced and borderline resectable esthesioneuroblastoma and
-sinonasal tumor with neuroendocrine differentiation treated with neoadjuvant chemotherapy.(In press).
+10.Patil, V. M., Noronha, V., Joshi, A., Talreja, V., Dhumal, S., Menon, N., ... & Prabhash, K. (2020). Long-term outcomes of locally advanced and borderline resectable esthesioneuroblastoma and sinonasal tumor with neuroendocrine differentiation treated with neoadjuvant chemotherapy. Cancer Research, Statistics, and Treatment, 3(2), 201.
 
 11.Atanu Bhattacharjee,Mukesh Kumar,Kamalesh Kumar Patel. When COVID-19 will Decline in India? Prediction by Combination of Recovery and
 Case Load Rate.[[CEGH Published.pdf](https://github.com/AtanuBhattacharjee/github.io/files/4840778/CEGH.Published.pdf)](https://github.com/AtanuBhattacharjee/github.io/files/4751985/preprints202005.0044.v1.pdf)
