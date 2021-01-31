@@ -28,7 +28,6 @@ Journal of Computational and Applied Mathematics. ( In press).
 2. Jesna Jose, Hasan M. Al-Dorzi, Awad Al-Omari, Yasser Mandourah, Fahad Al-Hameed, Musharaf Sadat, Eman Al Qasim, Basem Alraddadi, Abdulrahman Al Harthy, Ghaleb A. Al Mekhlafi, Abdullah Almotairi, Kasim Al Khatib, Ahmed Abdulmomen, Ismael Qushmaq, Anees A. Sindi, Ahmed Mady, Othman Solaiman, Rajaa Al-Raddadi, Khalid Maghrabi, Ahmed Ragab, Ayman Kharaba, Sarah Shalhoub, Abdulsalam M. Al-Aithan, Gajendra K. Vishwakarma, Atanu Bhattacharjee, Yaseen M. Arabi .Critically ill patients with diabetes and Middle East respiratory syndrome: a multi-center observational study. [s12879-021-05771-y.pdf](https://github.com/AtanuBhattacharjee/github.io/files/5899190/s12879-021-05771-y.pdf)
 
 3.Bayesian Competing Risk Analysis: An Application to Nasopharyngeal Carcinoma Patients data( In press)Computational and Systems Oncology.[cso2.1006.pdf](https://github.com/AtanuBhattacharjee/github.io/files/5763432/cso2.1006.pdf).Comput Syst Oncol.2020.1:e1006.
-## Research Paper
 ### [2020]
 
 1.Monika Rajput, Mukesh Kumar, Mayuri Kumari, Atanu Bhattacharjee, Aanchal Anant Awasthi.Identification of key genes and construction of regulatory network for the progression of cervical cancer. gene reports(2020).[1-s2.0-S2452014420303794-main.pdf](https://github.com/AtanuBhattacharjee/github.io/files/5594233/1-s2.0-S2452014420303794-main.pdf)
