@@ -23,7 +23,8 @@ Atanu Bhattacharjee, in Cancer Reports. https://onlinelibrary.wiley.com/toc/2573
 
 ## Research Paper
 ### [2021]
-1.Bayesian Competing Risk Analysis: An Application to Nasopharyngeal Carcinoma Patients data( In press)Computational and Systems Oncology.[cso2.1006.pdf](https://github.com/AtanuBhattacharjee/github.io/files/5763432/cso2.1006.pdf).Comput Syst Oncol.2020.1:e1006.
+1. Critically ill patients with diabetes and Middle East respiratory syndrome: a multi-center observational study. 
+2.Bayesian Competing Risk Analysis: An Application to Nasopharyngeal Carcinoma Patients data( In press)Computational and Systems Oncology.[cso2.1006.pdf](https://github.com/AtanuBhattacharjee/github.io/files/5763432/cso2.1006.pdf).Comput Syst Oncol.2020.1:e1006.
 ## Research Paper
 ### [2020]
 
