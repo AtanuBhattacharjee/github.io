@@ -23,12 +23,16 @@ Atanu Bhattacharjee, in Cancer Reports. https://onlinelibrary.wiley.com/toc/2573
 
 ## Research Paper
 ### [2021]
-1. Gajendra K. Vishwakarmaa,Abin Thomas and Atanu Bhattacharjee.A weight function method for selection of proteins to predict an outcome using protein expression data
+1.Vedang Murthy, Ganesh Bakshi, Jifmi Jose Manjali, Gagan Prakash, Mahendra Pal, Amit Joshi,  Kunal Dholakia, Atanu Bhattacharjee, Sanjay Talole, Abhinav Puppalwar,  Shashank Srinivasan,Gitanjali Panigrahi,Rohan Salunkhe,Santosh Menon, Vanita Noronha, Kumar Prabhash, Rahul Krishnatry.Locoregional recurrence after cystectomy in muscle invasive bladder
+cancer: Implications for adjuvant radiotherapy.Orologic Oncology: Seminar and Original Investigation 000(2021) 1-7.https://doi.org/10.1016/j.urolonc.2021.01.015
+
+
+2. Gajendra K. Vishwakarmaa,Abin Thomas and Atanu Bhattacharjee.A weight function method for selection of proteins to predict an outcome using protein expression data
 Journal of Computational and Applied Mathematics. ( In press).
 
-2. Jesna Jose, Hasan M. Al-Dorzi, Awad Al-Omari, Yasser Mandourah, Fahad Al-Hameed, Musharaf Sadat, Eman Al Qasim, Basem Alraddadi, Abdulrahman Al Harthy, Ghaleb A. Al Mekhlafi, Abdullah Almotairi, Kasim Al Khatib, Ahmed Abdulmomen, Ismael Qushmaq, Anees A. Sindi, Ahmed Mady, Othman Solaiman, Rajaa Al-Raddadi, Khalid Maghrabi, Ahmed Ragab, Ayman Kharaba, Sarah Shalhoub, Abdulsalam M. Al-Aithan, Gajendra K. Vishwakarma, Atanu Bhattacharjee, Yaseen M. Arabi .Critically ill patients with diabetes and Middle East respiratory syndrome: a multi-center observational study. [s12879-021-05771-y.pdf](https://github.com/AtanuBhattacharjee/github.io/files/5899190/s12879-021-05771-y.pdf).
+3. Jesna Jose, Hasan M. Al-Dorzi, Awad Al-Omari, Yasser Mandourah, Fahad Al-Hameed, Musharaf Sadat, Eman Al Qasim, Basem Alraddadi, Abdulrahman Al Harthy, Ghaleb A. Al Mekhlafi, Abdullah Almotairi, Kasim Al Khatib, Ahmed Abdulmomen, Ismael Qushmaq, Anees A. Sindi, Ahmed Mady, Othman Solaiman, Rajaa Al-Raddadi, Khalid Maghrabi, Ahmed Ragab, Ayman Kharaba, Sarah Shalhoub, Abdulsalam M. Al-Aithan, Gajendra K. Vishwakarma, Atanu Bhattacharjee, Yaseen M. Arabi .Critically ill patients with diabetes and Middle East respiratory syndrome: a multi-center observational study. [s12879-021-05771-y.pdf](https://github.com/AtanuBhattacharjee/github.io/files/5899190/s12879-021-05771-y.pdf).
 
-3.Bayesian Competing Risk Analysis: An Application to Nasopharyngeal Carcinoma Patients data( In press)Computational and Systems Oncology.[cso2.1006.pdf](https://github.com/AtanuBhattacharjee/github.io/files/5763432/cso2.1006.pdf).Comput Syst Oncol.2020.1:e1006.
+4.Bayesian Competing Risk Analysis: An Application to Nasopharyngeal Carcinoma Patients data( In press)Computational and Systems Oncology.[cso2.1006.pdf](https://github.com/AtanuBhattacharjee/github.io/files/5763432/cso2.1006.pdf).Comput Syst Oncol.2020.1:e1006.
 ### [2020]
 
 1.Monika Rajput, Mukesh Kumar, Mayuri Kumari, Atanu Bhattacharjee, Aanchal Anant Awasthi.Identification of key genes and construction of regulatory network for the progression of cervical cancer. gene reports(2020).[1-s2.0-S2452014420303794-main.pdf](https://github.com/AtanuBhattacharjee/github.io/files/5594233/1-s2.0-S2452014420303794-main.pdf)
