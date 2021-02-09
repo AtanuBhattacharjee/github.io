@@ -24,7 +24,8 @@ Atanu Bhattacharjee, in Cancer Reports. https://onlinelibrary.wiley.com/toc/2573
 ## Research Paper
 ### [2021]
 1.Vedang Murthy, Ganesh Bakshi, Jifmi Jose Manjali, Gagan Prakash, Mahendra Pal, Amit Joshi,  Kunal Dholakia, Atanu Bhattacharjee, Sanjay Talole, Abhinav Puppalwar,  Shashank Srinivasan,Gitanjali Panigrahi,Rohan Salunkhe,Santosh Menon, Vanita Noronha, Kumar Prabhash, Rahul Krishnatry.Locoregional recurrence after cystectomy in muscle invasive bladder
-cancer: Implications for adjuvant radiotherapy.Orologic Oncology: Seminar and Original Investigation 000(2021) 1-7.https://doi.org/10.1016/j.urolonc.2021.01.015
+cancer: Implications for adjuvant radiotherapy.Orologic Oncology: Seminar and Original Investigation 000(2021) 1-7.https://doi.org/10.1016/j.urolonc.2021.01.015[1-s2.0-S1078143921000156-main.pdf](https://github.com/AtanuBhattacharjee/github.io/files/5949604/1-s2.0-S1078143921000156-main.pdf)
+
 
 
 2. Gajendra K. Vishwakarmaa,Abin Thomas and Atanu Bhattacharjee.A weight function method for selection of proteins to predict an outcome using protein expression data
