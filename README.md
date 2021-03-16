@@ -7,7 +7,10 @@ I am working as Assistant Professor Biostatistics in the Section of Biostatistic
 My research interests include Bayesian inference, longitudinal data analysis, survival analysis, gene expression data analysis.
 ## Editorial 
 Review Editor of Computation Genomics
-Previous Associate Editor, British Medical Central-Research Methodology
+Previous Associate Editor, British Medical Central-Research Methodology.
+
+Student Ph.D
+1. Abin Thomas 2021 Ph.D thesis "Modeling of Gene Expression for Cancer Biomarkers using Bayesian Frarmework".
 ## Book Publication
 1.Atanu Bhattacharjee (2021).Bayesian Approaches in Oncology Using R and OpenBUGS.CRC press.https://www.routledge.com/Bayesian-Approaches-in-Oncology-Using-R-and-OpenBUGS/Bhattacharjee/p/book/9780367350505.
 
