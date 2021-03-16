@@ -5,12 +5,15 @@ Centre for Cancer Epidemiology, Tata Memorial Centre, India
 ## Biography
 I am working as Assistant Professor Biostatistics in the Section of Biostatistics, Centre for Cancer Epidemiology, Tata Memorial Centre, Mumbai.I am also an Ajunct Professor of Statistics at Department of Applied Mathematics, Indian Institute of Technology-Dhanbad. I completed by Ph.D in statistics under the supervision of Dr. Dilip C Nath.
 My research interests include Bayesian inference, longitudinal data analysis, survival analysis, gene expression data analysis.
+
+## Ph.D Students
+1. Abin Thomas 2021 Ph.D thesis "Modeling of Gene Expression for Cancer Biomarkers using Bayesian Frarmework".
+
 ## Editorial 
 Review Editor of Computation Genomics
 Previous Associate Editor, British Medical Central-Research Methodology.
 
-Student Ph.D
-1. Abin Thomas 2021 Ph.D thesis "Modeling of Gene Expression for Cancer Biomarkers using Bayesian Frarmework".
+
 ## Book Publication
 1.Atanu Bhattacharjee (2021).Bayesian Approaches in Oncology Using R and OpenBUGS.CRC press.https://www.routledge.com/Bayesian-Approaches-in-Oncology-Using-R-and-OpenBUGS/Bhattacharjee/p/book/9780367350505.
 
