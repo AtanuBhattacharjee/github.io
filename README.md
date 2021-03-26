@@ -30,7 +30,8 @@ Atanu Bhattacharjee, in Cancer Reports. https://onlinelibrary.wiley.com/toc/2573
 
 ## Research Paper
 ### [2021]
-1. Sharma PJ, Mahajan A, Rane S, Bhattacharjee A. Assessment of COVID-19 severity using computed tomography imaging: A systematic review and meta-analysis. Cancer Research, Statistics, and Treatment. Cancer Res Stat Treat 2021;4:78-87. 
+1. Sharma PJ, Mahajan A, Rane S, Bhattacharjee A. Assessment of COVID-19 severity using computed tomography imaging: A systematic review and meta-analysis. Cancer Research, Statistics, and Treatment. Cancer Res Stat Treat 2021;4:78-87. [CancerResStatTreat4178-3984416_110404.pdf](https://github.com/AtanuBhattacharjee/github.io/files/6211327/CancerResStatTreat4178-3984416_110404.pdf)
+
 2.Atanu Bhattacharjee, Arti Hole, Akshat Malik, Aditi Sahu, S P Singh, Atul Deshmukh, Sudhir Nair,Pankaj Chaturvedi,Murali Krishna.Risk prediction by Raman spectroscopy for disease-free survival in oral cancers. Lasers in Medical Science.Lasers Med Sci .2021 Mar 4. doi: 10.1007/s10103-021-03276-3.  
 3.Effect of Early Palliative Care on Quality of Life of Advanced Head and Neck Cancer Patients: A Phase III Trial.Vijay Maruti Patil, MBBS, MD, DM, Pankaj Singhai, MBBS, MD, Vanita Noronha,Atanu Bhattacharjee, Jayita Deodhar,Naveen Salins,Amit Joshi, Nandini Sharrel Menon,Anuja Abhyankar, Ashwini Khake,Sachin Babanrao Dhumal,Rupali Tambe, Bcom, Mary Ann Muckaden,Kumar Prabhas. JNCI: Journal of the National Cancer Institute, djab020, https://doi.org/10.1093/jnci/djab020.
 
