@@ -30,7 +30,8 @@ Atanu Bhattacharjee, in Cancer Reports. https://onlinelibrary.wiley.com/toc/2573
 
 ## Research Paper
 ### [2021]
-1. Jesna Jose,Gajendra K.Vishwakarma, AtanuBhattacharjee.Illustration of Missing Data Handling Technique Generated from Hepatitis C Induced Hepatocellular Carcinoma Cohort Study. Journal of King Saud University - Science,Available online 26 March 2021, 101403.
+1. Jesna Jose,Gajendra K.Vishwakarma, AtanuBhattacharjee.Illustration of Missing Data Handling Technique Generated from Hepatitis C Induced Hepatocellular Carcinoma Cohort Study. Journal of King Saud University - Science,Available online 26 March 2021, 101403.[1-s2.0-S1018364721000641-main.pdf](https://github.com/AtanuBhattacharjee/github.io/files/6229829/1-s2.0-S1018364721000641-main.pdf)
+
 2. Sharma PJ, Mahajan A, Rane S, Bhattacharjee A. Assessment of COVID-19 severity using computed tomography imaging: A systematic review and meta-analysis. Cancer Research, Statistics, and Treatment. Cancer Res Stat Treat 2021;4:78-87. [CancerResStatTreat4178-3984416_110404.pdf](https://github.com/AtanuBhattacharjee/github.io/files/6211327/CancerResStatTreat4178-3984416_110404.pdf)
 
 3.Atanu Bhattacharjee, Arti Hole, Akshat Malik, Aditi Sahu, S P Singh, Atul Deshmukh, Sudhir Nair,Pankaj Chaturvedi,Murali Krishna.Risk prediction by Raman spectroscopy for disease-free survival in oral cancers. Lasers in Medical Science.Lasers Med Sci .2021 Mar 4. doi: 10.1007/s10103-021-03276-3.  
