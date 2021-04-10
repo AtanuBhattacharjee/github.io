@@ -30,7 +30,8 @@ Atanu Bhattacharjee, in Cancer Reports. https://onlinelibrary.wiley.com/toc/2573
 
 ## Research Paper
 ### [2021]
-1. Jesna Jose,Gajendra K.Vishwakarma, AtanuBhattacharjee.Illustration of Missing Data Handling Technique Generated from Hepatitis C Induced Hepatocellular Carcinoma Cohort Study. Journal of King Saud University - Science,Available online 26 March 2021, 101403.[1-s2.0-S1018364721000641-main.pdf](https://github.com/AtanuBhattacharjee/github.io/files/6229829/1-s2.0-S1018364721000641-main.pdf)
+1. Jesna Jose,Gajendra K.Vishwakarma, AtanuBhattacharjee.Illustration of Missing Data Handling Technique Generated from Hepatitis C Induced Hepatocellular Carcinoma Cohort Study. Journal of King Saud University - Science,Available online 26 March 2021, 101403.[1-s2.0-S1018364721000641-main.pdf][1-s2.0-S1018364721000641-main (1).pdf](https://github.com/AtanuBhattacharjee/github.io/files/6289214/1-s2.0-S1018364721000641-main.1.pdf)
+
 
 2. Sharma PJ, Mahajan A, Rane S, Bhattacharjee A. Assessment of COVID-19 severity using computed tomography imaging: A systematic review and meta-analysis. Cancer Research, Statistics, and Treatment. Cancer Res Stat Treat 2021;4:78-87. [CancerResStatTreat4178-3984416_110404.pdf](https://github.com/AtanuBhattacharjee/github.io/files/6211327/CancerResStatTreat4178-3984416_110404.pdf)
 
