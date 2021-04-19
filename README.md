@@ -30,13 +30,8 @@ Atanu Bhattacharjee, in Cancer Reports. https://onlinelibrary.wiley.com/toc/2573
 
 ## R package in CRAN
 ### [SurvHiDim]   [SurvHiDim_0.1.0 .tar.gz](https://github.com/AtanuBhattacharjee/github.io/files/6333335/SurvHiDim_0.1.0.tar.gz)[SurvHiDim.pdf](https://github.com/AtanuBhattacharjee/github.io/files/6333346/SurvHiDim.pdf)
-### [longit]
-[longit_0.1.0.tar.gz](https://github.com/AtanuBhattacharjee/github.io/files/6333358/longit_0.1.0.tar.gz)
-[longit.pdf](https://github.com/AtanuBhattacharjee/github.io/files/6333348/longit.pdf)
+### [longit]       **[longit_0.1.0.tar.gz]**(https://github.com/AtanuBhattacharjee/github.io/files/6333358/longit_0.1.0.tar.gz)[longit.pdf](https://github.com/AtanuBhattacharjee/github.io/files/6333348/longit.pdf)
 
-### [longit]
-[longit_0.1.0.tar.gz](https://github.com/AtanuBhattacharjee/github.io/files/6333358/longit_0.1.0.tar.gz)
-[longit.pdf](https://github.com/AtanuBhattacharjee/github.io/files/6333348/longit.pdf)
 
 
 ## Research Paper
