@@ -28,6 +28,10 @@ August 2020
 Issue Edited by: 
 Atanu Bhattacharjee, in Cancer Reports. https://onlinelibrary.wiley.com/toc/25738348/2020/3/4
 
+## R package in CRAN
+### [SurvHiDim]   [SurvHiDim_0.1.0 .tar.gz](https://github.com/AtanuBhattacharjee/github.io/files/6333335/SurvHiDim_0.1.0.tar.gz)
+
+
 ## Research Paper
 ### [2021]
 1. Jesna Jose,Gajendra K.Vishwakarma, AtanuBhattacharjee.Illustration of Missing Data Handling Technique Generated from Hepatitis C Induced Hepatocellular Carcinoma Cohort Study. Journal of King Saud University - Science,Available online 26 March 2021, 101403.[1-s2.0-S1018364721000641-main.pdf][1-s2.0-S1018364721000641-main (1).pdf](https://github.com/AtanuBhattacharjee/github.io/files/6289214/1-s2.0-S1018364721000641-main.1.pdf)
