@@ -37,6 +37,10 @@ https://cran.r-project.org/web/packages/longit/index.html[longit.pdf](https://gi
 https://cran.r-project.org/web/packages/SurviMChd/index.html
 [SurviMChd.pdf](https://github.com/AtanuBhattacharjee/github.io/files/6451771/SurviMChd.pdf)
 
+https://cran.r-project.org/web/packages/autohd/index.html
+[autohd.pdf](https://github.com/AtanuBhattacharjee/github.io/files/6451784/autohd.pdf)
+
+
 
 
 ## Research Paper
