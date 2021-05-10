@@ -32,6 +32,10 @@ Atanu Bhattacharjee, in Cancer Reports. https://onlinelibrary.wiley.com/toc/2573
 ### https://cran.r-project.org/web/packages/SurvHiDim/index.html
 [SurvHiDim.pdf](https://github.com/AtanuBhattacharjee/github.io/files/6451737/SurvHiDim.pdf)
 
+https://cran.r-project.org/web/packages/longit/index.html[longit.pdf](https://github.com/AtanuBhattacharjee/github.io/files/6451759/longit.pdf)
+
+
+
 
 ## Research Paper
 ### [2021]
