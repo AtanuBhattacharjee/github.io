@@ -34,6 +34,8 @@ Atanu Bhattacharjee, in Cancer Reports. https://onlinelibrary.wiley.com/toc/2573
 
 https://cran.r-project.org/web/packages/longit/index.html[longit.pdf](https://github.com/AtanuBhattacharjee/github.io/files/6451759/longit.pdf)
 
+https://cran.r-project.org/web/packages/SurviMChd/index.html
+[SurviMChd.pdf](https://github.com/AtanuBhattacharjee/github.io/files/6451771/SurviMChd.pdf)
 
 
 
