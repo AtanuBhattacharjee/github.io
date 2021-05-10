@@ -29,8 +29,8 @@ Issue Edited by:
 Atanu Bhattacharjee, in Cancer Reports. https://onlinelibrary.wiley.com/toc/25738348/2020/3/4
 
 ## R package in CRAN
-### [SurvHiDim]   [SurvHiDim_0.1.0 .tar.gz](https://github.com/AtanuBhattacharjee/github.io/files/6333335/SurvHiDim_0.1.0.tar.gz)[SurvHiDim.pdf](https://github.com/AtanuBhattacharjee/github.io/files/6333346/SurvHiDim.pdf)
-### [longit]      [longit_0.1.0.tar.gz] (https://github.com/AtanuBhattacharjee/github.io/files/6333358/longit_0.1.0.tar.gz)  [longit.pdf] 
+### https://cran.r-project.org/web/packages/SurvHiDim/index.html
+[SurvHiDim.pdf](https://github.com/AtanuBhattacharjee/github.io/files/6451737/SurvHiDim.pdf)
 
 
 ## Research Paper
