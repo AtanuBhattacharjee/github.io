@@ -39,7 +39,8 @@ Atanu Bhattacharjee, in Cancer Reports. https://onlinelibrary.wiley.com/toc/2573
 
 
 ### (IV) https://cran.r-project.org/web/packages/autohd/index.html
-[autohd.pdf](https://github.com/AtanuBhattacharjee/github.io/files/6451784/autohd.pdf)
+[autohd.pdf][autohd_0.1.0.tar.gz](https://github.com/AtanuBhattacharjee/github.io/files/6515618/autohd_0.1.0.tar.gz)
+
 
 ### (V)https://cran.r-project.org/web/packages/highMLR/index.html
 [highMLR_0.1.0.tar.gz](https://github.com/AtanuBhattacharjee/github.io/files/6515602/highMLR_0.1.0.tar.gz)
