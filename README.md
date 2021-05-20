@@ -33,6 +33,7 @@ Atanu Bhattacharjee, in Cancer Reports. https://onlinelibrary.wiley.com/toc/2573
 [SurvHiDim.pdf](https://github.com/AtanuBhattacharjee/github.io/files/6451737/SurvHiDim.pdf)
 
 ### (II)https://cran.r-project.org/web/packages/longit/index.html[longit.pdf]
+[longit_0.1.0.tar.gz](https://github.com/AtanuBhattacharjee/github.io/files/6515622/longit_0.1.0.tar.gz)
 
 ### (III)https://cran.r-project.org/web/packages/SurviMChd/index.html
 [SurviMChd_0.1.0.tar.gz](https://github.com/AtanuBhattacharjee/github.io/files/6515588/SurviMChd_0.1.0.tar.gz)
