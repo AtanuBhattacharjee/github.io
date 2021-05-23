@@ -37,7 +37,7 @@ Atanu Bhattacharjee, in Cancer Reports. https://onlinelibrary.wiley.com/toc/2573
 [longit_0.1.0.tar.gz](https://github.com/AtanuBhattacharjee/github.io/files/6515622/longit_0.1.0.tar.gz)
 
 ### (III)https://cran.r-project.org/web/packages/SurviMChd/index.html
-[SurviMChd_0.1.0.tar.gz](https://github.com/AtanuBhattacharjee/github.io/files/6515588/SurviMChd_0.1.0.tar.gz)
+[SurviMChd_0.1.0.tar.gz](https://github.com/AtanuBhattacharjee/github.io/files/6528145/SurviMChd_0.1.0.tar.gz)
 
 
 ### (IV) https://cran.r-project.org/web/packages/autohd/index.html
