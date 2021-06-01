@@ -47,7 +47,8 @@ Atanu Bhattacharjee, in Cancer Reports. https://onlinelibrary.wiley.com/toc/2573
 ### (V)https://cran.r-project.org/web/packages/highMLR/index.html
 [highMLR_0.1.0.tar.gz](https://github.com/AtanuBhattacharjee/github.io/files/6515602/highMLR_0.1.0.tar.gz)
 
-
+### (VI)https://cran.r-project.org/web/packages/afthd/index.html
+[afthd_0.1.0.tar.gz](https://github.com/AtanuBhattacharjee/github.io/files/6575905/afthd_0.1.0.tar.gz)
 
 
 
