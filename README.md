@@ -6,12 +6,13 @@ Centre for Cancer Epidemiology, Tata Memorial Centre, India
 I am working as Assistant Professor Biostatistics in the Section of Biostatistics, Centre for Cancer Epidemiology, Tata Memorial Centre, Mumbai.I am also an Ajunct Professor of Statistics at Department of Applied Mathematics, Indian Institute of Technology-Dhanbad. I completed by Ph.D in statistics under the supervision of Dr. Dilip C Nath.
 My research interests include Bayesian inference, longitudinal data analysis, survival analysis, gene expression data analysis.
 
-## Ph.D Students
+## Ph.D Awarded
 1. Abin Thomas 2021 Ph.D thesis "Modeling of Gene Expression for Cancer Biomarkers using Bayesian Frarmework".
 
 ## Editorial 
 Review Editor of Computation Genomics
 Previous Associate Editor, British Medical Central-Research Methodology.
+Plos One, Applied Statistics
 
 
 ## Book Publication
@@ -28,7 +29,7 @@ August 2020
 Issue Edited by: 
 Atanu Bhattacharjee, in Cancer Reports. https://onlinelibrary.wiley.com/toc/25738348/2020/3/4
 
-## R package in CRAN
+## Developed R packages listed in CRAN
 ### (I)https://cran.r-project.org/web/packages/SurvHiDim/index.html
 [SurvHiDim.pdf][SurvHiDim_0.1.0.tar.gz](https://github.com/AtanuBhattacharjee/github.io/files/6515625/SurvHiDim_0.1.0.tar.gz)
 
