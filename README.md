@@ -51,6 +51,8 @@ Atanu Bhattacharjee, in Cancer Reports. https://onlinelibrary.wiley.com/toc/2573
 ### (VI)https://cran.r-project.org/web/packages/afthd/index.html
 [afthd_0.1.0.tar.gz](https://github.com/AtanuBhattacharjee/github.io/files/6575905/afthd_0.1.0.tar.gz)
 
+### (VII)https://cran.r-project.org/web/packages/MIIPW/index.html
+
 
 
 ## Research Paper
