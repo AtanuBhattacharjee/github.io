@@ -60,7 +60,8 @@ https://www.ncbi.nlm.nih.gov/myncbi/atanu.bhattacharjee.1/bibliography/public/
 ## Research Paper
 ### [2021]
 1. Gajendra K. VISHWAKARMA,Atanu BHATTACHARJEE, Sharvari SHUKLAdTürkiye.
-COVID-19 Mortality Prediction:An Algorithm by Bayesian Autoregressive Model.Klinikleri Biyoistatistik Dergisi.Turkiye Klinikleri J Biostat. 2021;13(2):178-84.DOI: 10.5336/biostatic.2020-80264
+COVID-19 Mortality Prediction:An Algorithm by Bayesian Autoregressive Model.Klinikleri Biyoistatistik Dergisi.Turkiye Klinikleri J Biostat. 2021;13(2):178-84.DOI: 10.5336/biostatic.2020-80264.[biyoistatistik13-2-6.pdf](https://github.com/AtanuBhattacharjee/github.io/files/7033621/biyoistatistik13-2-6.pdf)
+
 
 1.Ashwini Kalshetty, Biju Menon, Sutapa Rakshit, Atanu Bhattacharjee and Sandip Basu. Correlation of lesional uptake parameters and ratios with miPSMA score and estimating normal physiological concentration: an exploratory analysis in mCRPC patients with 68Ga-PSMA-11 PET-CT. Journal of Nuclear Medicine Technology July 2021, jnmt.120.261289; DOI: https://doi.org/10.2967/jnmt.120.261289.
 2. Jesna Jose,Gajendra K.Vishwakarma, AtanuBhattacharjee.Illustration of Missing Data Handling Technique Generated from Hepatitis C Induced Hepatocellular Carcinoma Cohort Study. Journal of King Saud University - Science,Available online 26 March 2021, 101403.[1-s2.0-S1018364721000641-main.pdf][1-s2.0-S1018364721000641-main (1).pdf](https://github.com/AtanuBhattacharjee/github.io/files/6289214/1-s2.0-S1018364721000641-main.1.pdf)
