@@ -59,7 +59,8 @@ Complete List of Published Work in My Bibliography:
 https://www.ncbi.nlm.nih.gov/myncbi/atanu.bhattacharjee.1/bibliography/public/
 ## Research Paper
 ### [2021]
-1.Missing data handling technique to determine optimum biological dose.Biomedical Engineering Advances(Accepted).
+1.Missing data handling technique to determine optimum biological dose.Biomedical Engineering Advances.[1-s2.0-S2667099221000128-main.pdf](https://github.com/AtanuBhattacharjee/github.io/files/7077831/1-s2.0-S2667099221000128-main.pdf)
+
 2. Gajendra K. VISHWAKARMA,Atanu BHATTACHARJEE, Sharvari SHUKLAdTürkiye.
 COVID-19 Mortality Prediction:An Algorithm by Bayesian Autoregressive Model.Klinikleri Biyoistatistik Dergisi.Turkiye Klinikleri J Biostat. 2021;13(2):178-84.DOI: 10.5336/biostatic.2020-80264.[biyoistatistik13-2-6.pdf](https://github.com/AtanuBhattacharjee/github.io/files/7033621/biyoistatistik13-2-6.pdf)
 
