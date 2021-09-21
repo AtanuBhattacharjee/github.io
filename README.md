@@ -60,7 +60,8 @@ https://www.ncbi.nlm.nih.gov/myncbi/atanu.bhattacharjee.1/bibliography/public/
 ## Research Paper
 ### [2021]
 1.Nandini Menon, Vijay Patil, Vanita Noronha, Amit Joshi, Atanu Bhattacharjee, Balajirao JSatam, Vijaya lakshmi Mathrudev, Sarbani Ghosh Laskar,Kumar Prabhash.
-Quality of life in patients with locally advanced head and neck cancer treated with concurrent chemoradiation with cisplatin and nimotuzumab versus cisplatin alone – Additional data from a phase 3 trial
+Quality of life in patients with locally advanced head and neck cancer treated with concurrent chemoradiation with cisplatin and nimotuzumab versus cisplatin alone – Additional data from a phase 3 trial.[1-s2.0-S1368837521006230-main.pdf](https://github.com/AtanuBhattacharjee/github.io/files/7203970/1-s2.0-S1368837521006230-main.pdf)
+
 
 2.Missing data handling technique in joint modeling context.[1-s2.0-S2667099221000128-main.pdf](https://github.com/AtanuBhattacharjee/github.io/files/7167378/1-s2.0-S2667099221000128-main.pdf)
 
