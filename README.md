@@ -68,7 +68,10 @@ https://www.ncbi.nlm.nih.gov/myncbi/atanu.bhattacharjee.1/bibliography/public/
 ## Research Paper
 ### [2022]
 1. Gajendra K Vishwakarma, Pragya Kumari, Atanu Bhattacharjee. Thresholding of prominent biomarkers of breast cancer on overall survival using classification and regression tree.Cancer Biomark.2021 Dec 28. doi: 10.3233/CBM-210470. 
-2. Akash Pawar, Oindrila Roy Chowdhury, Ruby Chauhan ,Sanjay Talole and Atanu Bhattacharjee. Identification of key gene signatures for the overall survival of ovarian cancer. 
+2. Akash Pawar, Oindrila Roy Chowdhury, Ruby Chauhan ,Sanjay Talole and Atanu Bhattacharjee. Identification of key gene signatures for the overall survival of ovarian cancer.Journal of Ovarian Cancer. [s13048-022-00942-0.pdf](https://github.com/AtanuBhattacharjee/github.io/files/8055913/s13048-022-00942-0.pdf).
+3. Atanu Bhattacharjee. Identification of key genes associated with survival of glioblastoma multiforme using integrated analysis of TCGA datasets.Decision on submission to Computer Methods and Programs in Biomedicine Update.
+
+
 ### [2021]
 1.Nandini Menon, Vijay Patil, Vanita Noronha, Amit Joshi, Atanu Bhattacharjee, Balajirao JSatam, Vijaya lakshmi Mathrudev, Sarbani Ghosh Laskar,Kumar Prabhash.
 Quality of life in patients with locally advanced head and neck cancer treated with concurrent chemoradiation with cisplatin and nimotuzumab versus cisplatin alone – Additional data from a phase 3 trial.[1-s2.0-S1368837521006230-main.pdf](https://github.com/AtanuBhattacharjee/github.io/files/7203970/1-s2.0-S1368837521006230-main.pdf)
