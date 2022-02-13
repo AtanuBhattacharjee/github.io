@@ -55,8 +55,12 @@ Atanu Bhattacharjee, in Cancer Reports. https://onlinelibrary.wiley.com/toc/2573
 ### (VII)https://cran.r-project.org/web/packages/MIIPW/index.html
 [MIIPW_0.1.0.tar.gz](https://github.com/AtanuBhattacharjee/github.io/files/6706146/MIIPW_0.1.0.tar.gz)
 
-### (VII)https://cran.r-project.org/web/packages/QoLMiss/index.html
-[MIIPW_0.1.0.tar.gz](https://github.com/AtanuBhattacharjee/github.io/files/6706146/MIIPW_0.1.0.tar.gz)
+### (VIII)https://cran.r-project.org/web/packages/QoLMiss/index.html
+[QoLMiss_0.1.0.tar.gz](https://github.com/AtanuBhattacharjee/github.io/files/8055855/QoLMiss_0.1.0.tar.gz)
+
+### (IX)https://cran.r-project.org/web/packages/designsize/index.html
+[QoLMiss_0.1.0.tar.gz](https://github.com/AtanuBhattacharjee/github.io/files/8055855/QoLMiss_0.1.0.tar.gz)
+
 
 ## Contribution to Science
 Complete List of Published Work in My Bibliography:
