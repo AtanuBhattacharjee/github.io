@@ -8,7 +8,8 @@ My research interests include Bayesian inference, longitudinal data analysis, su
 
 ## Ph.D Awarded
 1. Abin Thomas 2021 Ph.D thesis "Modeling of Gene Expression for Cancer Biomarkers using Bayesian Frarmework".
-
+2. Jesna Jose  2021 Ph.D thesis "Modelling of missing observations in longitudinal measurements".
+3. Souvik Banerjee 2021 (Submitted) "Joint models for time-to-event and repeated measurement data". 
 ## Editorial 
 Review Editor of Computation Genomics
 Previous Associate Editor, British Medical Central-Research Methodology.
