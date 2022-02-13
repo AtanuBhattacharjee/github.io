@@ -70,15 +70,15 @@ https://www.ncbi.nlm.nih.gov/myncbi/atanu.bhattacharjee.1/bibliography/public/
 1. Gajendra K Vishwakarma, Pragya Kumari, Atanu Bhattacharjee. Thresholding of prominent biomarkers of breast cancer on overall survival using classification and regression tree.Cancer Biomark.2021 Dec 28. doi: 10.3233/CBM-210470. 
 2. Akash Pawar, Oindrila Roy Chowdhury, Ruby Chauhan ,Sanjay Talole and Atanu Bhattacharjee. Identification of key gene signatures for the overall survival of ovarian cancer.Journal of Ovarian Cancer. [s13048-022-00942-0.pdf](https://github.com/AtanuBhattacharjee/github.io/files/8055913/s13048-022-00942-0.pdf).
 3. Atanu Bhattacharjee. Identification of key genes associated with survival of glioblastoma multiforme using integrated analysis of TCGA datasets.Decision on submission to Computer Methods and Programs in Biomedicine Update.
+4. Gajendra K. Vishwakarma, Atanu Bhattacharjee, Neelesh Kumar. Missing data handling technique in joint modeling context.Biomedical Engineering Advances
+Volume 2, December 2021, 100012.[1-s2.0-S2667099221000128-main (1).pdf](https://github.com/AtanuBhattacharjee/github.io/files/8055951/1-s2.0-S2667099221000128-main.1.pdf)
 
 
 ### [2021]
 1.Nandini Menon, Vijay Patil, Vanita Noronha, Amit Joshi, Atanu Bhattacharjee, Balajirao JSatam, Vijaya lakshmi Mathrudev, Sarbani Ghosh Laskar,Kumar Prabhash.
 Quality of life in patients with locally advanced head and neck cancer treated with concurrent chemoradiation with cisplatin and nimotuzumab versus cisplatin alone – Additional data from a phase 3 trial.[1-s2.0-S1368837521006230-main.pdf](https://github.com/AtanuBhattacharjee/github.io/files/7203970/1-s2.0-S1368837521006230-main.pdf)
 
-
-2.Missing data handling technique in joint modeling context.[1-s2.0-S2667099221000128-main.pdf](https://github.com/AtanuBhattacharjee/github.io/files/7167378/1-s2.0-S2667099221000128-main.pdf)
-
+2. Amit Joshi, Vijay Maruti Patil1, Vanita Noronha, Atanu Bhattacharjee, Nandini Menon, Amit Kumar,Parmanand Jain, Sadaf Mukadam, Avadhoot Shrinivas, Anjali Punia, Anuja Abhyankar, Amit Agarwal, Satvik Khaddar, Anu Rajpurohit, Kanteti Aditya Pavan Kumar, Rahul Ravind, Kishore Das, Vikas Talreja, Sachin Dhumal and Kumar Prabhash. Diclofenac versus tramadol for mucositis related pain in head and neck cancer patients undergoing concurrent chemoradiation – a phase 3 study.
 
 3. Gajendra K. VISHWAKARMA,Atanu BHATTACHARJEE, Sharvari SHUKLAdTürkiye.
 COVID-19 Mortality Prediction:An Algorithm by Bayesian Autoregressive Model.Klinikleri Biyoistatistik Dergisi.Turkiye Klinikleri J Biostat. 2021;13(2):178-84.DOI: 10.5336/biostatic.2020-80264.[biyoistatistik13-2-6.pdf](https://github.com/AtanuBhattacharjee/github.io/files/7033621/biyoistatistik13-2-6.pdf)
