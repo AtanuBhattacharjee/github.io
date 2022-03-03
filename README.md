@@ -67,12 +67,15 @@ Complete List of Published Work in My Bibliography:
 https://www.ncbi.nlm.nih.gov/myncbi/atanu.bhattacharjee.1/bibliography/public/
 ## Research Paper
 ### [2022]
-1. . Seema SandeepRedekarab . Satishkumar L. Varmaa, Atanu Bhattacharjee.(2022).Identification of key genes associated with survival of glioblastoma multiforme using integrated analysis of TCGA datasets.Computer Methods and Programs in Biomedicine updates. [1-s2.0-S2666990022000039-main (1).pdf](https://github.com/AtanuBhattacharjee/github.io/files/8101653/1-s2.0-S2666990022000039-main.1.pdf)
+1.Abhishek Mahajan,Navnath Dhone,Richa Vaish, Ankita Singhania, Akshat Malik, Kumar Prabhash, Ankita Ahuja, Nilesh Sable, Pankaj Chaturvedi, Vanita Noronha, Sarbani Gosh Laskar, Ujjwal Agarwal, Shreya Shukla, 
+Gouri Pantvaidya, Prathamesh Pai, Atanu Bhattacharjee, Vijay Patil, Asawari Patil, Munita Bal, Swapnil Rane, Shivakumar Thiagarajan and Anil D’ Cruz(2022).Prognostic Impact of Pattern of Mandibular Involvement in Gingivo-Buccal Complex Squamous Cell Carcinomas: Marrow and Mandibular Canal Staging System. Frontiers in Oncology.[fonc-11-752018.pdf](https://github.com/AtanuBhattacharjee/biostatonco/files/8179305/fonc-11-752018.pdf)
 
-1. Gajendra K Vishwakarma, Pragya Kumari, Atanu Bhattacharjee. Thresholding of prominent biomarkers of breast cancer on overall survival using classification and regression tree.Cancer Biomark.2021 Dec 28. doi: 10.3233/CBM-210470. 
-2. Akash Pawar, Oindrila Roy Chowdhury, Ruby Chauhan ,Sanjay Talole and Atanu Bhattacharjee. Identification of key gene signatures for the overall survival of ovarian cancer.Journal of Ovarian Cancer. [s13048-022-00942-0.pdf](https://github.com/AtanuBhattacharjee/github.io/files/8055913/s13048-022-00942-0.pdf).
-3. Atanu Bhattacharjee. Identification of key genes associated with survival of glioblastoma multiforme using integrated analysis of TCGA datasets.Decision on submission to Computer Methods and Programs in Biomedicine Update.
-4. Gajendra K. Vishwakarma, Atanu Bhattacharjee, Neelesh Kumar. Missing data handling technique in joint modeling context.Biomedical Engineering Advances
+2. Seema SandeepRedekarab . Satishkumar L. Varmaa, Atanu Bhattacharjee.(2022).Identification of key genes associated with survival of glioblastoma multiforme using integrated analysis of TCGA datasets.Computer Methods and Programs in Biomedicine updates. [1-s2.0-S2666990022000039-main (1).pdf](https://github.com/AtanuBhattacharjee/github.io/files/8101653/1-s2.0-S2666990022000039-main.1.pdf)
+
+3. Gajendra K Vishwakarma, Pragya Kumari, Atanu Bhattacharjee. Thresholding of prominent biomarkers of breast cancer on overall survival using classification and regression tree.Cancer Biomark.2021 Dec 28. doi: 10.3233/CBM-210470. 
+4. Akash Pawar, Oindrila Roy Chowdhury, Ruby Chauhan ,Sanjay Talole and Atanu Bhattacharjee. Identification of key gene signatures for the overall survival of ovarian cancer.Journal of Ovarian Cancer. [s13048-022-00942-0.pdf](https://github.com/AtanuBhattacharjee/github.io/files/8055913/s13048-022-00942-0.pdf).
+5. Atanu Bhattacharjee. Identification of key genes associated with survival of glioblastoma multiforme using integrated analysis of TCGA datasets.Decision on submission to Computer Methods and Programs in Biomedicine Update.
+6. Gajendra K. Vishwakarma, Atanu Bhattacharjee, Neelesh Kumar. Missing data handling technique in joint modeling context.Biomedical Engineering Advances
 Volume 2, December 2021, 100012.[1-s2.0-S2667099221000128-main (1).pdf](https://github.com/AtanuBhattacharjee/github.io/files/8055951/1-s2.0-S2667099221000128-main.1.pdf)
 
 
