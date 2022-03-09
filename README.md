@@ -74,9 +74,7 @@ Gouri Pantvaidya, Prathamesh Pai, Atanu Bhattacharjee, Vijay Patil, Asawari Pati
 
 3. Gajendra K Vishwakarma, Pragya Kumari, Atanu Bhattacharjee. Thresholding of prominent biomarkers of breast cancer on overall survival using classification and regression tree.Cancer Biomark.2021 Dec 28. doi: 10.3233/CBM-210470. 
 4. Akash Pawar, Oindrila Roy Chowdhury, Ruby Chauhan ,Sanjay Talole and Atanu Bhattacharjee. Identification of key gene signatures for the overall survival of ovarian cancer.Journal of Ovarian Cancer. [s13048-022-00942-0.pdf](https://github.com/AtanuBhattacharjee/github.io/files/8055913/s13048-022-00942-0.pdf).
-5. Atanu Bhattacharjee. Identification of key genes associated with survival of glioblastoma multiforme using integrated analysis of TCGA datasets.Decision on submission to Computer Methods and Programs in Biomedicine Update.[1-s2.0-S2666990022000039-main.pdf](https://github.com/AtanuBhattacharjee/github.io/files/8216351/1-s2.0-S2666990022000039-main.pdf)
-
-6. Gajendra K. Vishwakarma, Atanu Bhattacharjee, Neelesh Kumar. Missing data handling technique in joint modeling context.Biomedical Engineering Advances
+5. Gajendra K. Vishwakarma, Atanu Bhattacharjee, Neelesh Kumar. Missing data handling technique in joint modeling context.Biomedical Engineering Advances
 Volume 2, December 2021, 100012.[1-s2.0-S2667099221000128-main (1).pdf](https://github.com/AtanuBhattacharjee/github.io/files/8055951/1-s2.0-S2667099221000128-main.1.pdf)
 
 
