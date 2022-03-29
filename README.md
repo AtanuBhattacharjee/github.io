@@ -67,7 +67,10 @@ Complete List of Published Work in My Bibliography:
 https://www.ncbi.nlm.nih.gov/myncbi/atanu.bhattacharjee.1/bibliography/public/
 ## Research Paper
 ### [2022]
-1. Quality of Life in Patients with Locally Advanced Head and Neck Squamous Cell Carcinoma Undergoing Concurrent Chemoradiation with Once-a-Week versus Once-Every-3-Weeks Cisplatin.
+1. Nandini S. Menon,Vanita Noronha,Vijay Maruti Patil,Amit Joshi,
+Atanu Bhattacharjee, Devanshi Kalra, Sarbani Ghosh Laskar,
+Vijayalakshmi Mathrudev,Kavita Nawale,Arati S. Bhelekar,Kumar PrabhashQuality of Life in Patients with Locally Advanced Head and Neck Squamous Cell Carcinoma Undergoing Concurrent Chemoradiation with Once-a-Week versus Once-Every-3-Weeks Cisplatin.[Cancer Medicine - 2022 - Menon - Quality of life in patients with locally advanced head and neck squamous cell carcinoma.pdf](https://github.com/AtanuBhattacharjee/github.io/files/8369977/Cancer.Medicine.-.2022.-.Menon.-.Quality.of.life.in.patients.with.locally.advanced.head.and.neck.squamous.cell.carcinoma.pdf)
+
 2.Nikita Singh, Mukesh Kumar,Atanu Bhattacharjee, Prashant  Kumar Sonker and Agni Saroj. Identification of Biomarkers and Enriched Pathways Involved in Lung Cancer using Statistical Techniques. [paper mukesh.pdf](https://github.com/AtanuBhattacharjee/github.io/files/8255098/paper.mukesh.pdf)
 
 3.Abhishek Mahajan,Navnath Dhone,Richa Vaish, Ankita Singhania, Akshat Malik, Kumar Prabhash, Ankita Ahuja, Nilesh Sable, Pankaj Chaturvedi, Vanita Noronha, Sarbani Gosh Laskar, Ujjwal Agarwal, Shreya Shukla, Gouri Pantvaidya, Prathamesh Pai, Atanu Bhattacharjee, Vijay Patil, Asawari Patil, Munita Bal, Swapnil Rane, Shivakumar Thiagarajan and Anil D’ Cruz(2022).Prognostic Impact of Pattern of Mandibular Involvement in Gingivo-Buccal Complex Squamous Cell Carcinomas: Marrow and Mandibular Canal Staging System. Frontiers in Oncology.[fonc-11-752018.pdf](https://github.com/AtanuBhattacharjee/biostatonco/files/8179305/fonc-11-752018.pdf)
