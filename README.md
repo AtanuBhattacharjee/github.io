@@ -67,7 +67,13 @@ Complete List of Published Work in My Bibliography:
 https://www.ncbi.nlm.nih.gov/myncbi/atanu.bhattacharjee.1/bibliography/public/
 ## Research Paper
 ### [2022]
-1. Nandini S. Menon,Vanita Noronha,Vijay Maruti Patil,Amit Joshi,
+1. Vijay Patil,  Vanita Noronha, Amit Joshi, Nandini Menon, Vijayalakshmi Mathrudev , Atanu Bhattacharjee et al.(2022)RMAC study: A randomized study for evaluation of metronomic adjuvant
+chemotherapy in recurrent head and neck cancers post salvage surgical
+resection in those who are ineligible for re-irradiation [1-s2.0-S1368837522001051-main.pdf](https://github.com/AtanuBhattacharjee/github.io/files/8394629/1-s2.0-S1368837522001051-main.pdf)
+
+
+
+Nandini S. Menon,Vanita Noronha,Vijay Maruti Patil,Amit Joshi,
 Atanu Bhattacharjee, Devanshi Kalra, Sarbani Ghosh Laskar,
 Vijayalakshmi Mathrudev,Kavita Nawale,Arati S. Bhelekar,Kumar PrabhashQuality of Life in Patients with Locally Advanced Head and Neck Squamous Cell Carcinoma Undergoing Concurrent Chemoradiation with Once-a-Week versus Once-Every-3-Weeks Cisplatin.[Cancer Medicine - 2022 - Menon - Quality of life in patients with locally advanced head and neck squamous cell carcinoma.pdf](https://github.com/AtanuBhattacharjee/github.io/files/8369977/Cancer.Medicine.-.2022.-.Menon.-.Quality.of.life.in.patients.with.locally.advanced.head.and.neck.squamous.cell.carcinoma.pdf)
 
