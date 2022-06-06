@@ -67,7 +67,8 @@ Complete List of Published Work in My Bibliography:
 https://www.ncbi.nlm.nih.gov/myncbi/atanu.bhattacharjee.1/bibliography/public/
 ## Research Paper
 ### [2022]
-1. Atanu Bhattacharjee,Gajendra K. Vishwakarma,Namrata Gajare,Neha Singh. Time series analysis using different forecast methods and case fatality rate for COVID-19 pandemic. https://doi.org/10.1111/rsp3.12555Regional Science Policy and Practice.
+1. Atanu Bhattacharjee,Gajendra K. Vishwakarma,Namrata Gajare,Neha Singh. Time series analysis using different forecast methods and case fatality rate for COVID-19 pandemic. https://doi.org/10.1111/rsp3.12555Regional Science Policy and Practice.[Region Sci Policy Practice - 2022 - Bhattacharjee - Time Series Analysis Using Different Forecast Methods and Case Fatality.pdf](https://github.com/AtanuBhattacharjee/github.io/files/8842261/Region.Sci.Policy.Practice.-.2022.-.Bhattacharjee.-.Time.Series.Analysis.Using.Different.Forecast.Methods.and.Case.Fatality.pdf)
+
 2. Vijay Patil,  Vanita Noronha, Amit Joshi, Nandini Menon, Vijayalakshmi Mathrudev , Atanu Bhattacharjee et al.(2022)RMAC study: A randomized study for evaluation of metronomic adjuvant chemotherapy in recurrent head and neck cancers post salvage surgical
 resection in those who are ineligible for re-irradiation [1-s2.0-S1368837522001051-main.pdf](https://github.com/AtanuBhattacharjee/github.io/files/8394629/1-s2.0-S1368837522001051-main.pdf)
 2. Nandini S. Menon,Vanita Noronha,Vijay Maruti Patil,Amit Joshi,
