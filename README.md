@@ -68,9 +68,13 @@ https://www.ncbi.nlm.nih.gov/myncbi/atanu.bhattacharjee.1/bibliography/public/
 ## Research Paper
 ### [2022]
 
+1. AtanuBhattacharjeeaGajendra K.VishwakarmaabSouvikBanerjeebSeng HuatOng.
+  A modified risk detection approach of biomarkers by frailty effect on multiple time to event data.Journal of Computational and Applied Mathematics.https://doi.org/10.1016/j.cam.2022.114681
+
 2. Atanu BhattacharjeeGajendra K. VishwakarmaSouvik BanerjeeAlexander F. Pashchenko. highMLR: An open-source package for R with machine learning for feature
 selection in high dimensional cancer clinical genome time to event data.https://doi.org/10.1016/j.eswa.2022.118432.Expert Systems with Applications
-Volume 210, 30 December 2022, 118432.
+Volume 210, 30 December 2022, 118432.[1-s2.0-S0957417422015329-main.pdf](https://github.com/AtanuBhattacharjee/github.io/files/9423604/1-s2.0-S0957417422015329-main.pdf)
+
 
 3. Atanu Bhattacharjee,Gajendra K. Vishwakarma,Namrata Gajare,Neha Singh. Time series analysis using different forecast methods and case fatality rate for COVID-19 pandemic. https://doi.org/10.1111/rsp3.12555Regional Science Policy and Practice.[Region Sci Policy Practice - 2022 - Bhattacharjee - Time Series Analysis Using Different Forecast Methods and Case Fatality.pdf](https://github.com/AtanuBhattacharjee/github.io/files/8842261/Region.Sci.Policy.Practice.-.2022.-.Bhattacharjee.-.Time.Series.Analysis.Using.Different.Forecast.Methods.and.Case.Fatality.pdf)
 
