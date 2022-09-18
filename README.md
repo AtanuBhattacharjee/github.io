@@ -68,7 +68,11 @@ https://www.ncbi.nlm.nih.gov/myncbi/atanu.bhattacharjee.1/bibliography/public/
 ## Research Paper
 ### [2022]
 
-1. AtanuBhattacharjeeaGajendra K.VishwakarmaabSouvikBanerjeebSeng HuatOng.
+1. Vijay Patila,Sravan Kumara ,Vanita Noronha ,Nandini Menona ,Kavita Prakash ,Nawaea MitaliA, Gopi chand Waratkara, Sachin Dhumal ,Atanu Bhattacharjee ,Kumar Prabhash . Long term outcomes of a randomized controlled clinical trial comparing the efficacy of Cabazitaxel versus docetaxel as second-line or above therapy in recurrent head and neck cancer
+[1-s2.0-S1368837522003748-main.pdf](https://github.com/AtanuBhattacharjee/github.io/files/9594887/1-s2.0-S1368837522003748-main.pdf)
+
+
+AtanuBhattacharjeeaGajendra K.VishwakarmaabSouvikBanerjeebSeng HuatOng.
   A modified risk detection approach of biomarkers by frailty effect on multiple time to event data.Journal of Computational and Applied Mathematics.https://doi.org/10.1016/j.cam.2022.114681
 
 2. Atanu BhattacharjeeGajendra K. VishwakarmaSouvik BanerjeeAlexander F. Pashchenko. highMLR: An open-source package for R with machine learning for feature
