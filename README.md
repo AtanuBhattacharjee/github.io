@@ -68,37 +68,42 @@ https://www.ncbi.nlm.nih.gov/myncbi/atanu.bhattacharjee.1/bibliography/public/
 ## Research Paper
 ### [2022]
 
-1. Vijay Patila,Sravan Kumara ,Vanita Noronha ,Nandini Menona ,Kavita Prakash ,Nawaea MitaliA, Gopi chand Waratkara, Sachin Dhumal ,Atanu Bhattacharjee ,Kumar Prabhash . Long term outcomes of a randomized controlled clinical trial comparing the efficacy of Cabazitaxel versus docetaxel as second-line or above therapy in recurrent head and neck cancer
+1. Atanu Bhattacharjee,Jishu Dey, Pragya Kumari. A combined iterative sure independence screening and Cox proportion hazard model for extracting and analyzing prognostic biomarkers of adenocarcinoma lung cancer.Healthcare Analytics
+Available online 13 September 2022, 100108
+[1-s2.0-S277244252200048X-main.pdf](https://github.com/AtanuBhattacharjee/github.io/files/9594899/1-s2.0-S277244252200048X-main.pdf)
+
+
+2. Vijay Patila,Sravan Kumara ,Vanita Noronha ,Nandini Menona ,Kavita Prakash ,Nawaea MitaliA, Gopi chand Waratkara, Sachin Dhumal ,Atanu Bhattacharjee ,Kumar Prabhash . Long term outcomes of a randomized controlled clinical trial comparing the efficacy of Cabazitaxel versus docetaxel as second-line or above therapy in recurrent head and neck cancer
 [1-s2.0-S1368837522003748-main.pdf](https://github.com/AtanuBhattacharjee/github.io/files/9594887/1-s2.0-S1368837522003748-main.pdf)
 
 
-AtanuBhattacharjeeaGajendra K.VishwakarmaabSouvikBanerjeebSeng HuatOng.
+3. AtanuBhattacharjeeaGajendra K.VishwakarmaabSouvikBanerjeebSeng HuatOng.
   A modified risk detection approach of biomarkers by frailty effect on multiple time to event data.Journal of Computational and Applied Mathematics.https://doi.org/10.1016/j.cam.2022.114681
 
-2. Atanu BhattacharjeeGajendra K. VishwakarmaSouvik BanerjeeAlexander F. Pashchenko. highMLR: An open-source package for R with machine learning for feature
+4. Atanu BhattacharjeeGajendra K. VishwakarmaSouvik BanerjeeAlexander F. Pashchenko. highMLR: An open-source package for R with machine learning for feature
 selection in high dimensional cancer clinical genome time to event data.https://doi.org/10.1016/j.eswa.2022.118432.Expert Systems with Applications
 Volume 210, 30 December 2022, 118432.[1-s2.0-S0957417422015329-main.pdf](https://github.com/AtanuBhattacharjee/github.io/files/9423604/1-s2.0-S0957417422015329-main.pdf)
 
 
-3. Atanu Bhattacharjee,Gajendra K. Vishwakarma,Namrata Gajare,Neha Singh. Time series analysis using different forecast methods and case fatality rate for COVID-19 pandemic. https://doi.org/10.1111/rsp3.12555Regional Science Policy and Practice.[Region Sci Policy Practice - 2022 - Bhattacharjee - Time Series Analysis Using Different Forecast Methods and Case Fatality.pdf](https://github.com/AtanuBhattacharjee/github.io/files/8842261/Region.Sci.Policy.Practice.-.2022.-.Bhattacharjee.-.Time.Series.Analysis.Using.Different.Forecast.Methods.and.Case.Fatality.pdf)
+5. Atanu Bhattacharjee,Gajendra K. Vishwakarma,Namrata Gajare,Neha Singh. Time series analysis using different forecast methods and case fatality rate for COVID-19 pandemic. https://doi.org/10.1111/rsp3.12555Regional Science Policy and Practice.[Region Sci Policy Practice - 2022 - Bhattacharjee - Time Series Analysis Using Different Forecast Methods and Case Fatality.pdf](https://github.com/AtanuBhattacharjee/github.io/files/8842261/Region.Sci.Policy.Practice.-.2022.-.Bhattacharjee.-.Time.Series.Analysis.Using.Different.Forecast.Methods.and.Case.Fatality.pdf)
 
-4. Vijay Patil,  Vanita Noronha, Amit Joshi, Nandini Menon, Vijayalakshmi Mathrudev , Atanu Bhattacharjee et al.(2022)RMAC study: A randomized study for evaluation of metronomic adjuvant chemotherapy in recurrent head and neck cancers post salvage surgical
+6. Vijay Patil,  Vanita Noronha, Amit Joshi, Nandini Menon, Vijayalakshmi Mathrudev , Atanu Bhattacharjee et al.(2022)RMAC study: A randomized study for evaluation of metronomic adjuvant chemotherapy in recurrent head and neck cancers post salvage surgical
 resection in those who are ineligible for re-irradiation [1-s2.0-S1368837522001051-main.pdf](https://github.com/AtanuBhattacharjee/github.io/files/8394629/1-s2.0-S1368837522001051-main.pdf)
-5. Nandini S. Menon,Vanita Noronha,Vijay Maruti Patil,Amit Joshi,
+7. Nandini S. Menon,Vanita Noronha,Vijay Maruti Patil,Amit Joshi,
 Atanu Bhattacharjee, Devanshi Kalra, Sarbani Ghosh Laskar,
 Vijayalakshmi Mathrudev,Kavita Nawale,Arati S. Bhelekar,Kumar PrabhashQuality of Life in Patients with Locally Advanced Head and Neck Squamous Cell Carcinoma Undergoing Concurrent Chemoradiation with Once-a-Week versus Once-Every-3-Weeks Cisplatin.[Cancer Medicine - 2022 - Menon - Quality of life in patients with locally advanced head and neck squamous cell carcinoma.pdf](https://github.com/AtanuBhattacharjee/github.io/files/8369977/Cancer.Medicine.-.2022.-.Menon.-.Quality.of.life.in.patients.with.locally.advanced.head.and.neck.squamous.cell.carcinoma.pdf)
 
-6.Nikita Singh, Mukesh Kumar,Atanu Bhattacharjee, Prashant  Kumar Sonker and Agni Saroj. Identification of Biomarkers and Enriched Pathways Involved in Lung Cancer using Statistical Techniques. [paper mukesh.pdf](https://github.com/AtanuBhattacharjee/github.io/files/8255098/paper.mukesh.pdf)
+8.Nikita Singh, Mukesh Kumar,Atanu Bhattacharjee, Prashant  Kumar Sonker and Agni Saroj. Identification of Biomarkers and Enriched Pathways Involved in Lung Cancer using Statistical Techniques. [paper mukesh.pdf](https://github.com/AtanuBhattacharjee/github.io/files/8255098/paper.mukesh.pdf)
 
-7.Abhishek Mahajan,Navnath Dhone,Richa Vaish, Ankita Singhania, Akshat Malik, Kumar Prabhash, Ankita Ahuja, Nilesh Sable, Pankaj Chaturvedi, Vanita Noronha, Sarbani Gosh Laskar, Ujjwal Agarwal, Shreya Shukla, Gouri Pantvaidya, Prathamesh Pai, Atanu Bhattacharjee, Vijay Patil, Asawari Patil, Munita Bal, Swapnil Rane, Shivakumar Thiagarajan and Anil D’ Cruz(2022).Prognostic Impact of Pattern of Mandibular Involvement in Gingivo-Buccal Complex Squamous Cell Carcinomas: Marrow and Mandibular Canal Staging System. Frontiers in Oncology.[fonc-11-752018.pdf](https://github.com/AtanuBhattacharjee/biostatonco/files/8179305/fonc-11-752018.pdf)
+9.Abhishek Mahajan,Navnath Dhone,Richa Vaish, Ankita Singhania, Akshat Malik, Kumar Prabhash, Ankita Ahuja, Nilesh Sable, Pankaj Chaturvedi, Vanita Noronha, Sarbani Gosh Laskar, Ujjwal Agarwal, Shreya Shukla, Gouri Pantvaidya, Prathamesh Pai, Atanu Bhattacharjee, Vijay Patil, Asawari Patil, Munita Bal, Swapnil Rane, Shivakumar Thiagarajan and Anil D’ Cruz(2022).Prognostic Impact of Pattern of Mandibular Involvement in Gingivo-Buccal Complex Squamous Cell Carcinomas: Marrow and Mandibular Canal Staging System. Frontiers in Oncology.[fonc-11-752018.pdf](https://github.com/AtanuBhattacharjee/biostatonco/files/8179305/fonc-11-752018.pdf)
 
-8. Seema SandeepRedekarab . Satishkumar L. Varmaa, Atanu Bhattacharjee.(2022).Identification of key genes associated with survival of glioblastoma multiforme using integrated analysis of TCGA datasets.Computer Methods and Programs in Biomedicine updates. [1-s2.0-S2666990022000039-main (1).pdf](https://github.com/AtanuBhattacharjee/github.io/files/8101653/1-s2.0-S2666990022000039-main.1.pdf)
+10. Seema SandeepRedekarab . Satishkumar L. Varmaa, Atanu Bhattacharjee.(2022).Identification of key genes associated with survival of glioblastoma multiforme using integrated analysis of TCGA datasets.Computer Methods and Programs in Biomedicine updates. [1-s2.0-S2666990022000039-main (1).pdf](https://github.com/AtanuBhattacharjee/github.io/files/8101653/1-s2.0-S2666990022000039-main.1.pdf)
 
-9. Gajendra K Vishwakarma, Pragya Kumari, Atanu Bhattacharjee. Thresholding of prominent biomarkers of breast cancer on overall survival using classification and regression tree.Cancer Biomark.2021 Dec 28. doi: 10.3233/CBM-210470. 
+11. Gajendra K Vishwakarma, Pragya Kumari, Atanu Bhattacharjee. Thresholding of prominent biomarkers of breast cancer on overall survival using classification and regression tree.Cancer Biomark.2021 Dec 28. doi: 10.3233/CBM-210470. 
 
-10. Akash Pawar, Oindrila Roy Chowdhury, Ruby Chauhan ,Sanjay Talole and Atanu Bhattacharjee. Identification of key gene signatures for the overall survival of ovarian cancer.Journal of Ovarian Cancer. [s13048-022-00942-0.pdf](https://github.com/AtanuBhattacharjee/github.io/files/8055913/s13048-022-00942-0.pdf).
+12. Akash Pawar, Oindrila Roy Chowdhury, Ruby Chauhan ,Sanjay Talole and Atanu Bhattacharjee. Identification of key gene signatures for the overall survival of ovarian cancer.Journal of Ovarian Cancer. [s13048-022-00942-0.pdf](https://github.com/AtanuBhattacharjee/github.io/files/8055913/s13048-022-00942-0.pdf).
 
-11. Gajendra K. Vishwakarma, Atanu Bhattacharjee, Neelesh Kumar. Missing data handling technique in joint modeling context.Biomedical Engineering Advances
+13. Gajendra K. Vishwakarma, Atanu Bhattacharjee, Neelesh Kumar. Missing data handling technique in joint modeling context.Biomedical Engineering Advances
 Volume 2, December 2021, 100012.[1-s2.0-S2667099221000128-main (1).pdf](https://github.com/AtanuBhattacharjee/github.io/files/8055951/1-s2.0-S2667099221000128-main.1.pdf)
 
 
