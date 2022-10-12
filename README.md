@@ -1,7 +1,6 @@
 ![22411298](https://user-images.githubusercontent.com/22411298/83512337-b17a2d00-a4ed-11ea-85c8-ef890e47a826.png)
 ## Atanu Bhattacharjee,Ph.D (Statistics)
-Assistant Professor Biostatistics
-Centre for Cancer Epidemiology, Tata Memorial Centre, India
+
 ## Biography
 I worked as Assistant Professor Biostatistics in the Section of Biostatistics, Centre for Cancer Epidemiology, Tata Memorial Centre, Mumbai.I am also an Ajunct Professor of Statistics at Department of Applied Mathematics, Indian Institute of Technology-Dhanbad. I completed by Ph.D in statistics under the supervision of Dr. Dilip C Nath.
 My research interests include Bayesian inference, longitudinal data analysis, survival analysis, gene expression data analysis.
