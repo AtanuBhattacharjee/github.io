@@ -67,7 +67,8 @@ https://www.ncbi.nlm.nih.gov/myncbi/atanu.bhattacharjee.1/bibliography/public/
 ## Research Paper
 ### [2023]
 Vijay Patil,a Vanita Noronha,a Nandini Menon,a Vijayalakshmi Mathrudev,a Atanu Bhattacharjee,b,c Kavita Nawale,a Deevyashali Parekh,a
-Shripad Banavali,a and Kumar Prabhash "Metronomic adjuvant chemotherapy evaluation in locally advanced head and neck cancers post radical chemoradiation–a randomised trial"The Lancet Regional Health - Southeast Asia 2023;: 100162
+Shripad Banavali,a and Kumar Prabhash "Metronomic adjuvant chemotherapy evaluation in locally advanced head and neck cancers post radical chemoradiation–a randomised trial"The Lancet Regional Health - Southeast Asia 2023;: 100162.[1-s2.0-S2772368223000227-main.pdf](https://github.com/AtanuBhattacharjee/github.io/files/10830752/1-s2.0-S2772368223000227-main.pdf)
+
 ### [2022]
 
 1. Vijay Maruti Patil,Vanita Noronha,Nandini Menon, Ajay Singh , Sarbani Ghosh-Laskar, Ashwini Budrukkar, Atanu Bhattacharjee. "Results of phase 3 randomised trial for use of docetaxel as a radiosensitizer in Head and Neck cancer patients, unsuitable for cisplatin-based chemoradiation".(Accepted). Journal of Clinical Oncology.Impact Factor 44.54.
